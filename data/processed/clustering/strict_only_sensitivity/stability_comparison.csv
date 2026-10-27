@@ -1,0 +1,2 @@
+original_records,retained_records_compared,original_cluster_count,sensitivity_best_k,adjusted_rand_index,note
+3095,2972,8,5,0.5261923553999984,ARI compares memberships on the same retained records; cluster numbers are arbitrary and need not match.

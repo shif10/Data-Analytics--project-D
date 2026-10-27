@@ -1,3 +1,46 @@
+# ---- Data ----
+# Raw OpenAlex pulls are large and re-creatable from the pipeline — do not commit.
+data/raw/*
+!data/raw/.gitkeep
 
+# Processed layers are build artifacts — re-created by the pipeline.
+data/processed/*
+!data/processed/.gitkeep
+
+# NOTE: data/external/ IS committed on purpose (SCImago + Scopus, fetched by hand).
+
+# ---- Python ----
+__pycache__/
+*.py[cod]
+.Python
+build/
+dist/
+*.egg-info/
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# ---- Jupyter ----
+.ipynb_checkpoints/
+
+# ---- Tooling / caches ----
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# ---- OS / editor ----
+.DS_Store
+Thumbs.db
+*.swp
+.vscode/
+.idea/
+
+# ---- Secrets ----
+.env
+
+# ---- From main ----
 *.jsonl
 project-d-backup/

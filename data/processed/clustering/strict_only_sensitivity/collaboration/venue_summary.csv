@@ -1,0 +1,1225 @@
+venue,publications,share_pct_of_retained_records,first_year,last_year,distinct_eu_countries,eu_countries
+Education Sciences,81,2.73,2021,2026,21,AT; BE; BG; CY; DE; DK; EE; ES; FI; FR; GR; HR; HU; IT; NL; PL; PT; RO; SE; SI; SK
+Frontiers in Education,73,2.46,2020,2026,19,AT; BG; CY; CZ; DE; DK; EE; ES; FI; FR; GR; HU; IT; NL; PL; PT; RO; SE; SK
+Applied Sciences,66,2.22,2020,2026,16,BE; BG; CY; CZ; DE; ES; FI; FR; GR; HR; IT; LV; PL; PT; RO; SE
+Lecture notes in networks and systems,56,1.88,2020,2026,17,AT; BG; CY; DE; EE; ES; FI; FR; GR; HU; IT; LT; LV; NL; PT; RO; SE
+Communications in computer and information science,53,1.78,2020,2026,18,BE; CZ; DE; DK; EE; ES; FI; FR; GR; HR; IE; IT; LT; LU; MT; NL; PL; PT
+Sustainability,46,1.55,2020,2026,18,BE; BG; CY; EE; ES; FI; FR; GR; HR; IE; IT; LT; LV; PL; PT; RO; SI; SK
+IEEE Access,43,1.45,2020,2026,19,BE; CY; CZ; DE; DK; EE; ES; FI; FR; GR; HR; HU; IE; IT; NL; PT; RO; SE; SK
+Computers and Education Artificial Intelligence,40,1.35,2021,2026,18,BE; CY; CZ; DE; DK; EE; ES; FI; FR; GR; HU; IT; LT; NL; PT; SE; SI; SK
+Scientific Reports,39,1.31,2020,2026,17,AT; BE; DE; DK; EE; ES; FI; FR; GR; HR; HU; IE; IT; LT; NL; PL; SE
+Information,36,1.21,2021,2026,14,BG; CY; DE; ES; FR; GR; HR; HU; IE; IT; LT; LU; PT; SE
+Alzheimer s & Dementia,26,0.87,2020,2026,10,DE; DK; ES; FR; GR; IE; IT; LU; NL; SE
+International Journal of Artificial Intelligence in Education,25,0.84,2020,2025,10,DE; EE; ES; FI; FR; HU; IT; NL; RO; SK
+Frontiers in Psychology,24,0.81,2020,2026,15,AT; BE; BG; CY; DE; ES; FI; FR; HU; IE; IT; LU; NL; PL; PT
+Education and Information Technologies,23,0.77,2020,2026,15,AT; BE; CY; CZ; DE; ES; FI; FR; GR; IE; LT; NL; PL; PT; SE
+Electronics,23,0.77,2021,2026,14,BG; CY; DE; ES; FR; GR; HR; IE; IT; PL; PT; RO; SI; SK
+Computers,21,0.71,2023,2026,9,AT; ES; FR; GR; HU; IT; LV; PT; RO
+Computers and Education Open,21,0.71,2021,2026,9,AT; DE; EE; ES; FI; PL; RO; SE; SK
+Frontiers in Artificial Intelligence,17,0.57,2024,2026,12,CY; DE; ES; FR; GR; IE; IT; NL; PL; PT; RO; SE
+Journal of Computer Assisted Learning,17,0.57,2020,2026,12,AT; BE; CY; CZ; DE; EE; ES; FI; HR; IE; LT; NL
+Lecture notes in educational technology,17,0.57,2020,2026,10,CY; DE; ES; FI; FR; GR; IT; MT; PT; SE
+Lecture notes on data engineering and communications technologies,16,0.54,2022,2026,8,BE; DE; ES; FR; GR; IT; SI; SK
+Sensors,16,0.54,2021,2026,9,CZ; ES; FR; GR; HU; IT; PL; PT; RO
+Journal of the Association for Information Systems,15,0.5,2020,2026,10,AT; DE; DK; EE; FI; FR; GR; PL; PT; SE
+AI & Society,14,0.47,2023,2026,8,DE; DK; ES; HR; IT; NL; SE; SI
+British Journal of Educational Technology,14,0.47,2022,2026,8,AT; DE; ES; FI; FR; NL; PL; SE
+BMC Medical Education,13,0.44,2024,2026,9,CY; DE; ES; FI; FR; NL; PL; SE; SI
+European Heart Journal,13,0.44,2020,2026,10,AT; BE; DE; DK; ES; FI; GR; IT; NL; PL
+Humanities and Social Sciences Communications,12,0.4,2021,2026,9,CY; DE; ES; FI; HU; IT; PL; RO; SI
+International Journal of Educational Technology in Higher Education,12,0.4,2023,2026,8,AT; DE; ES; FR; GR; NL; PT; SE
+Learning Media and Technology,12,0.4,2020,2026,6,BE; DE; EE; FI; NL; SE
+Computers & Education,11,0.37,2020,2026,5,DE; ES; FI; IT; NL
+European Journal of Education,11,0.37,2022,2026,7,BE; DE; FI; LT; NL; PL; SE
+Frontiers in Public Health,11,0.37,2021,2026,7,CZ; DE; IE; IT; PT; RO; SI
+IEEE Transactions on Learning Technologies,11,0.37,2020,2025,6,DE; ES; FI; IE; IT; NL
+Societies,11,0.37,2020,2026,6,CY; CZ; ES; GR; IT; RO
+Technology Knowledge and Learning,11,0.37,2024,2026,10,AT; DE; ES; FI; FR; IE; IT; MT; NL; PL
+Algorithms,10,0.34,2020,2026,5,CY; DE; ES; GR; PT
+Discover Education,10,0.34,2024,2026,9,DE; EE; ES; FI; GR; LT; PT; SE; SI
+Educational Technology Research and Development,10,0.34,2020,2026,5,CY; DE; ES; HU; PL
+Frontiers in Computer Science,10,0.34,2025,2026,6,DE; DK; ES; FI; IT; SE
+PLoS ONE,10,0.34,2022,2026,12,BE; CY; DE; DK; ES; GR; IE; LU; NL; PL; SE; SI
+Studies in health technology and informatics,10,0.34,2024,2026,8,AT; DE; ES; FI; GR; IT; RO; SE
+Frontiers in artificial intelligence and applications,9,0.3,2020,2026,6,BG; CZ; DE; FI; FR; GR
+Innovations in Education and Teaching International,9,0.3,2024,2026,7,AT; DE; EE; ES; FI; NL; PT
+International Journal of Human-Computer Interaction,9,0.3,2025,2026,8,AT; DE; DK; EE; ES; FI; FR; IT
+JMIR Medical Education,9,0.3,2023,2026,7,AT; DE; ES; HU; IE; NL; SE
+Systems,9,0.3,2023,2026,5,AT; CY; CZ; ES; SI
+TEM Journal,9,0.3,2021,2025,5,BG; CY; GR; HR; SK
+Trends in Higher Education,9,0.3,2022,2026,7,CY; DE; ES; HU; NL; PT; SE
+Educational Psychology Review,8,0.27,2024,2026,4,DE; DK; LT; NL
+Future Internet,8,0.27,2021,2026,8,CY; DE; ES; GR; IE; IT; SI; SK
+IFIP advances in information and communication technology,8,0.27,2021,2026,9,FR; GR; HR; IT; MT; NL; PL; SE; SI
+Interactive Learning Environments,8,0.27,2020,2026,6,DE; DK; ES; FR; GR; IT
+Journal of Chemical Education,8,0.27,2024,2026,4,AT; DE; ES; PT
+AI,7,0.24,2024,2026,4,CY; GR; IE; IT
+Acta Psychologica,7,0.24,2026,2026,7,AT; DE; ES; FI; HU; PT; SE
+Amfiteatru Economic,7,0.24,2024,2024,2,DE; RO
+Big Data and Cognitive Computing,7,0.24,2023,2026,5,AT; BE; DE; HU; IT
+Computer Applications in Engineering Education,7,0.24,2022,2026,4,CZ; ES; LT; NL
+Emerging Science Journal,7,0.24,2021,2025,3,ES; PL; PT
+European Journal of Public Health,7,0.24,2022,2025,7,BG; ES; FR; HU; IT; NL; SI
+Expert Systems with Applications,7,0.24,2021,2026,4,ES; GR; HR; IE
+Healthcare,7,0.24,2024,2026,5,BG; GR; IT; PL; SE
+IEEE Revista Iberoamericana de Tecnologias del Aprendizaje,7,0.24,2020,2026,3,ES; FI; PT
+International Journal of Information and Education Technology,7,0.24,2024,2026,6,BE; CY; DE; ES; GR; MT
+Lecture notes in business information processing,7,0.24,2022,2026,5,DE; DK; FI; FR; PL
+Multimodal Technologies and Interaction,7,0.24,2022,2026,6,CY; ES; FR; GR; IE; IT
+Nurse Education in Practice,7,0.24,2023,2026,5,AT; DK; FI; IE; SI
+Palgrave studies in creativity and culture,7,0.24,2024,2024,3,FI; FR; NL
+PeerJ Computer Science,7,0.24,2022,2026,4,CY; ES; IE; RO
+Social Sciences & Humanities Open,7,0.24,2025,2026,5,EE; ES; GR; HU; IE
+Behaviour and Information Technology,6,0.2,2024,2026,8,BE; DE; ES; FI; FR; IT; NL; SE
+Data in Brief,6,0.2,2020,2026,6,FI; FR; IE; IT; SE; SI
+Frontiers in Medicine,6,0.2,2024,2026,4,DE; ES; GR; IT
+International Journal of Epidemiology,6,0.2,2023,2026,5,DK; EE; FI; NL; SE
+International Journal of Interactive Multimedia and Artificial Intelligence,6,0.2,2020,2026,1,ES
+Journal of Educational Computing Research,6,0.2,2022,2026,6,BE; CY; DK; EE; FI; GR
+Journal of Educational Cultural and Psychological Studies (ECPS Journal),6,0.2,2025,2026,1,IT
+Journal of Medical Internet Research,6,0.2,2021,2026,6,AT; DE; ES; FR; NL; SE
+Journal of Science Education and Technology,6,0.2,2020,2026,3,DE; IE; SE
+Mathematics,6,0.2,2022,2026,5,BG; GR; RO; SI; SK
+Postdigital Science and Education,6,0.2,2022,2026,9,DE; EE; FI; HR; IE; IT; NL; PT; SE
+SAGE Open,6,0.2,2024,2026,4,CY; CZ; ES; PL
+"Smart innovation, systems and technologies",6,0.2,2020,2025,4,IT; NL; PT; RO
+Studies in Higher Education,6,0.2,2024,2026,5,BE; FI; IT; NL; SE
+Studies in computational intelligence,6,0.2,2022,2026,5,BE; CY; GR; HU; SK
+Technology in Society,6,0.2,2020,2026,6,AT; BG; ES; FI; HR; SE
+The International Journal of Management Education,6,0.2,2024,2026,7,AT; ES; FI; HU; IE; IT; SE
+AHFE international,5,0.17,2022,2026,4,BG; FI; IT; NL
+Cogent Education,5,0.17,2024,2026,4,AT; CZ; ES; FI
+Computers in Human Behavior,5,0.17,2022,2026,5,DE; ES; FI; IT; RO
+European Journal Of Dental Education,5,0.17,2025,2026,7,CY; DE; ES; HU; IE; LV; NL
+European Journal of Teacher Education,5,0.17,2025,2026,5,AT; DE; FI; IE; SE
+Frontiers in Digital Health,5,0.17,2025,2026,8,DE; ES; GR; HU; IE; IT; NL; SI
+Frontiers in Psychiatry,5,0.17,2023,2026,4,DE; FI; IE; NL
+Higher Education,5,0.17,2024,2025,6,DE; DK; FI; IT; NL; SE
+IEEE Signal Processing Magazine,5,0.17,2021,2025,5,BG; DE; DK; FR; NL
+IJERI International Journal of Educational Research and Innovation,5,0.17,2024,2026,1,ES
+Informatics,5,0.17,2024,2026,5,BG; ES; GR; HR; RO
+International Transactions in Operational Research,5,0.17,2023,2025,6,BE; ES; FR; GR; IT; NL
+Journal of Information Technology Education Research,5,0.17,2025,2026,4,ES; GR; IT; MT
+Journal of Knowledge Management,5,0.17,2026,2026,5,CY; FR; HU; IT; SK
+Journal of Learning Analytics,5,0.17,2023,2026,4,DE; FR; NL; SE
+Journal of Research in Science Teaching,5,0.17,2020,2025,3,CY; DE; NL
+Journal of University Teaching and Learning Practice,5,0.17,2024,2025,7,CY; CZ; DE; ES; HU; IE; SE
+Journal of the Royal Statistical Society Series C (Applied Statistics),5,0.17,2020,2021,7,DE; ES; FR; GR; IE; IT; NL
+Learning and Instruction,5,0.17,2023,2026,3,DE; FR; IE
+Nurse Education Today,5,0.17,2025,2026,5,FI; IE; IT; PT; SI
+PLOS Digital Health,5,0.17,2024,2026,6,FI; IE; IT; NL; PT; SE
+Philosophy & Technology,5,0.17,2024,2026,3,IE; IT; NL
+Physical Review Physics Education Research,5,0.17,2023,2026,2,DE; SE
+Quality & Quantity,5,0.17,2021,2026,8,CZ; DE; EE; HU; IT; PL; PT; SI
+Revista de Educación a Distancia (RED),5,0.17,2020,2026,3,ES; FI; IE
+Socio-Economic Planning Sciences,5,0.17,2022,2026,7,CZ; ES; IT; NL; PT; RO; SE
+SoftwareX,5,0.17,2023,2025,3,BE; DE; ES
+The Electronic Journal of e-Learning,5,0.17,2023,2026,6,DE; ES; FR; PL; PT; SE
+Advances in intelligent systems and computing,4,0.13,2020,2021,3,DE; EE; ES
+Artificial Intelligence Review,4,0.13,2025,2026,4,DE; ES; FI; HU
+Assessment & Evaluation in Higher Education,4,0.13,2023,2026,2,DK; SE
+Computers in Human Behavior Reports,4,0.13,2025,2026,5,CZ; DE; EE; FI; HU
+Digital Health,4,0.13,2023,2026,3,CY; ES; IT
+Digital Library Perspectives,4,0.13,2024,2025,1,IT
+Discover Artificial Intelligence,4,0.13,2022,2026,4,DE; FI; IT; SE
+Discover Computing,4,0.13,2025,2026,6,BG; ES; FI; GR; LT; SE
+EAI/Springer Innovations in Communication and Computing,4,0.13,2024,2026,3,CZ; ES; LT
+European Heart Journal - Digital Health,4,0.13,2021,2022,1,NL
+Frontiers in Nutrition,4,0.13,2022,2025,5,DE; ES; GR; IT; PT
+Frontiers in Robotics and AI,4,0.13,2020,2025,7,DE; FR; GR; IE; IT; NL; SE
+Higher Education Research & Development,4,0.13,2021,2026,4,BE; ES; IE; PL
+INFORMS journal on computing,4,0.13,2020,2026,4,DE; ES; FR; PL
+Intelligent systems reference library,4,0.13,2022,2025,2,GR; RO
+International Journal for Educational Integrity,4,0.13,2023,2026,5,CZ; EE; ES; FI; SE
+International Journal of Child-Computer Interaction,4,0.13,2020,2023,2,DK; FI
+International Journal of Educational Research,4,0.13,2024,2026,3,DE; ES; FI
+International Journal of Environmental Research and Public Health,4,0.13,2021,2022,6,CZ; ES; IE; IT; PL; RO
+International Journal of STEM Education,4,0.13,2025,2026,3,CZ; DE; SE
+JMIR Medical Informatics,4,0.13,2021,2025,3,IT; NL; SE
+Journal of Clinical Medicine,4,0.13,2024,2026,4,DE; ES; IT; PL
+Journal of Technology and Science Education,4,0.13,2024,2025,1,ES
+Labour Economics,4,0.13,2021,2026,4,AT; DE; FR; IT
+"Lecture notes of the Institute for Computer Sciences, Social Informatics and Telecommunications Engineering",4,0.13,2021,2026,4,CY; DK; GR; SK
+Machine Learning and Knowledge Extraction,4,0.13,2024,2026,4,AT; BG; EE; HR
+Open Praxis,4,0.13,2024,2026,3,DE; IE; PT
+Scientific Data,4,0.13,2024,2026,4,CZ; HU; IT; SE
+Smart Learning Environments,4,0.13,2023,2026,6,CY; DE; ES; FI; GR; HR
+Springer series on cultural computing,4,0.13,2023,2025,4,DE; FI; GR; RO
+Sustainable Development,4,0.13,2023,2026,5,DE; ES; LT; PL; SE
+World sustainability series,4,0.13,2026,2026,5,DE; IE; LT; PL; PT
+ZDM,4,0.13,2022,2026,4,BE; DE; ES; SE
+Academic Quarter | Akademisk kvarter,3,0.1,2025,2025,1,DK
+Artificial Intelligence and Applications,3,0.1,2026,2026,2,FR; GR
+Asian-Pacific Journal of Second and Foreign Language Education,3,0.1,2025,2026,5,CZ; ES; NL; PL; SK
+BMC Public Health,3,0.1,2023,2026,5,ES; FR; IT; PT; SE
+BMJ Open,3,0.1,2022,2026,4,BE; DE; FI; SE
+Computer Speech & Language,3,0.1,2023,2024,2,ES; NL
+Contemporary Educational Technology,3,0.1,2024,2026,3,CY; DE; GR
+Digital Education Review,3,0.1,2024,2024,2,ES; PT
+EBioMedicine,3,0.1,2021,2026,4,CZ; DE; FI; IT
+Educational Process International Journal,3,0.1,2021,2024,2,ES; GR
+Encyclopedia,3,0.1,2025,2026,2,CY; GR
+Eurasia Journal of Mathematics Science and Technology Education,3,0.1,2025,2026,2,ES; PT
+European Journal of Cardio-Thoracic Surgery,3,0.1,2025,2026,5,AT; CZ; DE; IT; NL
+European Journal of Cardiovascular Nursing,3,0.1,2023,2025,3,BE; LU; SE
+European Psychiatry,3,0.1,2025,2026,2,DE; ES
+Expert Systems,3,0.1,2021,2022,2,PT; RO
+F1000Research,3,0.1,2024,2024,1,ES
+Frontiers in Cardiovascular Medicine,3,0.1,2022,2025,5,DE; GR; IT; NL; SE
+Frontiers in Human Dynamics,3,0.1,2021,2026,5,DE; FI; IT; PL; RO
+Frontiers in Oncology,3,0.1,2024,2026,3,FR; IT; NL
+Frontiers in Sports and Active Living,3,0.1,2025,2026,5,ES; IT; LU; RO; SE
+Frontiers in Surgery,3,0.1,2023,2026,4,DE; GR; IT; SE
+Frontiers in Veterinary Science,3,0.1,2024,2026,2,CY; ES
+Heliyon,3,0.1,2023,2024,2,ES; SE
+Higher Education Quarterly,3,0.1,2025,2026,3,CZ; DE; ES
+Indonesian Journal of Electrical Engineering and Computer Science,3,0.1,2022,2025,1,HU
+Informatics in Education,3,0.1,2023,2024,3,DE; PL; SI
+Information Sciences,3,0.1,2020,2024,2,ES; GR
+Information and Learning Sciences,3,0.1,2024,2025,2,DE; FI
+International Dental Journal,3,0.1,2025,2026,4,CZ; DE; FI; NL
+International Journal of Electronics and Telecommunications,3,0.1,2024,2026,1,PL
+International Journal of Emerging Technologies in Learning (iJET),3,0.1,2023,2023,3,CY; GR; HU
+International Journal of Engineering Pedagogy (iJEP),3,0.1,2022,2026,2,CZ; GR
+International Journal of Human-Computer Studies,3,0.1,2025,2026,2,ES; IT
+International Journal of Lifelong Education,3,0.1,2024,2026,3,DE; DK; IT
+International Journal of Medical Informatics,3,0.1,2022,2025,6,ES; FI; GR; IT; NL; SE
+International Journal of Modern Education and Computer Science,3,0.1,2024,2026,4,DE; FR; PT; SK
+International Journal of Science Education,3,0.1,2024,2025,2,DE; GR
+International online journal of education and teaching,3,0.1,2025,2026,3,BG; CY; PT
+JMIR Serious Games,3,0.1,2020,2024,4,AT; CZ; DE; GR
+JUCS - Journal of Universal Computer Science,3,0.1,2023,2025,3,AT; EE; ES
+Journal of Affective Disorders,3,0.1,2020,2025,2,IT; NL
+Journal of Computers in Education,3,0.1,2024,2026,3,DE; HU; PT
+Journal of Global Information Management,3,0.1,2026,2026,3,CY; HU; IT
+Journal of Interactive Media in Education,3,0.1,2021,2025,3,FI; IE; NL
+Journal of Personalized Medicine,3,0.1,2024,2024,4,BE; DK; HR; IT
+Journal of Research on Technology in Education,3,0.1,2022,2026,4,ES; FR; IE; SE
+Journal of the American Society of Nephrology,3,0.1,2022,2022,1,DE
+Journal of the Knowledge Economy,3,0.1,2026,2026,3,ES; FI; PT
+Language Teaching Research Quarterly,3,0.1,2024,2025,3,CY; CZ; DE
+Multidisciplinary Reviews,3,0.1,2025,2026,3,CZ; ES; HU
+Policy Futures in Education,3,0.1,2021,2025,2,FI; SE
+Qwerty,3,0.1,2020,2026,2,IT; NL
+Religions,3,0.1,2025,2026,3,DE; GR; RO
+Research and Practice in Technology Enhanced Learning,3,0.1,2021,2026,2,DE; SE
+Results in Engineering,3,0.1,2024,2026,4,DE; FI; IE; IT
+Teaching in Higher Education,3,0.1,2020,2026,2,IE; SE
+Technologies,3,0.1,2025,2026,3,GR; HU; IT
+The Lancet Digital Health,3,0.1,2023,2026,8,AT; DE; ES; GR; IT; LV; NL; SI
+Thinking Skills and Creativity,3,0.1,2025,2026,2,ES; NL
+Universal Access in the Information Society,3,0.1,2022,2026,3,DE; ES; IT
+npj Science of Learning,3,0.1,2025,2025,3,DE; FI; FR
+ACM Computing Surveys,2,0.07,2020,2025,2,IT; PL
+ACM Transactions on Computing Education,2,0.07,2024,2026,1,FI
+ACTA IMEKO,2,0.07,2023,2026,2,AT; IT
+Accounting Education,2,0.07,2022,2026,2,BE; HU
+Acta Informatica Pragensia,2,0.07,2025,2026,2,CZ; SK
+Action Criticism and Theory for Music Education,2,0.07,2025,2025,2,DE; FI
+Administrative Sciences,2,0.07,2021,2024,2,ES; FR
+Advances in sustainability science and technology,2,0.07,2022,2023,2,FR; RO
+Age and Ageing,2,0.07,2021,2024,2,IE; NL
+Annals of the Rheumatic Diseases,2,0.07,2025,2025,4,DE; DK; IT; NL
+Applied Corpus Linguistics,2,0.07,2025,2026,2,FI; IT
+Applied Economics,2,0.07,2022,2026,1,IT
+Applied Intelligence,2,0.07,2024,2025,1,ES
+Assessment in Education Principles Policy and Practice,2,0.07,2026,2026,1,NL
+BMC Nursing,2,0.07,2025,2026,2,ES; IE
+Baltic Journal of Modern Computing,2,0.07,2021,2025,2,BG; LV
+Big Data & Society,2,0.07,2021,2021,1,DE
+Biomedicines,2,0.07,2023,2026,1,IT
+Brain Sciences,2,0.07,2024,2025,4,DE; GR; IT; PT
+British Educational Research Journal,2,0.07,2024,2025,2,NL; SE
+British Food Journal,2,0.07,2026,2026,3,IE; IT; RO
+British Journal of Sociology of Education,2,0.07,2025,2026,3,DE; FR; IE
+British journal of surgery,2,0.07,2025,2026,2,ES; FR
+Buildings,2,0.07,2025,2026,2,CY; IT
+Business & Information Systems Engineering,2,0.07,2026,2026,1,DE
+Children,2,0.07,2024,2024,2,AT; IT
+Clinical Anatomy,2,0.07,2023,2025,2,ES; PL
+Clinical Kidney Journal,2,0.07,2025,2026,2,ES; FR
+Complexity,2,0.07,2021,2022,2,ES; SI
+Computational Economics,2,0.07,2025,2025,2,DE; IT
+Computers & Education X Reality,2,0.07,2023,2024,3,BE; IE; NL
+Creativity Studies,2,0.07,2026,2026,2,ES; LT
+Diagnostics,2,0.07,2025,2025,2,GR; IT
+Digital,2,0.07,2025,2026,2,ES; GR
+Discover Sustainability,2,0.07,2025,2025,2,IT; PL
+Economics and Business Review/The Poznań University of Economics Review,2,0.07,2023,2026,2,PL; RO
+Edelweiss Applied Science and Technology,2,0.07,2024,2025,2,HR; HU
+Education + Training,2,0.07,2024,2026,2,DE; ES
+Educational Media International,2,0.07,2020,2023,2,FI; NL
+Educational Philosophy and Theory,2,0.07,2025,2026,2,DK; PL
+Educational Theory,2,0.07,2025,2025,3,FI; FR; IE
+Endoscopy,2,0.07,2026,2026,2,IT; NL
+Energies,2,0.07,2024,2025,3,DK; GR; RO
+EuroMed Journal of Business,2,0.07,2025,2026,2,CY; GR
+European Heart Journal - Cardiovascular Imaging,2,0.07,2021,2023,5,FI; GR; IT; NL; RO
+European Heart Journal Acute Cardiovascular Care,2,0.07,2022,2024,6,AT; CZ; DE; DK; IT; SK
+European Journal of Educational Research,2,0.07,2024,2025,1,ES
+European Journal of Nutrition,2,0.07,2022,2025,2,IT; NL
+European Journal of Pediatric Surgery,2,0.07,2025,2025,2,AT; DE
+Farmacia Hospitalaria,2,0.07,2024,2024,1,ES
+Forecasting,2,0.07,2024,2025,2,HU; SE
+Frontiers in Aging Neuroscience,2,0.07,2020,2022,3,DE; FI; SE
+Frontiers in Big Data,2,0.07,2025,2026,2,DE; IT
+Frontiers in Genetics,2,0.07,2025,2026,3,DE; IT; PT
+Frontiers in Marine Science,2,0.07,2021,2025,1,DE
+Frontiers in Molecular Biosciences,2,0.07,2025,2025,4,AT; IE; IT; PT
+Frontiers in Toxicology,2,0.07,2025,2026,5,BE; DK; IT; PT; SE
+Future Generation Computer Systems,2,0.07,2021,2025,2,HR; IE
+Futures,2,0.07,2026,2026,3,DE; FR; SE
+Geodata and AI.,2,0.07,2026,2026,4,AT; BE; FI; IT
+GeroScience,2,0.07,2023,2024,2,DE; DK
+Government Information Quarterly,2,0.07,2022,2026,2,AT; NL
+Human Behavior and Emerging Technologies,2,0.07,2021,2025,2,DE; PL
+Human Technology,2,0.07,2023,2023,3,ES; FI; PL
+Human-Centric Intelligent Systems,2,0.07,2026,2026,2,DE; SE
+IAES International Journal of Robotics and Automation (IJRA),2,0.07,2023,2023,1,SE
+IEEE Engineering Management Review,2,0.07,2025,2026,2,IE; NL
+IEEE Transactions on Broadcasting,2,0.07,2021,2023,2,DE; IE
+IEEE Transactions on Computational Social Systems,2,0.07,2022,2025,2,IT; PL
+IEEE Transactions on Visualization and Computer Graphics,2,0.07,2022,2024,2,FR; SE
+IET Communications,2,0.07,2022,2022,2,ES; FR
+Industry and Higher Education,2,0.07,2024,2026,2,IT; PL
+Information systems engineering and management,2,0.07,2025,2025,3,BG; HU; PT
+Innovative Higher Education,2,0.07,2024,2026,2,ES; PL
+International Conference on Computers in Education,2,0.07,2023,2023,2,FR; HR
+International Electronic Journal of Mathematics Education,2,0.07,2022,2024,2,DE; SI
+International Endodontic Journal,2,0.07,2024,2025,3,DE; DK; IE
+International Journal of Applied Linguistics,2,0.07,2026,2026,1,ES
+International Journal of Computers Communications & Control,2,0.07,2025,2026,2,LT; RO
+International Journal of Evaluation and Research in Education (IJERE),2,0.07,2026,2026,2,ES; FI
+International Journal of Inclusive Education,2,0.07,2026,2026,3,AT; DE; FR
+International Journal of Information Management Data Insights,2,0.07,2024,2026,2,HU; IT
+International Journal of Intelligent Systems,2,0.07,2021,2023,2,DE; ES
+International Journal of Mathematical Education in Science and Technology,2,0.07,2025,2025,2,IT; PT
+International Journal of Mechanical Engineering Education,2,0.07,2025,2026,2,ES; PT
+International Journal of Technology and Design Education,2,0.07,2026,2026,2,CY; SE
+JMIR Formative Research,2,0.07,2023,2025,4,DE; FR; IT; LU
+JMIR Public Health and Surveillance,2,0.07,2024,2025,2,DE; GR
+JMIR Research Protocols,2,0.07,2025,2026,2,NL; SE
+Journal of Academic Ethics,2,0.07,2025,2025,2,ES; HU
+Journal of Advanced Nursing,2,0.07,2026,2026,1,FI
+Journal of Applied Learning & Teaching,2,0.07,2023,2023,2,DE; ES
+Journal of Artificial Intelligence Research,2,0.07,2022,2023,6,BE; DE; ES; IT; NL; SE
+Journal of Baltic Science Education,2,0.07,2023,2025,2,AT; SI
+Journal of Cleaner Production,2,0.07,2020,2021,2,IT; SE
+Journal of Clinical Nursing,2,0.07,2026,2026,3,AT; IT; PL
+Journal of Computational Social Science,2,0.07,2022,2025,2,DE; NL
+Journal of Cosmetic Dermatology,2,0.07,2023,2026,2,DE; FR
+Journal of Dentistry,2,0.07,2022,2025,3,DE; LV; NL
+Journal of Digital Learning in Teacher Education,2,0.07,2023,2025,2,ES; FI
+Journal of Ecohumanism,2,0.07,2024,2025,3,CZ; HU; SK
+Journal of Education Culture and Society,2,0.07,2026,2026,2,LT; SK
+Journal of Educational Technology Development and Exchange,2,0.07,2026,2026,1,ES
+Journal of Electrical Systems,2,0.07,2024,2024,2,BG; GR
+Journal of Empirical Research on Human Research Ethics,2,0.07,2025,2025,2,HU; NL
+Journal of English for Academic Purposes,2,0.07,2025,2026,2,IT; SE
+Journal of Evaluation in Clinical Practice,2,0.07,2022,2024,1,NL
+Journal of Experimental Botany,2,0.07,2022,2024,3,CZ; DE; IT
+Journal of Information & Knowledge Management,2,0.07,2026,2026,1,ES
+Journal of Information Communication and Ethics in Society,2,0.07,2026,2026,2,FR; PT
+Journal of Information Systems Education,2,0.07,2024,2025,2,DE; SE
+Journal of Innovation & Knowledge,2,0.07,2025,2025,4,CZ; GR; PL; SK
+Journal of Intelligence Studies in Business,2,0.07,2020,2025,2,LV; SE
+Journal of Learning Development in Higher Education,2,0.07,2026,2026,2,FR; IE
+Journal of Marketing Education,2,0.07,2025,2025,2,FR; NL
+Journal of Nuclear Medicine,2,0.07,2025,2025,1,DE
+Journal of language and Education,2,0.07,2023,2025,2,HR; PT
+Journal of medical imaging and radiation sciences,2,0.07,2024,2026,3,CY; DK; IE
+Learning and Individual Differences,2,0.07,2023,2024,1,DE
+Learning and analytics in intelligent systems,2,0.07,2026,2026,2,DE; IT
+Lecture notes in information systems and organisation,2,0.07,2025,2026,1,DE
+Machine Learning,2,0.07,2022,2025,2,DE; PT
+Management Decision,2,0.07,2025,2026,4,ES; IT; PL; RO
+Medical Teacher,2,0.07,2025,2026,2,IT; SE
+Medicina,2,0.07,2025,2025,2,DE; RO
+Neuro-Oncology,2,0.07,2024,2025,5,BG; DE; GR; IT; PL
+Nursing Reports,2,0.07,2026,2026,2,ES; PT
+Nutrients,2,0.07,2020,2025,3,AT; GR; HR
+PLoS Biology,2,0.07,2021,2023,2,DE; FR
+Patterns,2,0.07,2023,2024,2,CY; DE
+Pediatric Reports,2,0.07,2026,2026,1,IT
+Perspectives on Medical Education,2,0.07,2025,2026,2,IE; NL
+Physics Education,2,0.07,2024,2026,2,ES; PT
+Porta Linguarum Revista Interuniversitaria de Didáctica de las Lenguas Extranjeras,2,0.07,2026,2026,1,ES
+Proceedings of DRS,2,0.07,2026,2026,2,DE; NL
+Project Leadership and Society,2,0.07,2025,2025,2,IE; SI
+RADIOELECTRONIC AND COMPUTER SYSTEMS,2,0.07,2025,2025,2,FR; PL
+RIED Revista Iberoamericana de Educación a Distancia,2,0.07,2025,2025,1,ES
+Regional Science Policy & Practice,2,0.07,2021,2022,3,NL; PL; RO
+Research in Learning Technology,2,0.07,2025,2026,2,ES; HU
+Review of Education,2,0.07,2021,2024,2,DE; ES
+Revista de Estudios e Investigación en Psicología y Educación,2,0.07,2025,2026,2,ES; HU
+Revista de Gestão Social e Ambiental,2,0.07,2024,2024,2,CY; ES
+SLEEP,2,0.07,2022,2022,3,BE; DE; FR
+Salud Ciencia y Tecnología,2,0.07,2025,2025,1,FR
+Science and Engineering Ethics,2,0.07,2026,2026,2,ES; NL
+Seminars in Medical Writing and Education,2,0.07,2025,2025,2,ES; IT
+Social Science & Medicine,2,0.07,2025,2025,2,DE; FI
+Social Sciences,2,0.07,2024,2026,2,HR; HU
+Social Work Education,2,0.07,2026,2026,1,ES
+Springer international handbooks of education,2,0.07,2023,2024,2,ES; FR
+"Studies in systems, decision and control",2,0.07,2025,2026,2,CY; PT
+Sustainable Multilingualism,2,0.07,2023,2025,2,BE; LT
+Teaching and learning in nursing,2,0.07,2025,2025,2,ES; HU
+Technological Forecasting and Social Change,2,0.07,2023,2026,2,DE; ES
+Tehnicki vjesnik - Technical Gazette,2,0.07,2021,2021,3,HR; HU; SK
+The International Review of Research in Open and Distributed Learning,2,0.07,2023,2026,2,ES; IE
+The Journal of Interactive Learning Research,2,0.07,2025,2026,2,AT; FI
+Trends in Neuroscience and Education,2,0.07,2023,2026,1,DE
+Turkish Online Journal of Distance Education,2,0.07,2024,2026,2,DE; IT
+VINE Journal of Information and Knowledge Management Systems,2,0.07,2025,2026,2,HU; IT
+WSEAS TRANSACTIONS ON BUSINESS AND ECONOMICS,2,0.07,2025,2026,1,LV
+Weather,2,0.07,2023,2025,2,ES; IE
+Wellcome Open Research,2,0.07,2026,2026,1,ES
+Zeszyty Teoretyczne Rachunkowości,2,0.07,2025,2026,2,HR; PL
+i-com,2,0.07,2026,2026,1,DE
+iScience,2,0.07,2022,2024,4,CY; DE; DK; ES
+ACM Transactions on Computer-Human Interaction,1,0.03,2022,2022,1,DK
+AI Magazine,1,0.03,2022,2022,1,NL
+AIChE Journal,1,0.03,2026,2026,2,DE; SE
+AIDS Research and Therapy,1,0.03,2026,2026,1,BE
+AJP Advances in Physiology Education,1,0.03,2026,2026,1,ES
+ALTEX,1,0.03,2024,2024,1,DE
+AME Surgical Journal,1,0.03,2024,2024,1,IT
+APL Machine Learning,1,0.03,2025,2025,1,ES
+APL Materials,1,0.03,2024,2024,5,DE; ES; FR; IT; NL
+AUC PHILOLOGICA,1,0.03,2025,2025,1,CZ
+Academic Medicine,1,0.03,2024,2024,1,NL
+Acta Dermato Venereologica,1,0.03,2026,2026,1,SE
+Acta Ophthalmologica,1,0.03,2022,2022,1,DK
+Acta Polytechnica Hungarica,1,0.03,2021,2021,1,HU
+Acta bio-medica dell'Ateneo parmense/Acta biomedica,1,0.03,2024,2024,1,IT
+Advanced sciences and technologies for security applications,1,0.03,2026,2026,1,ES
+Advances in Artificial Intelligence and Machine Learning,1,0.03,2026,2026,1,SK
+Advances in Health Sciences Education,1,0.03,2020,2020,1,DK
+Advances in Medical Education and Practice,1,0.03,2026,2026,1,CY
+"Advances in Science, Technology & Innovation/Advances in science, technology & innovation",1,0.03,2023,2023,1,IT
+Advances in Simulation,1,0.03,2026,2026,1,DE
+Advances in Space Research,1,0.03,2024,2024,3,BE; ES; PL
+Aging,1,0.03,2024,2024,1,ES
+Agricultural and Food Economics,1,0.03,2026,2026,1,DE
+"Aloma: revista de psicologia, ciències de l'educació i de l'esport Blanquerna",1,0.03,2025,2025,1,ES
+Alzheimer s Research & Therapy,1,0.03,2023,2023,1,FR
+American Journal of Lifestyle Medicine,1,0.03,2026,2026,1,FR
+American Journal of Nephrology,1,0.03,2025,2025,4,ES; HU; IT; NL
+American Journal of Physiology-Lung Cellular and Molecular Physiology,1,0.03,2020,2020,1,DE
+"American, British and Canadian Studies",1,0.03,2026,2026,1,RO
+Anatomical Sciences Education,1,0.03,2023,2023,1,BE
+Animal Frontiers,1,0.03,2024,2024,1,IT
+Annals of Computer Science and Information Systems,1,0.03,2025,2025,1,IT
+Annals of Intensive Care,1,0.03,2024,2024,3,BE; FR; IT
+Annals of Internal Medicine,1,0.03,2023,2023,1,NL
+Annals of Operations Research,1,0.03,2025,2025,1,FR
+Annals of Tourism Research Empirical Insights,1,0.03,2026,2026,1,ES
+Annual Review of Physical Chemistry,1,0.03,2023,2023,1,IT
+Anuario de Psicología Jurídica,1,0.03,2026,2026,1,ES
+Appetite,1,0.03,2022,2022,1,NL
+Applied Artificial Intelligence,1,0.03,2021,2021,2,LT; PL
+Applied Biosciences,1,0.03,2026,2026,1,GR
+Applied Spatial Analysis and Policy,1,0.03,2022,2022,1,NL
+Applied System Innovation,1,0.03,2026,2026,1,ES
+AppliedMath,1,0.03,2025,2025,1,BG
+Arabian Journal for Science and Engineering,1,0.03,2021,2021,1,CY
+Architecture,1,0.03,2026,2026,2,ES; SK
+Architecture Image Studies,1,0.03,2025,2025,1,HU
+Architecture and Urban Planning,1,0.03,2026,2026,2,BE; RO
+Archives of Breast Cancer,1,0.03,2024,2024,1,IT
+Archives of Computational Methods in Engineering,1,0.03,2026,2026,2,CZ; HU
+Archives of Gynecology and Obstetrics,1,0.03,2024,2024,1,DE
+Archives of Orthopaedic and Trauma Surgery,1,0.03,2024,2024,2,AT; DE
+Archives of Public Health,1,0.03,2026,2026,1,SE
+Array,1,0.03,2026,2026,1,HU
+Artificial Intelligence,1,0.03,2021,2021,1,DE
+Artificial Intelligence Surgery,1,0.03,2025,2025,1,BE
+Artificial Intelligence in Medicine,1,0.03,2025,2025,1,DE
+Artificial Life,1,0.03,2020,2020,1,DE
+Asia Pacific Education Review,1,0.03,2023,2023,1,DE
+Asia-Pacific Journal of Teacher Education,1,0.03,2025,2025,1,IE
+Asparkía Investigació feminista,1,0.03,2025,2025,1,ES
+Astropolitics,1,0.03,2026,2026,2,FI; NL
+Aula Abierta,1,0.03,2023,2023,1,ES
+Australasian Journal of Educational Technology,1,0.03,2024,2024,1,FI
+Australian Journal of Applied Linguistics,1,0.03,2026,2026,1,IT
+Autism,1,0.03,2023,2023,1,NL
+Automated Software Engineering,1,0.03,2024,2024,1,FI
+BMC Infectious Diseases,1,0.03,2025,2025,1,PL
+BMC Medical Ethics,1,0.03,2026,2026,1,ES
+BMC Ophthalmology,1,0.03,2024,2024,1,DE
+BMC Oral Health,1,0.03,2025,2025,2,HU; LU
+BMC Palliative Care,1,0.03,2025,2025,3,ES; FR; PT
+BMC Psychiatry,1,0.03,2025,2025,2,LV; NL
+BMC Psychology,1,0.03,2025,2025,1,DE
+BMJ Health & Care Informatics,1,0.03,2022,2022,2,IE; SE
+BMJ Open Sport & Exercise Medicine,1,0.03,2025,2025,3,DE; ES; FR
+Babylonian Journal of Artificial Intelligence,1,0.03,2025,2025,1,AT
+Bauphysik,1,0.03,2023,2023,1,AT
+Behavioral Sciences,1,0.03,2026,2026,1,DE
+Behavioral and Brain Sciences,1,0.03,2023,2023,1,DE
+Benchmarking An International Journal,1,0.03,2024,2024,1,FR
+Bioinformatics,1,0.03,2022,2022,1,DE
+Biomedical and Biopharmaceutical Research,1,0.03,2023,2023,1,PT
+Biomicrofluidics,1,0.03,2023,2023,1,DE
+Biomimetics,1,0.03,2026,2026,2,ES; FR
+Blood,1,0.03,2025,2025,1,ES
+Blood Purification,1,0.03,2024,2024,1,IT
+Brain,1,0.03,2021,2021,1,DE
+Brain Communications,1,0.03,2025,2025,1,IT
+Brain and Development,1,0.03,2026,2026,1,NL
+Breast Care,1,0.03,2023,2023,1,PT
+British Journal of Anaesthesia,1,0.03,2025,2025,1,IE
+British Journal of Clinical Pharmacology,1,0.03,2024,2024,1,HR
+British Journal of Mathematical and Statistical Psychology,1,0.03,2024,2024,1,DE
+British Journal of Sports Medicine,1,0.03,2025,2025,1,PT
+British Journal of Urology,1,0.03,2026,2026,1,GR
+Bulletin of Electrical Engineering and Informatics,1,0.03,2025,2025,1,ES
+Bulletin of the American Meteorological Society,1,0.03,2025,2025,5,DE; ES; FR; NL; SE
+Business Management and Economics Engineering,1,0.03,2021,2021,1,CZ
+Business Strategy & Development,1,0.03,2026,2026,1,ES
+CAAI Transactions on Intelligence Technology,1,0.03,2023,2023,1,IT
+"CSR, sustainability, ethics & governance",1,0.03,2026,2026,1,ES
+Cadernos de Tradução,1,0.03,2025,2025,1,ES
+Canadian Journal of Learning and Technology,1,0.03,2025,2025,1,FI
+Canadian Journal of Surgery,1,0.03,2023,2023,1,DE
+Cancer Research,1,0.03,2023,2023,1,BE
+Cardiovascular Research,1,0.03,2021,2021,1,NL
+Cell Genomics,1,0.03,2025,2025,1,RO
+ChemBioChem,1,0.03,2022,2022,1,DE
+Chemistry - A European Journal,1,0.03,2026,2026,1,PL
+Chemistry Education Research and Practice,1,0.03,2023,2023,1,DE
+Chemistry Teacher International,1,0.03,2024,2024,1,SE
+Child and Adolescent Psychiatry and Mental Health,1,0.03,2024,2024,1,NL
+China Agricultural Economic Review,1,0.03,2022,2022,1,DE
+Chinese language learning sciences,1,0.03,2026,2026,1,DK
+Ciência & Saúde Coletiva,1,0.03,2026,2026,1,NL
+Clinical Epigenetics,1,0.03,2025,2025,2,ES; NL
+Clinical Infectious Diseases,1,0.03,2020,2020,1,NL
+Clinical Journal of Pain,1,0.03,2026,2026,1,ES
+Clinical Medicine,1,0.03,2026,2026,1,IT
+Clinical Oral Investigations,1,0.03,2026,2026,2,DE; SI
+Clinical Pharmacology & Therapeutics,1,0.03,2021,2021,1,NL
+Clinical and Experimental Rheumatology,1,0.03,2025,2025,2,GR; IT
+Clinical and Translational Medicine,1,0.03,2021,2021,1,DE
+Clinical ophthalmology,1,0.03,2026,2026,1,BG
+Cogent Arts and Humanities,1,0.03,2026,2026,1,ES
+Cogent Business & Management,1,0.03,2025,2025,1,ES
+Cogent Engineering,1,0.03,2020,2020,2,IT; LV
+Cognition Technology & Work,1,0.03,2025,2025,1,EE
+Cognitive systems monographs,1,0.03,2025,2025,1,GR
+Colombian Journal of Anesthesiology,1,0.03,2023,2023,1,NL
+Communications Earth & Environment,1,0.03,2026,2026,2,EE; PL
+Communications of the ACM,1,0.03,2024,2024,2,FI; IE
+Communications of the Association for Information Systems,1,0.03,2026,2026,1,FR
+Comprehensive Psychiatry,1,0.03,2023,2023,1,NL
+Computation,1,0.03,2026,2026,1,ES
+Computational and Structural Biotechnology Journal,1,0.03,2025,2025,1,FR
+Computer Animation and Virtual Worlds,1,0.03,2026,2026,1,SE
+Computer Assisted Language Learning,1,0.03,2025,2025,1,ES
+Computer Methods and Programs in Biomedicine,1,0.03,2020,2020,1,ES
+Computer Music Journal,1,0.03,2025,2025,1,IT
+Computer Science Education,1,0.03,2026,2026,1,DE
+Computer Science Review,1,0.03,2026,2026,1,ES
+Computer Science and Information Systems,1,0.03,2026,2026,1,GR
+Computer Standards & Interfaces,1,0.03,2024,2024,1,ES
+Computer-Aided Design and Applications,1,0.03,2021,2021,1,FR
+Computers & Security,1,0.03,2022,2022,1,DE
+Computers Environment and Urban Systems,1,0.03,2020,2020,3,DE; ES; NL
+Computers in Biology and Medicine,1,0.03,2024,2024,1,SE
+"Computers, materials & continua/Computers, materials & continua (Print)",1,0.03,2024,2024,1,ES
+Computing,1,0.03,2026,2026,1,GR
+Comunicar,1,0.03,2023,2023,1,ES
+Construction Innovation,1,0.03,2022,2022,1,PT
+Contributions to economics,1,0.03,2026,2026,1,IT
+Contributions to management science,1,0.03,2026,2026,1,PT
+Corporate Social Responsibility and Environmental Management,1,0.03,2025,2025,1,ES
+Corrosion and Materials Degradation,1,0.03,2025,2025,1,CZ
+Creativity Research Journal,1,0.03,2024,2024,2,DE; NL
+Critical Studies in Education,1,0.03,2020,2020,1,DE
+Croatian Journal of Education - Hrvatski časopis za odgoj i obrazovanje,1,0.03,2026,2026,2,BG; PL
+Cuadernos de Turismo,1,0.03,2024,2024,2,ES; IT
+Cuadernos info,1,0.03,2025,2025,1,ES
+Current Directions in Psychological Science,1,0.03,2024,2024,1,DE
+Current Issues in Tourism,1,0.03,2025,2025,2,FI; GR
+Current Opinion in Allergy and Clinical Immunology,1,0.03,2024,2024,1,PT
+Current Opinion in Otolaryngology & Head & Neck Surgery,1,0.03,2020,2020,1,IT
+Current Opinion in Urology,1,0.03,2021,2021,1,FR
+Current Problems in Surgery,1,0.03,2024,2024,2,BE; DK
+Current Protein and Peptide Science,1,0.03,2026,2026,1,IT
+Current Psychology,1,0.03,2026,2026,1,ES
+Current Sexual Health Reports,1,0.03,2024,2024,1,DE
+Current Topics in Medicinal Chemistry,1,0.03,2020,2020,1,ES
+Currents in Pharmacy Teaching and Learning,1,0.03,2024,2024,1,NL
+Cyberpsychology Behavior and Social Networking,1,0.03,2025,2025,1,IT
+DYNA,1,0.03,2023,2023,1,ES
+Danube,1,0.03,2022,2022,1,CZ
+Data,1,0.03,2022,2022,1,PT
+Data & Knowledge Engineering,1,0.03,2026,2026,1,RO
+Data Mining and Knowledge Discovery,1,0.03,2024,2024,3,AT; CZ; DE
+Data Science and Management,1,0.03,2021,2021,1,IT
+Decision Analytics Journal,1,0.03,2025,2025,1,PT
+Dentistry Journal,1,0.03,2026,2026,1,IE
+Dermatologic Therapy,1,0.03,2026,2026,1,PL
+Diagnosis,1,0.03,2026,2026,1,NL
+Digital Chemical Engineering,1,0.03,2025,2025,1,DK
+Digital Creativity,1,0.03,2023,2023,1,FI
+Digital Discovery,1,0.03,2023,2023,3,DE; DK; PL
+Digital Finance,1,0.03,2024,2024,1,DE
+Digital Policy Regulation and Governance,1,0.03,2021,2021,2,DK; FR
+Disabilities,1,0.03,2025,2025,1,GR
+Disciplinary and Interdisciplinary Science Education Research,1,0.03,2025,2025,2,DE; IT
+Discourse Studies in the Cultural Politics of Education,1,0.03,2026,2026,1,SE
+Discover Psychology,1,0.03,2026,2026,1,DE
+Drug and Alcohol Dependence,1,0.03,2021,2021,1,IT
+E+M Ekonomie a Management,1,0.03,2022,2022,2,CZ; SK
+ECONOMIC COMPUTATION AND ECONOMIC CYBERNETICS STUDIES AND RESEARCH,1,0.03,2026,2026,1,RO
+EPJ Data Science,1,0.03,2026,2026,1,DE
+Early Childhood Education Journal,1,0.03,2026,2026,1,SE
+Earth s Future,1,0.03,2025,2025,1,NL
+Ecological Research,1,0.03,2023,2023,1,DE
+Ecology and Society,1,0.03,2024,2024,1,SE
+Econometrics,1,0.03,2026,2026,1,GR
+Econometrics Journal,1,0.03,2025,2025,1,IT
+Economic Modelling,1,0.03,2023,2023,3,BE; IT; LU
+Economics,1,0.03,2022,2022,1,PL
+Economics & Human Biology,1,0.03,2023,2023,2,IT; LU
+Economies,1,0.03,2022,2022,1,PT
+Ecosystem Services,1,0.03,2026,2026,2,FR; NL
+Education Economics,1,0.03,2022,2022,1,NL
+Education for Chemical Engineers,1,0.03,2024,2024,1,DK
+Educação e Pesquisa,1,0.03,2025,2025,1,ES
+El Profesional de la Informacion,1,0.03,2020,2020,1,ES
+Emerald Emerging Markets Case Studies,1,0.03,2020,2020,1,SE
+Empirical research in vocational education and training,1,0.03,2025,2025,2,AT; DE
+Energy Strategy Reviews,1,0.03,2025,2025,1,IT
+Enfermería Clínica,1,0.03,2026,2026,1,ES
+Enfermería Global,1,0.03,2023,2023,2,ES; PL
+Engineering Management in Production and Services,1,0.03,2026,2026,1,HU
+Eng—Advances in Engineering,1,0.03,2023,2023,1,GR
+Ensaio Avaliação e Políticas Públicas em Educação,1,0.03,2026,2026,2,ES; PT
+Entropy,1,0.03,2021,2021,1,PL
+Environment & Health,1,0.03,2026,2026,1,ES
+Environment International,1,0.03,2026,2026,7,AT; BG; DE; ES; FR; NL; SE
+Environment and Social Psychology,1,0.03,2023,2023,1,SI
+Environmental Economics,1,0.03,2026,2026,1,PL
+Environmental Evidence,1,0.03,2024,2024,1,SE
+Environmental Modeling & Assessment,1,0.03,2021,2021,1,FR
+Environmental Pollution,1,0.03,2024,2024,2,IT; PT
+Environmental Research,1,0.03,2023,2023,1,IT
+Environmental Research Letters,1,0.03,2024,2024,1,DE
+Environmental Science & Technology,1,0.03,2025,2025,1,IE
+Environmental Sciences Europe,1,0.03,2026,2026,3,DE; PL; PT
+Episteme,1,0.03,2025,2025,1,DE
+Equilibrium Quarterly Journal of Economics and Economic Policy,1,0.03,2025,2025,1,ES
+Ereview of tourism research,1,0.03,2020,2020,1,AT
+Ethics and Education,1,0.03,2023,2023,1,IE
+European Archives of Oto-Rhino-Laryngology,1,0.03,2026,2026,1,GR
+European Heart Journal Open,1,0.03,2023,2023,1,FR
+European Journal of Anaesthesiology,1,0.03,2024,2024,1,IE
+European Journal of Cancer Prevention,1,0.03,2021,2021,3,ES; IT; PT
+European Journal of Dentistry,1,0.03,2026,2026,9,DE; ES; FI; FR; HU; IT; PL; RO; SE
+European Journal of Education and Psychology,1,0.03,2023,2023,1,ES
+European Journal of General Practice,1,0.03,2025,2025,1,NL
+European Journal of Geography,1,0.03,2026,2026,1,ES
+European Journal of Interdisciplinary Studies,1,0.03,2025,2025,1,RO
+European Journal of Investigation in Health Psychology and Education,1,0.03,2024,2024,1,CY
+European Journal of Obstetrics & Gynecology and Reproductive Biology,1,0.03,2024,2024,2,IE; RO
+European Journal of Oncology Nursing,1,0.03,2026,2026,1,ES
+European Journal of Operational Research,1,0.03,2020,2020,1,DE
+European Journal of Physics,1,0.03,2026,2026,1,DK
+European Journal of Preventive Cardiology,1,0.03,2023,2023,1,AT
+European Journal of Psychotraumatology,1,0.03,2025,2025,1,DE
+European Journal of Risk Regulation,1,0.03,2025,2025,1,SE
+European Journal of Science and Mathematics Education,1,0.03,2024,2024,1,GR
+European Journal of Social Sciences Education and Research,1,0.03,2023,2023,1,GR
+European Journal of Soil Science,1,0.03,2021,2021,2,DE; NL
+European Journal of Special Needs Education,1,0.03,2026,2026,1,ES
+European Journal of Sport Science,1,0.03,2025,2025,1,IE
+European Journal of Surgical Oncology,1,0.03,2025,2025,2,FR; IT
+European Journal of Translational Myology,1,0.03,2025,2025,4,DK; FR; IT; SE
+European Journal of Vascular and Endovascular Surgery,1,0.03,2020,2020,1,FR
+European Management Review,1,0.03,2026,2026,1,FR
+European Neuropsychopharmacology,1,0.03,2026,2026,1,NL
+European Physical Education Review,1,0.03,2026,2026,2,BE; DE
+European Research on Management and Business Economics,1,0.03,2026,2026,1,IT
+Europhysics news,1,0.03,2025,2025,1,IT
+Evolution Education and Outreach,1,0.03,2025,2025,2,DE; DK
+Evolving Systems,1,0.03,2025,2025,3,CZ; IT; PL
+Eğitimde ve Psikolojide Ölçme ve Değerlendirme Dergisi,1,0.03,2024,2024,1,DE
+Fashion Highlight,1,0.03,2024,2024,1,AT
+Filosofija Sociologija,1,0.03,2026,2026,1,LT
+Financial and credit activity problems of theory and practice,1,0.03,2025,2025,1,DE
+First Language,1,0.03,2025,2025,1,ES
+Food Quality and Preference,1,0.03,2024,2024,1,IE
+Food Research International,1,0.03,2025,2025,1,FR
+Formación universitaria,1,0.03,2024,2024,1,ES
+Forum for Linguistic Studies,1,0.03,2025,2025,1,ES
+Foundations of Computing and Decision Sciences,1,0.03,2020,2020,1,PL
+Frontiers in Aging,1,0.03,2026,2026,2,PL; SE
+Frontiers in Behavioral Economics,1,0.03,2025,2025,1,IT
+Frontiers in Bioengineering and Biotechnology,1,0.03,2026,2026,1,IT
+Frontiers in Climate,1,0.03,2025,2025,1,DK
+Frontiers in Communication,1,0.03,2026,2026,1,SE
+Frontiers in Developmental Psychology,1,0.03,2026,2026,1,DK
+Frontiers in Earth Science,1,0.03,2026,2026,1,FR
+Frontiers in Health Informatics,1,0.03,2024,2024,1,FI
+Frontiers in Health Services,1,0.03,2026,2026,1,DE
+Frontiers in Human Neuroscience,1,0.03,2025,2025,1,IT
+Frontiers in Nephrology,1,0.03,2025,2025,1,IT
+Frontiers in Network Physiology,1,0.03,2021,2021,1,IE
+Frontiers in Neuroanatomy,1,0.03,2026,2026,1,GR
+Frontiers in Neuroscience,1,0.03,2026,2026,1,ES
+Frontiers in Pediatrics,1,0.03,2025,2025,1,AT
+Frontiers in Pharmacology,1,0.03,2025,2025,1,IT
+Frontiers in Physiology,1,0.03,2026,2026,2,ES; IT
+Frontiers in Radiology,1,0.03,2026,2026,1,IT
+Frontiers in Sleep,1,0.03,2025,2025,2,FI; SE
+Frontiers in Soil Science,1,0.03,2026,2026,1,DE
+Frontiers in Sustainability,1,0.03,2026,2026,4,AT; DE; NL; PT
+Frontiers in Sustainable Food Systems,1,0.03,2024,2024,1,DE
+Frontiers in Virtual Reality,1,0.03,2025,2025,1,CY
+Frontiers in Water,1,0.03,2025,2025,1,DE
+Frontline Learning Research,1,0.03,2023,2023,1,NL
+Future Foods,1,0.03,2023,2023,1,FR
+Future of business and finance,1,0.03,2026,2026,1,HU
+Genetics,1,0.03,2024,2024,2,DE; FR
+Geo-spatial Information Science,1,0.03,2025,2025,1,SE
+GeoHealth,1,0.03,2026,2026,1,SE
+Geography and sustainability,1,0.03,2025,2025,1,ES
+Geomatics Natural Hazards and Risk,1,0.03,2021,2021,1,RO
+Georisk Assessment and Management of Risk for Engineered Systems and Geohazards,1,0.03,2026,2026,1,AT
+Geosciences,1,0.03,2024,2024,2,ES; PT
+Germinare — Revista Científica do Instituto Piaget,1,0.03,2026,2026,1,PT
+Global Epidemiology,1,0.03,2024,2024,1,SE
+Glomerular Diseases,1,0.03,2025,2025,1,HR
+Habitat International,1,0.03,2024,2024,1,PT
+Haemophilia,1,0.03,2026,2026,1,BE
+Health Informatics Journal,1,0.03,2026,2026,1,ES
+Heart and Mind,1,0.03,2023,2023,1,PT
+Heritage,1,0.03,2025,2025,2,BG; RO
+Higher Education Skills and Work-based Learning,1,0.03,2025,2025,1,DE
+Highlights of Sustainability,1,0.03,2025,2025,2,IT; LV
+Hispanic Health Care International,1,0.03,2025,2025,1,ES
+Human Arenas,1,0.03,2024,2024,1,FR
+Human Brain Mapping,1,0.03,2020,2020,1,FR
+Human Reproduction,1,0.03,2024,2024,1,DK
+Híradástechnika/Infocommunications journal,1,0.03,2024,2024,1,HU
+Högre utbildning,1,0.03,2024,2024,1,SE
+IAES International Journal of Artificial Intelligence,1,0.03,2024,2024,1,DE
+IAFOR Journal of Education,1,0.03,2026,2026,1,DK
+IEEE Computer Graphics and Applications,1,0.03,2020,2020,1,GR
+IEEE Intelligent Systems,1,0.03,2023,2023,1,DE
+IEEE Latin America Transactions,1,0.03,2024,2024,1,PT
+IEEE Signal Processing Letters,1,0.03,2020,2020,1,FI
+IEEE Transactions on Affective Computing,1,0.03,2024,2024,1,DE
+IEEE Transactions on Engineering Management,1,0.03,2025,2025,1,DE
+IEEE Transactions on Neural Systems and Rehabilitation Engineering,1,0.03,2023,2023,1,IE
+IET Generation Transmission & Distribution,1,0.03,2022,2022,3,DE; DK; SE
+IET conference proceedings.,1,0.03,2024,2024,1,DK
+IFLA Journal,1,0.03,2025,2025,1,SE
+INFORMS Transactions on Education,1,0.03,2024,2024,1,BE
+ISME Communications,1,0.03,2026,2026,1,NL
+IT Professional,1,0.03,2025,2025,1,PT
+Image and Vision Computing,1,0.03,2024,2024,2,DE; FR
+Imaging Neuroscience,1,0.03,2024,2024,1,FR
+Indian Journal of Labour Economics,1,0.03,2025,2025,1,FR
+Informatica,1,0.03,2024,2024,1,SI
+Informatics for Health and Social Care,1,0.03,2024,2024,1,IT
+Informatik-Spektrum,1,0.03,2021,2021,1,DE
+Information Research,1,0.03,2025,2025,1,SE
+Information Systems Frontiers,1,0.03,2026,2026,1,PL
+Information Technology and People,1,0.03,2025,2025,1,FI
+Innovation The European Journal of Social Science Research,1,0.03,2026,2026,1,IT
+Innovation in Aging,1,0.03,2023,2023,1,NL
+Innovation in Language Learning and Teaching,1,0.03,2026,2026,1,CZ
+Integration of Education,1,0.03,2026,2026,1,CZ
+Intellectual Economics,1,0.03,2024,2024,2,GR; PL
+Intelligent Automation & Soft Computing,1,0.03,2024,2024,1,IE
+Intelligent Decision Technologies,1,0.03,2023,2023,1,GR
+Intelligenza Artificiale,1,0.03,2020,2020,1,IT
+Interaction design & architecture(s)/ID&A Interaction design & architecture(s),1,0.03,2022,2022,2,FR; RO
+Interactive Technology and Smart Education,1,0.03,2024,2024,1,GR
+Interdisciplinary CardioVascular and Thoracic Surgery,1,0.03,2023,2023,1,NL
+Interdisciplinary Journal of Information Knowledge and Management,1,0.03,2026,2026,1,CY
+Interface Focus,1,0.03,2020,2020,1,NL
+International Academic Journal of Science and Engineering,1,0.03,2024,2024,1,PL
+International Advances in Economic Research,1,0.03,2024,2024,1,CZ
+International Journal for Equity in Health,1,0.03,2026,2026,1,ES
+International Journal for Lesson and Learning Studies,1,0.03,2025,2025,1,MT
+International Journal for Research in Vocational Education and Training,1,0.03,2025,2025,1,DE
+International Journal for Technology in Mathematics Education,1,0.03,2026,2026,1,AT
+International Journal of Advanced Computer Science and Applications,1,0.03,2024,2024,1,FR
+International Journal of Artificial Intelligence Tools,1,0.03,2023,2023,1,GR
+International Journal of Business and Globalisation,1,0.03,2025,2025,1,HU
+International Journal of Chinese Education,1,0.03,2025,2025,1,FR
+International Journal of Cognitive Research in Science Engineering and Education,1,0.03,2024,2024,1,AT
+International Journal of Digital Earth,1,0.03,2024,2024,1,NL
+International Journal of Distance Education Technologies,1,0.03,2020,2020,1,HR
+International Journal of Education through Art,1,0.03,2023,2023,1,FI
+International Journal of Educational Development,1,0.03,2026,2026,1,RO
+International Journal of Educational Research Open,1,0.03,2025,2025,1,NL
+International Journal of Entrepreneurial Behaviour & Research,1,0.03,2025,2025,2,FI; NL
+International Journal of Game-Based Learning,1,0.03,2025,2025,1,RO
+International Journal of Gynecological Cancer,1,0.03,2023,2023,7,CZ; DE; EE; IT; NL; PL; SI
+International Journal of Gynecology & Obstetrics,1,0.03,2026,2026,1,NL
+International Journal of Industrial Engineering and Management,1,0.03,2026,2026,1,LU
+International Journal of Information Management,1,0.03,2023,2023,6,DE; DK; ES; FR; IT; NL
+International Journal of Information and Learning Technology,1,0.03,2026,2026,1,CZ
+International Journal of Injury Control and Safety Promotion,1,0.03,2025,2025,1,PL
+International Journal of Intelligent Computing and Cybernetics,1,0.03,2025,2025,1,DE
+International Journal of Intelligent Systems and Applications,1,0.03,2026,2026,1,DE
+International Journal of Interactive Mobile Technologies (iJIM),1,0.03,2024,2024,1,SK
+International Journal of Laboratory Hematology,1,0.03,2021,2021,1,IT
+International Journal of Law and Psychiatry,1,0.03,2024,2024,1,IE
+International Journal of Learning Teaching and Educational Research,1,0.03,2026,2026,1,FR
+International Journal of Learning Technology,1,0.03,2025,2025,1,ES
+International Journal of Managing Projects in Business,1,0.03,2026,2026,1,AT
+International Journal of Mobile Learning and Organisation,1,0.03,2025,2025,1,HU
+International Journal of Nursing Studies,1,0.03,2021,2021,1,FI
+International Journal of Pervasive Computing and Communications,1,0.03,2022,2022,2,CZ; GR
+International Journal of Pharmacy Practice,1,0.03,2026,2026,1,AT
+International Journal of Public Health,1,0.03,2024,2024,3,BE; CZ; DK
+International Journal of Rheumatic Diseases,1,0.03,2023,2023,1,FR
+International Journal of Semantic Computing,1,0.03,2026,2026,2,DE; FR
+International Journal of Sociology,1,0.03,2023,2023,1,BG
+International Journal of Software Engineering and Knowledge Engineering,1,0.03,2024,2024,1,IT
+International Journal of Sports Science & Coaching,1,0.03,2024,2024,1,DE
+International Journal of Surgery,1,0.03,2024,2024,1,DE
+International Journal of Sustainability in Higher Education,1,0.03,2026,2026,1,ES
+International Journal of Technology Enhanced Learning,1,0.03,2025,2025,1,HR
+International Journal of Technology in Education and Science,1,0.03,2026,2026,1,FI
+International Journal of Uncertainty Fuzziness and Knowledge-Based Systems,1,0.03,2020,2020,2,IT; PL
+International Journal of Web-Based Learning and Teaching Technologies,1,0.03,2024,2024,1,CY
+International Journal on Semantic Web and Information Systems,1,0.03,2025,2025,1,ES
+International Medical Education,1,0.03,2026,2026,1,RO
+International Research in Geographical and Environmental Education,1,0.03,2025,2025,1,CZ
+International Review of Financial Analysis,1,0.03,2025,2025,4,DE; IT; RO; SK
+International Review of Management and Marketing,1,0.03,2025,2025,1,GR
+International journal of doctoral studies,1,0.03,2025,2025,2,CY; GR
+International journal of organizational analysis,1,0.03,2025,2025,1,HU
+Internet Interventions,1,0.03,2020,2020,1,NL
+Internet Reference Services Quarterly,1,0.03,2025,2025,2,DE; ES
+Internet Research,1,0.03,2025,2025,2,DE; FR
+Inventions,1,0.03,2025,2025,1,RO
+Investigaciones Turísticas,1,0.03,2023,2023,1,ES
+Issues in Accounting Education,1,0.03,2025,2025,1,DE
+Italian Economic Journal,1,0.03,2025,2025,1,ES
+Italian Journal of Educational Technology,1,0.03,2026,2026,1,IT
+JACC Advances,1,0.03,2024,2024,2,FR; IT
+JAMA Network Open,1,0.03,2021,2021,2,FR; IE
+JBI Evidence Synthesis,1,0.03,2026,2026,1,IT
+JCO Global Oncology,1,0.03,2022,2022,1,NL
+JEADV Clinical Practice,1,0.03,2026,2026,1,DE
+JHEP Reports,1,0.03,2024,2024,1,ES
+JOR Spine,1,0.03,2026,2026,2,DE; SE
+Japanese Journal of Radiology,1,0.03,2025,2025,1,DE
+Jordan Medical Journal,1,0.03,2024,2024,1,DE
+Journal Français d Ophtalmologie,1,0.03,2023,2023,1,FR
+Journal Of Big Data,1,0.03,2021,2021,1,IT
+Journal for Multicultural Education,1,0.03,2023,2023,1,ES
+Journal of Accounting & Organizational Change,1,0.03,2022,2022,1,DK
+Journal of Accounting Education,1,0.03,2025,2025,1,PT
+Journal of Advanced Research in Applied Sciences and Engineering Technology,1,0.03,2024,2024,1,SK
+Journal of Advances in Management Research,1,0.03,2026,2026,1,BE
+Journal of Advances in Modeling Earth Systems,1,0.03,2025,2025,1,DE
+Journal of Agriculture and Food Research,1,0.03,2025,2025,1,IE
+Journal of Agronomy and Crop Science,1,0.03,2024,2024,2,AT; IT
+Journal of Alzheimer s Disease,1,0.03,2024,2024,1,ES
+Journal of Anesthesia Analgesia and Critical Care,1,0.03,2026,2026,1,IT
+Journal of Apicultural Science,1,0.03,2025,2025,1,PL
+Journal of Applied Philosophy,1,0.03,2025,2025,1,SE
+Journal of Applied Research in Higher Education,1,0.03,2025,2025,2,ES; NL
+Journal of Artificial Intelligence and Technology,1,0.03,2025,2025,1,CZ
+Journal of Asian Scientific Research,1,0.03,2025,2025,1,ES
+Journal of Assisted Reproduction and Genetics,1,0.03,2026,2026,1,BE
+Journal of Asthma,1,0.03,2021,2021,1,SE
+Journal of Bone and Joint Surgery,1,0.03,2025,2025,1,DK
+Journal of Business Research,1,0.03,2025,2025,1,DK
+Journal of Cardiovascular Development and Disease,1,0.03,2025,2025,1,IE
+Journal of Cardiovascular Medicine,1,0.03,2023,2023,1,IT
+Journal of Chemical Information and Modeling,1,0.03,2024,2024,1,SE
+Journal of Cheminformatics,1,0.03,2024,2024,1,SE
+Journal of Child Psychology and Psychiatry,1,0.03,2023,2023,1,NL
+Journal of Classification,1,0.03,2024,2024,1,DE
+Journal of Clinical Anesthesia,1,0.03,2025,2025,1,DE
+Journal of Clinical Sleep Medicine,1,0.03,2026,2026,3,CY; CZ; IT
+Journal of Computer Information Systems,1,0.03,2023,2023,2,FR; RO
+Journal of Computer Languages,1,0.03,2025,2025,1,PT
+Journal of Computer Science,1,0.03,2024,2024,1,FR
+Journal of Computing in Higher Education,1,0.03,2021,2021,1,ES
+Journal of Consumer Affairs,1,0.03,2024,2024,1,IT
+Journal of Crohn s and Colitis,1,0.03,2022,2022,1,IT
+Journal of Data and Information Quality,1,0.03,2024,2024,1,IT
+Journal of Dental Education,1,0.03,2026,2026,2,DE; LV
+Journal of Dental Research,1,0.03,2020,2020,1,DE
+Journal of Diabetes Science and Technology,1,0.03,2024,2024,1,DK
+Journal of Ecohydraulics,1,0.03,2026,2026,3,AT; DE; SE
+Journal of Education Policy,1,0.03,2026,2026,1,CY
+Journal of Education and Health Promotion,1,0.03,2026,2026,1,NL
+Journal of Education and Training Studies,1,0.03,2026,2026,1,NL
+Journal of Education for Students Placed at Risk (JESPAR),1,0.03,2025,2025,1,PL
+Journal of Educational Data Mining,1,0.03,2026,2026,1,DE
+Journal of Endourology,1,0.03,2025,2025,3,ES; FR; NL
+Journal of Engineering Research,1,0.03,2024,2024,1,PT
+Journal of Enterprise Information Management,1,0.03,2026,2026,1,HU
+Journal of Environmental Psychology,1,0.03,2026,2026,2,DE; NL
+Journal of Evidence-Based Psychotherapies,1,0.03,2023,2023,1,BE
+Journal of Functional Biomaterials,1,0.03,2023,2023,1,FR
+Journal of Further and Higher Education,1,0.03,2026,2026,1,CZ
+Journal of Geography,1,0.03,2026,2026,2,DE; HU
+Journal of Geography in Higher Education,1,0.03,2025,2025,2,EE; FI
+Journal of Health Communication,1,0.03,2023,2023,1,DE
+Journal of Hepatology,1,0.03,2023,2023,1,DE
+Journal of Higher Education Policy and Management,1,0.03,2026,2026,1,FR
+Journal of Human Trafficking,1,0.03,2025,2025,1,CY
+Journal of Industrial Engineering and Management,1,0.03,2020,2020,1,ES
+Journal of Information Literacy,1,0.03,2025,2025,1,HR
+Journal of Information Science,1,0.03,2026,2026,2,LT; SE
+Journal of Information Systems Engineering & Management,1,0.03,2023,2023,1,PT
+Journal of Inherited Metabolic Disease,1,0.03,2026,2026,1,DE
+Journal of Intelligent & Fuzzy Systems,1,0.03,2023,2023,1,FR
+Journal of Interdisciplinary Studies in Education,1,0.03,2026,2026,1,ES
+Journal of Internal Medicine,1,0.03,2021,2021,3,DE; IT; NL
+Journal of International Education in Business,1,0.03,2025,2025,1,FR
+Journal of Interprofessional Care,1,0.03,2025,2025,1,BE
+Journal of Laboratory Medicine,1,0.03,2023,2023,5,AT; CZ; DE; FR; IT
+Journal of Learning for Development,1,0.03,2024,2024,3,DE; ES; IE
+Journal of Librarianship and Information Science,1,0.03,2026,2026,1,GR
+Journal of Management Control,1,0.03,2020,2020,1,DE
+Journal of Marketing Analytics,1,0.03,2025,2025,2,ES; IE
+Journal of Media Ethics,1,0.03,2026,2026,1,SI
+Journal of Media Literacy Education,1,0.03,2026,2026,1,BE
+Journal of Medical Systems,1,0.03,2026,2026,1,IE
+Journal of New Approaches in Educational Research,1,0.03,2025,2025,1,FI
+Journal of Official Statistics,1,0.03,2026,2026,1,IT
+Journal of Olympic Studies,1,0.03,2025,2025,1,CY
+Journal of Organizational Change Management,1,0.03,2026,2026,2,AT; LT
+Journal of Pedagogical Research,1,0.03,2025,2025,1,GR
+Journal of Pedagogical Sociology and Psychology,1,0.03,2025,2025,1,SE
+Journal of Periodontology,1,0.03,2021,2021,2,IT; PL
+Journal of Philosophy of Education,1,0.03,2026,2026,1,PL
+Journal of Physical Activity and Health,1,0.03,2026,2026,1,FI
+Journal of Policy Modeling,1,0.03,2025,2025,1,GR
+Journal of Primary Care & Community Health,1,0.03,2026,2026,1,ES
+Journal of Professional Capital and Community,1,0.03,2024,2024,1,NL
+Journal of Professional Nursing,1,0.03,2025,2025,1,ES
+Journal of Professions and Organization,1,0.03,2026,2026,1,SE
+Journal of Psychoactive Drugs,1,0.03,2025,2025,1,DK
+Journal of Renal Nutrition,1,0.03,2025,2025,1,IT
+Journal of Risk Research,1,0.03,2026,2026,1,IE
+Journal of Robotics and Control (JRC),1,0.03,2025,2025,2,DK; ES
+Journal of School Choice,1,0.03,2025,2025,1,AT
+Journal of Science and Technology Policy Management,1,0.03,2024,2024,1,ES
+Journal of Service Theory and Practice,1,0.03,2025,2025,1,IT
+Journal of Special Education Technology,1,0.03,2026,2026,1,SE
+Journal of Statistics and Data Science Education,1,0.03,2026,2026,1,DE
+Journal of Systems and Information Technology,1,0.03,2023,2023,1,IE
+Journal of Teaching in Physical Education,1,0.03,2026,2026,1,DE
+Journal of Teaching in Travel & Tourism,1,0.03,2026,2026,2,ES; IE
+Journal of Technical Education and Training,1,0.03,2024,2024,1,ES
+Journal of Transport & Health,1,0.03,2021,2021,1,CY
+Journal of Travel Medicine,1,0.03,2022,2022,1,IE
+Journal of Urban Management,1,0.03,2023,2023,1,NL
+Journal of Vasyl Stefanyk Precarpathian National University,1,0.03,2025,2025,1,FI
+Journal of Visual Literacy,1,0.03,2026,2026,1,GR
+Journal of Water and Health,1,0.03,2024,2024,1,FR
+Journal of Youth and Adolescence,1,0.03,2023,2023,1,DK
+Journal of information and organizational sciences,1,0.03,2026,2026,1,HR
+Journal of neurosurgery,1,0.03,2021,2021,1,IT
+Journal of risk and financial management,1,0.03,2025,2025,1,IT
+Journal of service management,1,0.03,2025,2025,1,FI
+Journal of the American Medical Directors Association,1,0.03,2025,2025,2,CZ; PT
+Journal of the American Medical Informatics Association,1,0.03,2025,2025,1,DE
+Journal of the Brazilian Computer Society,1,0.03,2025,2025,1,PT
+Journal of the Egyptian Public Health Association,1,0.03,2026,2026,1,PL
+Journal of the European Academy of Dermatology and Venereology,1,0.03,2024,2024,1,AT
+Journal of the International Neuropsychological Society,1,0.03,2020,2020,1,CZ
+Journal of the Learning Sciences,1,0.03,2026,2026,1,DE
+Journal of the Royal Statistical Society Series A (Statistics in Society),1,0.03,2024,2024,1,IE
+Journal on Efficiency and Responsibility in Education and Science,1,0.03,2026,2026,1,CZ
+Journalism Practice,1,0.03,2024,2024,1,NL
+Journalism and Media,1,0.03,2026,2026,1,HR
+Jurídicas CUC,1,0.03,2025,2025,1,RO
+K&uuml;nstliche Intell.,1,0.03,2021,2021,1,BE
+KOME,1,0.03,2023,2023,1,HU
+Knee Surgery Sports Traumatology Arthroscopy,1,0.03,2025,2025,2,DE; IT
+Knowledge and Information Systems,1,0.03,2023,2023,1,IT
+Knowledge and Performance Management,1,0.03,2024,2024,1,CZ
+Knowledge-Based Systems,1,0.03,2023,2023,1,ES
+Kybernetes,1,0.03,2025,2025,1,HR
+LUMAT International Journal on Math Science and Technology Education,1,0.03,2025,2025,2,FI; SE
+Land Use Policy,1,0.03,2021,2021,1,DE
+Landscape and Urban Planning,1,0.03,2024,2024,1,SE
+Language Learning in Higher Education,1,0.03,2026,2026,2,BE; ES
+Language Teaching Research,1,0.03,2026,2026,1,FI
+Lara D. Veeken,1,0.03,2025,2025,2,DK; IT
+LatIA,1,0.03,2025,2025,1,ES
+Latvian Journal of Physics and Technical Sciences,1,0.03,2026,2026,1,LV
+Law Innovation and Technology,1,0.03,2026,2026,1,NL
+Learning Culture and Social Interaction,1,0.03,2026,2026,2,ES; FR
+Learning Futures and Emerging Technologies,1,0.03,2026,2026,1,SK
+Lecture notes in electrical engineering,1,0.03,2021,2021,1,GR
+Lecture notes in mechanical engineering,1,0.03,2021,2021,1,DE
+Leonardo,1,0.03,2023,2023,4,FI; FR; PL; SE
+Library Hi Tech,1,0.03,2025,2025,2,DE; ES
+Lifestyle Medicine,1,0.03,2025,2025,1,FI
+London Review of Education,1,0.03,2021,2021,1,SE
+Long Range Planning,1,0.03,2022,2022,1,NL
+Machine Learning with Applications,1,0.03,2026,2026,1,FR
+Magnetic Resonance in Medicine,1,0.03,2023,2023,1,ES
+Management & Marketing,1,0.03,2023,2023,1,RO
+Management & Sustainability An Arab Review,1,0.03,2026,2026,1,CY
+Management in Education,1,0.03,2025,2025,1,CY
+Marketing Education Review,1,0.03,2026,2026,1,FR
+Mathematical Geosciences,1,0.03,2023,2023,2,ES; PT
+Mathematical Problems in Engineering,1,0.03,2021,2021,1,GR
+Mechanisms and machine science,1,0.03,2025,2025,1,IT
+Medical Education,1,0.03,2024,2024,2,DK; SE
+Medical Science Educator,1,0.03,2023,2023,1,DE
+Medicina Intensiva,1,0.03,2020,2020,1,ES
+Medicine & Science in Sports & Exercise,1,0.03,2023,2023,1,BE
+Memory Mind & Media,1,0.03,2025,2025,1,NL
+Mental Health Global Challenges Journal,1,0.03,2026,2026,1,DE
+Metacognition and Learning,1,0.03,2022,2022,2,DE; NL
+Metaverse Basic and Applied Research,1,0.03,2024,2024,1,ES
+Methodology of educational measurement and assessment,1,0.03,2021,2021,1,NL
+Microbes and Infection,1,0.03,2025,2025,3,DK; ES; SE
+Middle East Development Journal,1,0.03,2025,2025,1,HU
+Minerva Urology and Nephrology,1,0.03,2026,2026,1,IT
+Między Oryginałem a Przekładem,1,0.03,2025,2025,1,PL
+Mobile Information Systems,1,0.03,2022,2022,1,ES
+Modern Language Journal,1,0.03,2024,2024,1,FR
+Modern Pathology,1,0.03,2022,2022,3,FR; IT; NL
+Molecular Psychiatry,1,0.03,2024,2024,1,DE
+Multiple Sclerosis and Related Disorders,1,0.03,2024,2024,2,DK; ES
+Nanophotonics,1,0.03,2025,2025,1,IT
+Natural Hazards,1,0.03,2024,2024,1,GR
+Nature Communications,1,0.03,2026,2026,1,DE
+Nature Reviews Psychology,1,0.03,2025,2025,1,DE
+Neofilolog,1,0.03,2024,2024,1,PL
+Nephrology Dialysis Transplantation,1,0.03,2020,2020,1,DE
+Neural Processing Letters,1,0.03,2025,2025,1,PT
+NeuroImage,1,0.03,2025,2025,1,IT
+Neurocomputing,1,0.03,2020,2020,3,BG; ES; PT
+Neurogastroenterology & Motility,1,0.03,2025,2025,1,IT
+Neurological Sciences,1,0.03,2024,2024,1,IT
+Neurology Clinical Practice,1,0.03,2026,2026,1,ES
+Neuromethods,1,0.03,2024,2024,1,IE
+Neuron,1,0.03,2026,2026,1,BE
+Neuropediatrics,1,0.03,2021,2021,1,DE
+Neuropsychologia,1,0.03,2025,2025,2,DE; NL
+Neurotoxicity Research,1,0.03,2020,2020,1,BG
+Nuclear Instruments and Methods in Physics Research Section B Beam Interactions with Materials and Atoms,1,0.03,2025,2025,5,BE; DE; ES; FR; SE
+Nutrición Hospitalaria,1,0.03,2025,2025,2,ES; IT
+Occupational Medicine,1,0.03,2025,2025,1,BE
+Online Learning,1,0.03,2026,2026,1,DE
+Open Education Studies,1,0.03,2023,2023,1,DE
+Open Research Europe,1,0.03,2026,2026,1,GR
+Operations Research Forum,1,0.03,2024,2024,1,FR
+Ophthalmic and Physiological Optics,1,0.03,2024,2024,1,ES
+Ophthalmology,1,0.03,2020,2020,3,DE; FR; NL
+Ophthalmology and Therapy,1,0.03,2026,2026,2,DE; DK
+Organizacija,1,0.03,2024,2024,1,SI
+PLoS Computational Biology,1,0.03,2021,2021,1,SI
+PNAS Nexus,1,0.03,2024,2024,8,AT; DE; DK; ES; FR; IE; IT; NL
+PRESENCE Virtual and Augmented Reality,1,0.03,2022,2022,1,GR
+PSYCHOLINGUISTICS,1,0.03,2025,2025,1,LT
+Pain,1,0.03,2021,2021,1,DK
+Pakistan Journal of Life and Social Sciences (PJLSS),1,0.03,2024,2024,1,CY
+Palliative Care and Social Practice,1,0.03,2026,2026,1,ES
+Papers of the Regional Science Association,1,0.03,2021,2021,1,NL
+Patient Preference and Adherence,1,0.03,2023,2023,1,NL
+Pattern Recognition Letters,1,0.03,2026,2026,1,FR
+Pedagogies An International Journal,1,0.03,2025,2025,1,DK
+Pedagogika,1,0.03,2024,2024,1,LT
+Pedagogy Culture and Society,1,0.03,2026,2026,1,ES
+Pediatric Surgery International,1,0.03,2025,2025,1,IT
+People and Nature,1,0.03,2023,2023,1,DE
+Philosophies,1,0.03,2024,2024,1,DE
+Photonics,1,0.03,2025,2025,1,ES
+Physica Medica,1,0.03,2021,2021,8,BE; ES; FI; GR; IE; IT; NL; SE
+Physiological Measurement,1,0.03,2022,2022,2,CZ; DE
+Plant Methods,1,0.03,2020,2020,1,ES
+Plastic Surgery,1,0.03,2026,2026,1,ES
+Plastic and Aesthetic Research,1,0.03,2024,2024,1,IT
+Politics,1,0.03,2025,2025,1,BE
+Politics and Governance,1,0.03,2023,2023,1,CY
+Pollack Periodica,1,0.03,2024,2024,1,HU
+Postdigital science and education,1,0.03,2025,2025,1,HR
+Postępy Higieny i Medycyny Doświadczalnej,1,0.03,2024,2024,1,PL
+Praxis Educativa,1,0.03,2026,2026,1,ES
+Preventive Medicine,1,0.03,2025,2025,1,FR
+Prisma social,1,0.03,2025,2025,1,ES
+Problems and Perspectives in Management,1,0.03,2025,2025,1,PL
+Proceedings of Pakistan Academy of Sciences A Physical and Computational Sciences,1,0.03,2025,2025,1,IT
+Proceedings of the ACM on Human-Computer Interaction,1,0.03,2026,2026,1,DE
+Proceedings of the Royal Society A Mathematical Physical and Engineering Sciences,1,0.03,2022,2022,1,FI
+Production Engineering Archives,1,0.03,2025,2025,1,PL
+Professional Development in Education,1,0.03,2025,2025,1,FI
+Psychiatria Danubina,1,0.03,2025,2025,1,DK
+Psychological Medicine,1,0.03,2025,2025,1,NL
+Public Health,1,0.03,2025,2025,1,BE
+Public Health Nursing,1,0.03,2024,2024,1,IE
+Publications,1,0.03,2025,2025,1,ES
+Quality Assurance in Education,1,0.03,2020,2020,1,PL
+Quality Engineering,1,0.03,2023,2023,1,DE
+Quality in Higher Education,1,0.03,2026,2026,1,ES
+Quality of Life Research,1,0.03,2026,2026,1,NL
+Quantitative Finance and Economics,1,0.03,2025,2025,2,ES; PT
+R and D Management,1,0.03,2025,2025,1,IE
+Radiography,1,0.03,2022,2022,1,IE
+Radiology Artificial Intelligence,1,0.03,2023,2023,1,DE
+Radix,1,0.03,2025,2025,1,NL
+Recenti Progressi in Medicina,1,0.03,2025,2025,1,IT
+Religion & Education,1,0.03,2026,2026,1,SE
+Remote Sensing,1,0.03,2020,2020,1,PL
+Renal Failure,1,0.03,2026,2026,1,IT
+Research,1,0.03,2025,2025,1,ES
+Research Methods in Applied Linguistics,1,0.03,2026,2026,1,DE
+Research in Autism,1,0.03,2025,2025,1,NL
+Research in Mathematics Education,1,0.03,2026,2026,1,IT
+Research in Transportation Economics,1,0.03,2025,2025,1,GR
+Research on Biomedical Engineering,1,0.03,2023,2023,1,IT
+Respirology,1,0.03,2021,2021,1,GR
+Retos,1,0.03,2025,2025,1,ES
+Review of Income and Wealth,1,0.03,2024,2024,1,PT
+Review of Regional Research,1,0.03,2024,2024,1,DE
+Revija za elementarno izobraževanje,1,0.03,2023,2023,1,SI
+Revista Complutense de Educación,1,0.03,2026,2026,1,ES
+Revista Electrónica Interuniversitaria de Formación del Profesorado,1,0.03,2024,2024,1,ES
+Revista de Comunicación,1,0.03,2026,2026,1,SK
+Revista de Gestão,1,0.03,2025,2025,1,PT
+Revista de Neurología,1,0.03,2025,2025,1,ES
+Robotics,1,0.03,2023,2023,1,FR
+Rock Mechanics and Rock Engineering,1,0.03,2022,2022,1,FR
+Romanian Journal of Information Science and Technology,1,0.03,2023,2023,1,CY
+Romanica Wratislaviensia,1,0.03,2025,2025,1,PL
+SN Computer Science,1,0.03,2020,2020,1,DE
+SN Social Sciences,1,0.03,2026,2026,1,ES
+Scandinavian Journal of Educational Research,1,0.03,2024,2024,1,SE
+School Science and Mathematics,1,0.03,2026,2026,1,DE
+Sci,1,0.03,2026,2026,1,PL
+Science,1,0.03,2026,2026,1,AT
+Science & Education,1,0.03,2024,2024,1,IT
+Science Advances,1,0.03,2026,2026,1,FI
+Science Education,1,0.03,2025,2025,1,DE
+Scientific Annals of Economics and Business,1,0.03,2023,2023,1,RO
+Scientometrics,1,0.03,2026,2026,1,DE
+Seismological Research Letters,1,0.03,2025,2025,1,DE
+Seminars in Oncology Nursing,1,0.03,2025,2025,1,HR
+Sex Education,1,0.03,2026,2026,1,DE
+Sinergie Italian Journal of Management,1,0.03,2024,2024,1,IT
+Skin Research and Technology,1,0.03,2023,2023,1,IE
+Small Ruminant Research,1,0.03,2023,2023,1,HU
+Smart Agricultural Technology,1,0.03,2024,2024,2,DE; IT
+Social Indicators Research,1,0.03,2025,2025,1,LU
+Social Network Analysis and Mining,1,0.03,2023,2023,1,GR
+Social Science Research,1,0.03,2023,2023,1,SE
+Socius Sociological Research for a Dynamic World,1,0.03,2024,2024,1,SE
+Soft Computing,1,0.03,2022,2022,1,FR
+Software,1,0.03,2026,2026,1,DE
+Software & Systems Modeling,1,0.03,2023,2023,2,DE; FR
+Software Practice and Experience,1,0.03,2021,2021,1,FI
+Southeastern Philippines Journal of Research and Development,1,0.03,2025,2025,1,PT
+Speech Communication,1,0.03,2024,2024,1,FI
+Springer Proceedings in Materials,1,0.03,2024,2024,1,ES
+Statistical Methods & Applications,1,0.03,2025,2025,1,IT
+Statistics Optimization & Information Computing,1,0.03,2024,2024,1,HU
+Statistics in Medicine,1,0.03,2026,2026,1,DE
+Strategic Organization,1,0.03,2025,2025,1,FR
+Structural Change and Economic Dynamics,1,0.03,2026,2026,1,ES
+Studia paedagogica,1,0.03,2024,2024,1,PT
+Studies About Languages,1,0.03,2025,2025,1,SK
+Studies In Educational Evaluation,1,0.03,2024,2024,1,GR
+Studies in Business and Economics,1,0.03,2026,2026,1,RO
+Studies in Philosophy and Education,1,0.03,2026,2026,1,DE
+Studies in big data,1,0.03,2025,2025,1,DE
+Supply Chain Management An International Journal,1,0.03,2025,2025,2,FR; GR
+Surgeries,1,0.03,2025,2025,1,IT
+Sustainable Cities and Society,1,0.03,2022,2022,2,CZ; PT
+Sustainable civil infrastructures,1,0.03,2025,2025,1,CY
+Sustainable development goals series,1,0.03,2026,2026,1,GR
+Symmetry,1,0.03,2025,2025,1,ES
+System,1,0.03,2025,2025,1,NL
+Systems Research and Behavioral Science,1,0.03,2026,2026,1,GR
+TATuP - Zeitschrift für Technikfolgenabschätzung in Theorie und Praxis,1,0.03,2024,2024,1,CZ
+TURKISH JOURNAL OF MEDICAL SCIENCES,1,0.03,2026,2026,1,SI
+Teaching Statistics,1,0.03,2025,2025,1,DE
+Teaching Theology & Religion,1,0.03,2025,2025,2,DE; PL
+TechTrends,1,0.03,2025,2025,5,DE; ES; HR; IE; SE
+Technology Innovation Management Review,1,0.03,2021,2021,1,DE
+Technology Pedagogy and Education,1,0.03,2026,2026,1,MT
+Technology in Language Teaching & Learning,1,0.03,2025,2025,1,MT
+Tehnički glasnik,1,0.03,2025,2025,1,HR
+Telecom,1,0.03,2026,2026,1,GR
+Telematics and Informatics,1,0.03,2025,2025,2,DE; FI
+Telematics and Informatics Reports,1,0.03,2022,2022,1,IE
+Telemedicine Journal and e-Health,1,0.03,2020,2020,1,DK
+The American Journal of Medicine,1,0.03,2024,2024,1,ES
+The Asia-Pacific Education Researcher,1,0.03,2026,2026,1,IE
+The Astrophysical Journal Supplement Series,1,0.03,2025,2025,2,DE; IT
+The Clinical Teacher,1,0.03,2026,2026,1,FR
+The Curriculum Journal,1,0.03,2026,2026,1,IT
+The EPMA Journal,1,0.03,2024,2024,5,AT; CZ; DE; SE; SK
+The European Journal of Health Economics,1,0.03,2025,2025,1,HU
+The Hearing Journal,1,0.03,2023,2023,1,NL
+The Indian Journal of Medical Research,1,0.03,2026,2026,1,NL
+The International Food and Agribusiness Management Review,1,0.03,2024,2024,1,DE
+The International Journal of Advanced Manufacturing Technology,1,0.03,2025,2025,1,IT
+The International Journal of Interdisciplinary Educational Studies,1,0.03,2026,2026,1,PT
+The International Journal of Learning in Higher Education,1,0.03,2025,2025,1,PT
+The International Journal of Life Cycle Assessment,1,0.03,2026,2026,1,IT
+The International Journal of Technologies in Learning,1,0.03,2026,2026,1,ES
+The Journal of Academic Librarianship,1,0.03,2026,2026,1,DE
+The Journal of Economic Inequality,1,0.03,2022,2022,1,ES
+The Journal of Educational Research,1,0.03,2025,2025,1,PL
+The Journal of Experimental Education,1,0.03,2026,2026,1,DE
+The Journal of Physical Chemistry C,1,0.03,2026,2026,1,IT
+The Journal of Sexual Medicine,1,0.03,2026,2026,1,IT
+The Lancet Global Health,1,0.03,2025,2025,1,IE
+The Lancet Healthy Longevity,1,0.03,2023,2023,3,DE; ES; FI
+The Lancet Regional Health - Western Pacific,1,0.03,2023,2023,1,DE
+The Physics Educator,1,0.03,2026,2026,1,IT
+The Science of The Total Environment,1,0.03,2024,2024,1,IE
+The TQM Journal,1,0.03,2025,2025,2,CZ; SK
+Theory and Practice of Logic Programming,1,0.03,2021,2021,1,PT
+Therapeutic Advances in Chronic Disease,1,0.03,2023,2023,1,DE
+Therapeutic Advances in Musculoskeletal Disease,1,0.03,2025,2025,1,DE
+Transactions in GIS,1,0.03,2026,2026,1,FR
+Transactions of the Association for Computational Linguistics,1,0.03,2025,2025,1,AT
+Transforming Government People Process and Policy,1,0.03,2026,2026,1,IT
+Translational Psychiatry,1,0.03,2022,2022,1,IT
+Translational Vision Science & Technology,1,0.03,2024,2024,1,FR
+Transplant Infectious Disease,1,0.03,2022,2022,1,FR
+Transport Problems,1,0.03,2025,2025,1,PL
+Trends in Food Science & Technology,1,0.03,2022,2022,1,IE
+Türk anesteziyoloji ve reanimasyon derneği dergisi,1,0.03,2025,2025,1,IT
+Ubiquitous Learning An International Journal,1,0.03,2026,2026,1,GR
+Umanistica Digitale,1,0.03,2026,2026,1,GR
+Unterrichtswissenschaft,1,0.03,2026,2026,1,DE
+Utopian Studies,1,0.03,2024,2024,1,ES
+Value in Health,1,0.03,2025,2025,1,HU
+Veterinary Sciences,1,0.03,2026,2026,1,ES
+Virtual Economics,1,0.03,2023,2023,1,LV
+Virtual Reality,1,0.03,2026,2026,1,AT
+Virtual Worlds,1,0.03,2026,2026,1,GR
+Visible Language,1,0.03,2026,2026,1,SE
+Visual Neuroscience,1,0.03,2025,2025,1,PL
+Vox Sanguinis,1,0.03,2026,2026,1,FR
+WMU Journal of Maritime Affairs,1,0.03,2026,2026,1,NL
+WSEAS TRANSACTIONS ON COMPUTER RESEARCH,1,0.03,2026,2026,1,BG
+WSEAS TRANSACTIONS ON ENVIRONMENT AND DEVELOPMENT,1,0.03,2020,2020,2,LT; LV
+Wear,1,0.03,2024,2024,1,DE
+Wiley Interdisciplinary Reviews Data Mining and Knowledge Discovery,1,0.03,2022,2022,2,CZ; DE
+Wireless Communications and Mobile Computing,1,0.03,2022,2022,1,ES
+Women s Health,1,0.03,2026,2026,1,ES
+World Electric Vehicle Journal,1,0.03,2025,2025,1,HU
+Zeitschrift für Erziehungswissenschaft,1,0.03,2023,2023,1,DE
+Zeitschrift für Evidenz Fortbildung und Qualität im Gesundheitswesen,1,0.03,2026,2026,1,DE
+Zeitschrift für Psychologie,1,0.03,2023,2023,1,DE
+it - Information Technology,1,0.03,2021,2021,1,DE
+Az Eszterházy Károly Tanárképző Főiskola tudományos közleményei. Tanulmányok a matematikai tudományok köréből/Az Eszterházy Károly Főiskola tudományos közleményei. Tanulmányok a matematikai tudományok köréből/Annales mathematicae et informaticae,1,0.03,2023,2023,1,HU
+The Australian journal of teacher education,1,0.03,2025,2025,1,FI
+The journal of classics teaching,1,0.03,2026,2026,1,IT
+Вестник Российского университета дружбы народов. Серия: Социология,1,0.03,2024,2024,1,LV

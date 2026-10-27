@@ -1,0 +1,2 @@
+population,records_clustered,records_with_country,best_k,topic_cluster_silhouette,country_baseline_silhouette
+STRICT likely-relevant records excluding reviewed out-of-scope,2972,2000,5,0.012562761236236529,-0.012190906925635731
