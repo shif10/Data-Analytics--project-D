@@ -5,7 +5,7 @@ Edit the values here; the rest of the pipeline imports from this file.
 
 # --- Politeness: OpenAlex asks you to identify yourself (the "polite pool"). ---
 # Put a real email here. It only identifies you for rate-limiting; no key needed.
-MAILTO = "you@example.com"   # <-- CHANGE THIS
+MAILTO = "projectd-team@constructor.university"  # used for OpenAlex polite-pool identification
 
 # --- Scope: which countries count as "European" for the co-author filter. ---
 # Default = EU-27. To use a broader "Europe", add e.g. "gb", "no", "ch", "is".
