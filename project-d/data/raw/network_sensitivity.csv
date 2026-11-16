@@ -1,5 +1,0 @@
-,nodes,edges,largest,largest_share,communities,big_communities,modularity,modularity_country,nmi_country,cross_country_share
-main network,2489,13408,2124,0.853,17,14,0.59,0.5,0.465,0.383
-(a) likely relevant only,2300,11460,1934,0.841,16,13,0.594,0.498,0.407,0.385
-(b) papers with <= 10 institutions,2338,8224,1954,0.836,15,14,0.653,0.567,0.51,0.33
-(c) links with weight >= 2,874,2026,735,0.841,17,12,0.747,0.628,0.55,0.241
