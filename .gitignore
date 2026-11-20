@@ -44,3 +44,6 @@ Thumbs.db
 # ---- From main ----
 *.jsonl
 project-d-backup/
+
+# Superseded backups (kept locally for reference)
+archive/

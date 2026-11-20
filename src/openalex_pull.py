@@ -112,6 +112,7 @@ def pull() -> None:
         "per-page": 200,              # max page size
         "select": SELECT_FIELDS,
         "mailto": config.MAILTO,
+        "api_key": config.OPENALEX_API_KEY,
     }
 
     # First request: get total + first cursor.
@@ -161,7 +162,12 @@ def pull() -> None:
 
 
 def count_only() -> None:
-    params = {"filter": config.build_filter(), "per-page": 1, "mailto": config.MAILTO}
+    params = {
+       "filter": config.build_filter(),
+       "per-page": 1,
+       "mailto": config.MAILTO,
+       "api_key": config.OPENALEX_API_KEY,
+}
     r = get_with_retry(config.OPENALEX_WORKS_URL, params)
     print(f"{r.json()['meta']['count']:,} works match the filter.")
 
