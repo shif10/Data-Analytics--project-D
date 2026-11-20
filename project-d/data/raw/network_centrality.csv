@@ -1,0 +1,2125 @@
+institution,country,degree,weighted_degree,betweenness,community,papers
+Centre National de la Recherche Scientifique,FR,263,455,0.1109,1,93
+Inserm,FR,193,304,0.0504,1,42
+Ludwig-Maximilians-Universität München,DE,156,220,0.0401,4,71
+University of Bonn,DE,69,210,0.0086,12,86
+Sorbonne Université,FR,99,187,0.0166,1,38
+Karolinska Institutet,SE,132,184,0.0309,5,41
+Technical University of Munich,DE,116,173,0.0299,2,78
+Vrije Universiteit Amsterdam,NL,99,171,0.0134,3,42
+University of Tübingen,DE,83,169,0.0155,2,63
+Leibniz University Hannover,DE,27,148,0.0039,12,80
+Amsterdam University Medical Centers,NL,101,146,0.0104,4,24
+Charité – Universitätsmedizin Berlin,DE,91,143,0.0114,2,44
+University of Naples Federico II,IT,96,141,0.0166,3,44
+Radboud University Nijmegen,NL,100,140,0.0158,4,34
+Humboldt-Universität zu Berlin,DE,88,139,0.0214,2,43
+L3S Research Center,DE,18,138,0.0003,12,64
+Instituto de Salud Carlos III,ES,99,137,0.014,4,17
+Universitat de Barcelona,ES,102,132,0.0143,4,51
+University of Copenhagen,DK,82,129,0.0253,11,52
+Universitat Pompeu Fabra,ES,89,127,0.0115,4,34
+Universidad Complutense de Madrid,ES,90,127,0.0199,7,55
+Université Paris-Saclay,FR,92,125,0.0172,1,23
+National Research Council,IT,73,122,0.0172,3,45
+Aristotle University of Thessaloniki,GR,99,119,0.0208,9,45
+University of Gothenburg,SE,94,119,0.0135,4,48
+National and Kapodistrian University of Athens,GR,96,119,0.0272,9,43
+University of Groningen,NL,98,117,0.0149,4,30
+Aarhus University,DK,90,117,0.0193,3,61
+University of Turin,IT,68,116,0.0104,3,38
+RWTH Aachen University,DE,99,116,0.0237,2,31
+University of Milan,IT,90,115,0.0221,3,43
+University of Padua,IT,72,114,0.0151,3,43
+University Medical Center Utrecht,NL,80,114,0.0065,4,22
+Institut national de recherche en sciences et technologies du numérique,FR,72,114,0.0092,1,23
+Amsterdam UMC Location Vrije Universiteit Amsterdam,NL,63,114,0.003,3,14
+University of Bari Aldo Moro,IT,86,114,0.026,3,51
+University of Eastern Finland,FI,74,111,0.0124,5,96
+University of Helsinki,FI,74,109,0.0181,5,58
+Heidelberg University,DE,93,109,0.0107,2,15
+University of Milano-Bicocca,IT,64,107,0.0059,3,33
+Utrecht University,NL,51,106,0.0052,4,56
+Freie Universität Berlin,DE,72,105,0.0065,2,35
+University of Münster,DE,92,103,0.0189,2,20
+Sapienza University of Rome,IT,73,102,0.017,3,45
+University of Turku,FI,73,101,0.0191,5,42
+Delft University of Technology,NL,89,101,0.0165,4,40
+Maastricht University,NL,75,101,0.0142,4,40
+University of Amsterdam,NL,63,100,0.0119,4,37
+Université de Toulouse,FR,65,99,0.0073,3,14
+Université de Bordeaux,FR,60,99,0.0038,1,20
+Université de Rennes,FR,61,98,0.0076,1,15
+KU Leuven,BE,78,98,0.0178,5,49
+KTH Royal Institute of Technology,SE,62,94,0.0118,5,55
+University of Bologna,IT,79,93,0.0275,3,48
+University of Oulu,FI,62,91,0.0077,5,74
+Universidade do Porto,PT,71,89,0.0268,6,46
+University College Dublin,IE,44,88,0.0069,3,67
+University of Patras,GR,49,88,0.0073,9,60
+Hospital Clínic de Barcelona,ES,67,85,0.0031,4,9
+Erasmus MC,NL,64,84,0.0042,4,19
+University of Salerno,IT,67,84,0.0192,3,46
+Université de Lorraine,FR,52,81,0.0139,1,24
+Universidad Rey Juan Carlos,ES,63,81,0.0105,7,46
+University of Lisbon,PT,54,80,0.013,6,34
+Université de Lille,FR,62,80,0.0029,1,14
+"Institut National de Recherche pour l'Agriculture, l'Alimentation et l'Environnement",FR,65,80,0.0052,1,9
+Agostino Gemelli University Polyclinic,IT,57,79,0.0091,3,16
+Karlsruhe Institute of Technology,DE,66,78,0.012,2,31
+Radboud University Medical Center,NL,64,78,0.0028,4,10
+Leipzig University,DE,70,77,0.008,2,13
+Tampere University,FI,41,77,0.0029,5,38
+Université Paris Cité,FR,57,76,0.0105,1,16
+Centro de Investigación Biomédica en Red,ES,50,76,0.0027,4,9
+University of Ljubljana,SI,58,75,0.007,4,37
+Istituti di Ricovero e Cura a Carattere Scientifico,IT,54,75,0.0046,3,15
+Leiden University Medical Center,NL,58,75,0.0066,4,13
+University of Verona,IT,49,74,0.0044,3,15
+Assistance Publique – Hôpitaux de Paris,FR,43,74,0.0014,1,11
+Universitat Politècnica de Catalunya,ES,57,74,0.0113,4,34
+Hospital del Mar Research Institute,ES,40,71,0.0007,4,6
+University of Potsdam,DE,51,70,0.0106,2,35
+University of Freiburg,DE,55,69,0.0049,2,12
+Lund University,SE,63,69,0.0084,4,26
+Universidad Autónoma de Madrid,ES,58,69,0.0097,7,24
+Centro de Investigación Biomédica en Red de Salud Mental,ES,58,68,0.0046,4,8
+Copenhagen University Hospital,DK,42,68,0.0034,11,14
+Universidad Politécnica de Madrid,ES,52,68,0.007,7,39
+Amsterdam Neuroscience,NL,47,67,0.0011,4,7
+Leibniz-Institut für Wissensmedien,DE,29,67,0.0011,2,21
+Dublin City University,IE,52,67,0.0121,2,55
+University Medical Center Groningen,NL,51,65,0.0015,4,11
+Universitat Oberta de Catalunya,ES,54,65,0.0084,6,37
+Max Planck Institute for Human Development,DE,33,64,0.0012,3,9
+University of Göttingen,DE,52,63,0.0034,2,22
+Pasqual Maragall Foundation,ES,35,63,0.0004,4,5
+Barcelonaβeta Brain Research Center,ES,35,63,0.0004,4,5
+Rigshospitalet,DK,44,63,0.0039,11,13
+Copenhagen Business School,DK,27,62,0.0031,3,19
+Medical University of Vienna,AT,62,62,0.0073,5,7
+Charles University,CZ,54,62,0.0182,5,24
+Nantes Université,FR,54,61,0.0034,1,8
+LMU Klinikum,DE,46,61,0.0029,4,12
+University of Tartu,EE,56,61,0.0089,2,36
+Uppsala University,SE,48,60,0.0136,5,30
+Université Paris Sciences et Lettres,FR,27,60,0.0044,1,10
+Leibniz Institute for Science and Mathematics Education,DE,37,60,0.003,2,29
+Rheinland-Pfälzische Technische Universität Kaiserslautern-Landau,DE,52,60,0.004,2,9
+"Biomedical Research Networking Center in Bioengineering, Biomaterials and Nanomedicine",ES,34,60,0.0003,4,5
+Universidad de Salamanca,ES,43,59,0.0097,6,66
+University of Klagenfurt,AT,29,59,0.0024,3,11
+University Hospital Heidelberg,DE,51,59,0.0015,2,7
+Universidad Internacional de La Rioja,ES,46,59,0.0087,7,41
+Stockholm University,SE,45,59,0.0086,5,45
+Université Grenoble Alpes,FR,50,59,0.0073,9,12
+University of Tampere,FI,36,59,0.0018,5,20
+University of L'Aquila,IT,44,58,0.0048,3,20
+FernUniversität in Hagen,DE,44,57,0.0096,2,31
+Marche Polytechnic University,IT,45,57,0.0046,3,9
+University of Aveiro,PT,37,57,0.011,6,46
+Bocconi University,IT,26,57,0.0006,3,9
+Centro de Investigación Biomédica en Red de Epidemiología y Salud Pública,ES,44,55,0.0032,4,7
+Institut Polytechnique de Paris,FR,40,55,0.0069,14,16
+Ruhr University Bochum,DE,41,55,0.0046,2,28
+Universitat Politècnica de València,ES,43,55,0.0086,7,34
+Helsinki University Hospital,FI,45,55,0.001,5,6
+University of Modena and Reggio Emilia,IT,48,55,0.0042,3,23
+Justus-Liebig-Universität Gießen,DE,37,55,0.0043,2,19
+University of Catania,IT,47,55,0.0064,14,22
+University of Palermo,IT,44,54,0.0033,3,17
+Leiden University,NL,42,54,0.0028,4,24
+University of Zagreb,HR,30,53,0.0198,11,48
+Aalto University,FI,37,53,0.007,3,40
+Centre Hospitalier Universitaire de Bordeaux,FR,42,53,0.0015,1,5
+Maastricht University Medical Centre,NL,41,53,0.0041,4,13
+"University of Campania ""Luigi Vanvitelli""",IT,51,53,0.0062,3,9
+Friedrich Schiller University Jena,DE,48,52,0.0035,2,16
+Medical University of Graz,AT,48,52,0.0028,4,11
+Technische Universität Dresden,DE,34,52,0.0006,2,22
+Friedrich-Alexander-Universität Erlangen-Nürnberg,DE,49,52,0.0054,2,23
+University of Pisa,IT,35,52,0.0055,3,31
+Turku University Hospital,FI,44,51,0.002,5,6
+University of Würzburg,DE,48,51,0.0044,2,16
+Université Côte d'Azur,FR,29,51,0.0025,1,27
+Pitié-Salpêtrière Hospital,FR,26,51,0.0002,1,4
+Universidad de Sevilla,ES,46,50,0.0055,9,29
+Universitat Autònoma de Barcelona,ES,41,50,0.006,6,32
+Heinrich Heine University Düsseldorf,DE,42,50,0.0027,5,12
+University of Pavia,IT,33,50,0.0029,3,15
+Eindhoven University of Technology,NL,41,50,0.0041,2,29
+German Centre for Cardiovascular Research,DE,41,50,0.001,2,8
+Fondazione IRCCS Ca' Granda Ospedale Maggiore Policlinico,IT,45,50,0.0068,3,8
+Institut de Recherche pour le Développement,FR,45,50,0.0036,1,6
+Medizinische Hochschule Hannover,DE,50,50,0.006,2,7
+Toulouse School of Economics,FR,19,49,0.0005,3,5
+Universidade de Santiago de Compostela,ES,46,49,0.0051,4,11
+TU Dortmund University,DE,43,49,0.0047,2,18
+IMT School for Advanced Studies Lucca,IT,28,49,0.0013,3,7
+Lyon 1 Université,FR,38,49,0.0086,12,14
+Université Toulouse III - Paul Sabatier,FR,39,49,0.0044,4,7
+Trinity College Dublin,IE,40,49,0.0083,3,41
+École Normale Supérieure - PSL,FR,20,49,0.0001,1,5
+Centre for Research and Technology Hellas,GR,34,49,0.0016,12,11
+Consejo Superior de Investigaciones Científicas,ES,44,48,0.0048,9,11
+University of Kaiserslautern,DE,44,48,0.0013,2,5
+INESC TEC,PT,27,48,0.0034,6,22
+Université de Caen Normandie,FR,46,48,0.0008,1,3
+Universitatea Națională de Știință și Tehnologie Politehnica București,RO,26,48,0.0082,10,47
+Hellenic Open University,GR,21,48,0.0019,9,40
+University of Ioannina,GR,36,48,0.0071,9,46
+Politecnico di Milano,IT,44,48,0.0048,9,35
+Aix-Marseille Université,FR,45,48,0.0026,1,7
+Université Paris-Est Créteil,FR,20,47,0.0054,1,8
+Université de Strasbourg,FR,38,47,0.004,1,10
+Centro de Investigación Biomédica en Red de Fragilidad y Envejecimiento Saludable,ES,30,47,0.0001,4,3
+Region Stockholm,SE,39,47,0.001,5,5
+Technische Universität Berlin,DE,43,47,0.0047,2,10
+Lundbeck (Denmark),DK,30,47,0.0001,4,3
+Athens University of Economics and Business,GR,18,47,0.0006,3,11
+DIPF | Leibniz Institute for Research and Information in Education,DE,29,47,0.0027,2,19
+Chalmers University of Technology,SE,37,46,0.0044,7,22
+University of Genoa,IT,34,46,0.0053,3,30
+Universidad de Valladolid,ES,33,46,0.0097,5,37
+Hospices Civils de Lyon,FR,43,46,0.0066,1,4
+Erasmus University Rotterdam,NL,40,46,0.0048,4,21
+University of Foggia,IT,28,46,0.0048,3,31
+Martin Luther University Halle-Wittenberg,DE,16,46,0.0004,2,18
+Laboratoire des Sciences et Techniques de l’Information de la Communication et de la Connaissance,FR,27,46,0.0035,1,12
+Tilburg University,NL,37,45,0.0029,4,15
+Universitat Internacional de Catalunya,ES,37,45,0.0048,12,14
+TUM Klinikum,DE,32,45,0.0009,2,9
+University College Cork,IE,23,45,0.0084,5,41
+University of Minho,PT,33,44,0.0051,6,27
+IMT Atlantique,FR,27,44,0.0036,1,11
+Open University of the Netherlands,NL,31,44,0.0053,4,36
+Amsterdam Public Health,NL,30,43,0.0003,4,8
+Ca' Foscari University of Venice,IT,25,43,0.0016,3,12
+Technical University of Denmark,DK,40,43,0.0045,9,20
+University of the Basque Country,ES,34,43,0.0079,7,39
+Universidad Nacional de Educación a Distancia,ES,31,43,0.0043,7,39
+Hospital Clínico San Carlos,ES,38,43,0.0016,7,5
+Universität für Weiterbildung Krems,AT,31,43,0.0031,5,16
+University of Cologne,DE,39,43,0.0048,3,20
+Berlin Institute of Health at Charité - Universitätsmedizin Berlin,DE,24,43,0.0007,2,10
+University of Nicosia,CY,22,43,0.0056,9,39
+Universität Hamburg,DE,37,42,0.0086,2,35
+Universidad Loyola Andalucía,ES,21,42,0.0005,3,7
+Centre Hospitalier Universitaire de Tours,FR,39,42,0.0003,1,3
+Bordeaux Population Health,FR,26,42,0.0004,1,7
+Vall d'Hebron Hospital Universitari,ES,37,42,0.002,6,6
+University of Southern Denmark,DK,32,42,0.0063,11,30
+University Medical Center Hamburg-Eppendorf,DE,37,41,0.0025,2,7
+Technological University Dublin,IE,26,41,0.0021,3,32
+Riga Stradiņš University,LV,34,41,0.0014,4,10
+Université de Tours,FR,36,41,0.0003,1,4
+Technische Informationsbibliothek (TIB),DE,34,41,0.0008,2,8
+Czech Technical University in Prague,CZ,30,40,0.0071,8,18
+Commissariat à l'Énergie Atomique et aux Énergies Alternatives,FR,36,40,0.0011,9,4
+Ljubljana University Medical Centre,SI,35,40,0.0007,4,5
+Pegaso University,IT,30,40,0.0067,3,34
+Universidade Técnica do Porto,PT,29,40,0.0088,6,25
+Institut de recherche mathématique de Rennes,FR,18,40,0.0,1,3
+Hôpital Albert-Chenevier,FR,18,40,0.0,1,3
+Tallinn University,EE,21,40,0.0023,5,26
+Institut Mondor de Recherche Biomédicale,FR,18,40,0.0,1,3
+Universidad de Málaga,ES,34,40,0.0029,7,27
+German Research Centre for Artificial Intelligence,DE,24,40,0.006,2,19
+Karolinska University Hospital,SE,31,40,0.0017,5,7
+Istituto di Fisiologia Clinica,IT,22,40,0.0009,3,6
+Biomedical Research Networking Center on Neurodegenerative Diseases,ES,34,39,0.0012,12,5
+Hôpitaux Universitaires de Strasbourg,FR,35,39,0.0003,1,3
+Amsterdam UMC Location University of Amsterdam,NL,35,39,0.0008,4,7
+Semmelweis University,HU,37,39,0.0048,5,6
+Deutsches Herzzentrum der Charité,DE,35,39,0.0007,2,5
+Magna Graecia University,IT,37,38,0.0009,3,6
+Instituto de Investigación Sanitaria del Hospital Clínico San Carlos,ES,32,38,0.0009,7,4
+National Technical University of Athens,GR,28,38,0.0036,9,22
+Helmholtz Munich,DE,37,38,0.0022,1,4
+Université Paris Descartes,FR,10,38,0.0,3,6
+Fraunhofer Institute for Algorithms and Scientific Computing,DE,26,38,0.0004,12,6
+Johannes Gutenberg University Mainz,DE,35,38,0.0007,2,5
+Iscte – Instituto Universitário de Lisboa,PT,28,38,0.0049,6,20
+Centre Hospitalier Universitaire de Lille,FR,34,38,0.0008,1,3
+Hospital Del Mar,ES,24,38,0.0001,4,4
+Graz University of Technology,AT,32,38,0.0044,4,29
+Barcelona Institute for Global Health,ES,31,38,0.0004,4,5
+Bielefeld University,DE,36,37,0.0045,4,21
+Helmholtz Centre for Environmental Research,DE,33,37,0.0008,2,4
+University of Hildesheim,DE,33,37,0.0031,2,8
+Universitat Jaume I,ES,19,37,0.0009,3,18
+Max Planck Institute of Psychiatry,DE,32,37,0.0009,4,4
+Christian-Albrechts-Universität zu Kiel,DE,29,37,0.0024,2,12
+Centre for Biomedical Network Research on Rare Diseases,ES,37,37,0.0025,7,2
+University of Castilla-La Mancha,ES,29,36,0.0018,7,33
+Bonn Aachen International Center for Information Technology,DE,26,36,0.0004,12,5
+University of Calabria,IT,30,36,0.0033,3,19
+Hospital General Universitario Gregorio Marañón,ES,36,36,0.0013,7,3
+Municipal Institute for Medical Research,ES,23,36,0.0001,4,3
+Universität Innsbruck,AT,33,36,0.003,4,23
+University of Trento,IT,25,36,0.0046,3,25
+Université de Nantes,FR,31,36,0.0002,1,5
+University of Jyväskylä,FI,21,35,0.002,5,52
+Economic and Social Research Institute,IE,14,35,0.0,3,3
+Near East University,CY,5,35,0.0039,16,55
+Institució Catalana de Recerca i Estudis Avançats,ES,29,35,0.001,4,7
+University Hospital Bonn,DE,31,34,0.0023,2,8
+University of Malta,MT,22,34,0.0018,3,37
+University of the Aegean,GR,25,34,0.0047,9,26
+Université de Montpellier,FR,33,34,0.004,1,8
+Jena University Hospital,DE,30,34,0.0012,2,4
+University Medical Center Freiburg,DE,30,34,0.0006,2,4
+Humanitas University,IT,27,34,0.0018,3,10
+University of Bremen,DE,31,34,0.0045,4,20
+University of Cyprus,CY,34,34,0.0041,9,13
+University of Stuttgart,DE,32,34,0.0027,2,9
+German Center for Lung Research,DE,34,34,0.0023,1,3
+University of Crete,GR,19,34,0.0038,9,39
+Institute for Molecular Medicine Finland,FI,23,33,0.0001,5,5
+University of Beira Interior,PT,27,33,0.0071,6,17
+Wageningen University & Research,NL,27,33,0.0087,4,15
+Universidade Nova de Lisboa,PT,29,33,0.0061,6,30
+University of Duisburg-Essen,DE,28,33,0.0069,12,31
+Osnabrück University,DE,28,33,0.0037,2,10
+Université d'Angers,FR,31,33,0.0013,1,6
+Institut de Recherche en Informatique et Systèmes Aléatoires,FR,17,33,0.0007,1,10
+Hôpital Saint-Antoine,FR,27,33,0.0002,1,4
+Ghent University,BE,24,33,0.0026,5,26
+Luleå University of Technology,SE,26,33,0.0065,5,26
+University of Thessaly,GR,21,33,0.0016,9,38
+Technische Universität Braunschweig,DE,30,33,0.0025,2,4
+Institut de Recherche en Informatique de Toulouse,FR,23,33,0.0031,1,9
+Universidade Politécnica de Bragança,PT,21,32,0.0026,6,22
+University of Kyrenia,CY,3,32,0.0,16,27
+Politecnico di Torino,IT,18,32,0.0013,3,18
+Ollscoil na Gaillimhe – University of Galway,IE,27,32,0.0056,5,20
+Hôpitaux Universitaires Henri-Mondor,FR,16,32,0.0,1,3
+Bucharest University of Economic Studies,RO,20,32,0.0029,10,64
+Finnish Institute for Health and Welfare,FI,24,31,0.0001,5,4
+"Istituto Nazionale Tumori IRCCS ""Fondazione G. Pascale""",IT,28,31,0.0007,3,4
+Universidad de Oviedo,ES,26,31,0.002,7,17
+Linköping University,SE,20,31,0.0026,5,35
+Universidad de Granada,ES,26,31,0.0026,7,37
+AIT Austrian Institute of Technology GmbH,AT,30,31,0.0017,9,6
+Universidad Carlos III de Madrid,ES,26,31,0.0058,2,24
+University of Vienna,AT,28,31,0.0014,2,15
+Vrije Universiteit Brussel,BE,27,31,0.0054,5,22
+Hasselt University,BE,29,31,0.0046,5,10
+Hôpital Tenon,FR,23,31,0.0002,1,4
+Università Cattolica del Sacro Cuore,IT,19,30,0.0009,3,17
+Centre Hospitalier Universitaire de Toulouse,FR,27,30,0.0002,4,2
+Forschungszentrum Jülich,DE,26,30,0.0015,9,9
+Stockholm Health Care Services,SE,23,30,0.0003,5,4
+Lille Neurosciences & Cognition,FR,27,30,0.0001,1,2
+Instituto Superior Técnico,PT,19,30,0.0022,6,10
+Universidad San Pablo CEU,ES,29,30,0.0003,7,4
+Centro de Investigación Biomédica en Red de Enfermedades Respiratorias,ES,29,30,0.0002,4,2
+Bulgarian Academy of Sciences,BG,22,30,0.0038,7,13
+Wilhelmina Children's Hospital,NL,29,30,0.0008,4,3
+IZA - Institute of Labor Economics,DE,16,30,0.0017,3,19
+University of Piraeus,GR,24,30,0.0068,9,36
+Max Planck Institute for Human Cognitive and Brain Sciences,DE,30,30,0.001,4,3
+University of Debrecen,HU,29,30,0.0015,5,13
+University of Sassari,IT,16,29,0.0002,3,5
+LIP6,FR,11,29,0.0001,1,9
+University Hospital Schleswig-Holstein,DE,27,29,0.0008,2,5
+University of Coimbra,PT,22,29,0.0052,6,20
+Navarre Institute of Health Research,ES,16,29,0.0004,7,6
+University Hospital Münster,DE,24,29,0.0003,2,6
+Normandie Université,FR,28,29,0.0,1,2
+Goethe University Frankfurt,DE,23,29,0.0024,2,18
+AgroParisTech,FR,20,28,0.0004,1,4
+Azienda Ospedaliero-Universitaria delle Marche,IT,20,28,0.0008,3,3
+Panagiotis & Aglaia Kyriakou Children's Hospital,GR,27,28,0.0006,4,2
+IRCCS Ospedale Galeazzi - Sant'Ambrogio,IT,22,28,0.0006,3,6
+Université Paris 8,FR,22,28,0.001,1,4
+Laboratoire d’Imagerie Biomédicale,FR,18,28,0.0,1,2
+IRCCS Humanitas Research Hospital,IT,23,28,0.0009,3,6
+University of Rome Tor Vergata,IT,27,28,0.0084,3,16
+University of Mannheim,DE,23,28,0.0048,2,22
+University of Ostrava,CZ,26,27,0.0021,2,12
+Obuda University,HU,15,27,0.0026,13,36
+Max Planck Society,DE,27,27,0.0013,3,5
+Instituto de Investigación Sanitaria de Santiago,ES,26,27,0.0,4,2
+Democritus University of Thrace,GR,20,27,0.002,9,27
+UCLouvain,BE,26,27,0.0032,3,12
+University of Twente,NL,23,27,0.0076,4,26
+Bispebjerg Hospital,DK,21,26,0.0011,11,4
+Universidad de Zaragoza,ES,24,26,0.0041,10,19
+University of Maribor,SI,21,26,0.0044,8,47
+Kuopio University Hospital,FI,23,26,0.0001,5,3
+Information Technologies Institute,GR,21,26,0.0005,12,5
+Institut Pasteur de Lille,FR,26,26,0.0,1,1
+Centre Hospitalier Universitaire de Caen Normandie,FR,26,26,0.0,1,1
+Centre François Baclesse,FR,26,26,0.0,1,1
+Hôpital de la Conception,FR,26,26,0.0,1,1
+Recherche translationnelle sur le diabète et les troubles métaboliques,FR,26,26,0.0,1,1
+Sahlgrenska University Hospital,SE,17,26,0.0001,4,6
+Universität Ulm,DE,26,26,0.0,2,4
+Universidad de Las Palmas de Gran Canaria,ES,25,26,0.0031,7,11
+FIZ Karlsruhe – Leibniz Institute for Information Infrastructure,DE,26,26,0.0,2,2
+University of Luxembourg,LU,19,26,0.0077,15,26
+Amalia Kinderziekenhuis,NL,26,26,0.0,4,1
+Sanquin,NL,26,26,0.0,4,1
+Hôpital Roger Salengro,FR,26,26,0.0,1,1
+Institut für Energie- und Umwelttechnik,DE,26,26,0.0,2,1
+Beilstein-Institut,DE,26,26,0.0,2,1
+Physikalisch-Technische Bundesanstalt,DE,26,26,0.0,2,1
+University of Siegen,DE,21,26,0.0021,7,9
+Leibniz Institute of Photonic Technology,DE,26,26,0.0,2,1
+Centre Hospitalier Universitaire d'Angers,FR,26,26,0.0,1,1
+Centre de Recherche en Cancérologie et Immunologie Intégrée Nantes Angers,FR,26,26,0.0,1,1
+Centre de Recherche en CardioVasculaire et Nutrition,FR,26,26,0.0,1,1
+Centre Européen de Recherche en Imagerie Médicale,FR,26,26,0.0,1,1
+Radboud Institute for Molecular Life Sciences,NL,26,26,0.0,4,1
+Children's Clinical University Hospital,LV,26,26,0.0,4,1
+Emma Kinderziekenhuis,NL,26,26,0.0,4,1
+Leibniz Institute of Plant Biochemistry,DE,26,26,0.0,2,1
+Evaluation des technologies de santé et des pratiques médicales,FR,26,26,0.0,1,1
+Federal Institute For Materials Research and Testing,DE,26,26,0.0,2,1
+Laboratoire Lorrain de Recherche en Informatique et ses Applications,FR,12,25,0.0001,1,9
+Polish Academy of Sciences,PL,22,25,0.0062,8,10
+Institut d'Investigació Biomédica de Bellvitge,ES,15,25,0.0,4,6
+Ospedale di Bolzano,IT,23,25,0.0007,3,3
+Comenius University Bratislava,SK,24,25,0.0046,12,15
+Azienda Ospedaliera Universitaria Integrata Verona,IT,21,25,0.001,3,4
+University of Córdoba,ES,22,25,0.0016,1,26
+Universitat de València,ES,15,25,0.001,7,44
+Linnaeus University,SE,16,25,0.0026,5,29
+Centro San Giovanni di Dio Fatebenefratelli,IT,25,25,0.0008,12,3
+Universitat de Miguel Hernández d'Elx,ES,23,24,0.001,7,7
+Azienda Ospedaliero-Universitaria Careggi,IT,24,24,0.0017,3,5
+Hôpital Lyon Sud,FR,22,24,0.0009,4,2
+Université de Rouen Normandie,FR,24,24,0.0019,5,3
+University of Passau,DE,23,24,0.0028,2,15
+Carl von Ossietzky Universität Oldenburg,DE,24,24,0.0012,2,15
+Kaunas University of Technology,LT,19,24,0.0036,2,21
+Universitätsklinikum Tübingen,DE,19,24,0.0001,2,5
+Skåne University Hospital,SE,22,24,0.0002,4,3
+Ospedale Policlinico San Martino,IT,20,24,0.0008,3,3
+General University Hospital in Prague,CZ,21,24,0.0016,5,4
+Berlin Institute for the Foundations of Learning and Data,DE,22,24,0.0003,2,2
+Universidade Portucalense,PT,15,23,0.0023,6,15
+European Commission,BE,18,23,0.0003,14,4
+IMEC,BE,15,23,0.0029,5,11
+University of Trieste,IT,23,23,0.0009,4,4
+Universidade Politécnica de Coimbra,PT,16,23,0.0006,6,13
+Universidad de Jaén,ES,17,23,0.0005,7,13
+Universitätsklinikum Erlangen,DE,23,23,0.0005,2,2
+Örebro University,SE,23,23,0.0019,5,8
+Philipps University of Marburg,DE,20,23,0.0012,2,8
+Institute for Systems Engineering and Computers,PT,18,23,0.0011,6,8
+Aalborg University,DK,18,23,0.0015,11,32
+Universitair Ziekenhuis Leuven,BE,21,23,0.0003,5,3
+Policlinico San Matteo Fondazione,IT,20,23,0.001,3,4
+IRCCS Ospedale San Raffaele,IT,20,23,0.0004,3,5
+Instituto de Engenharia de Sistemas e Computadores Investigação e Desenvolvimento,PT,9,22,0.0005,6,11
+Universität Koblenz,DE,16,22,0.0001,7,9
+University of Szeged,HU,22,22,0.0062,5,9
+German Center for Neurodegenerative Diseases,DE,20,22,0.0005,2,8
+University of Augsburg,DE,18,22,0.0008,3,13
+Academic Center for Dentistry Amsterdam,NL,14,22,0.0002,3,6
+University of Alicante,ES,19,22,0.0029,7,38
+"Istituto di Scienza e Tecnologie dell'Informazione ""Alessandro Faedo""",IT,18,22,0.0015,3,6
+University of Ferrara,IT,22,22,0.0009,3,6
+Malmö University,SE,22,22,0.0002,5,6
+University of Brescia,IT,17,22,0.0015,3,9
+Otto-von-Guericke-Universität Magdeburg,DE,18,22,0.0033,2,14
+University Hospitals of the Ruhr-University of Bochum,DE,21,22,0.0006,2,3
+Research Institute Hospital 12 de Octubre,ES,16,22,0.0002,7,5
+Oulu University Hospital,FI,18,22,0.0001,5,5
+Carol Davila University of Medicine and Pharmacy,RO,19,22,0.0011,5,7
+Centre Hospitalier Universitaire de Reims,FR,20,21,0.0003,1,2
+Ionian University,GR,18,21,0.0003,9,13
+Roma Tre University,IT,16,21,0.0039,3,16
+Cyceron,FR,21,21,0.0,4,1
+Hospital Universitario 12 De Octubre,ES,16,21,0.0026,7,5
+Hôpital Purpan,FR,21,21,0.0,4,1
+Fundacion CITA Alzheimer,ES,21,21,0.0,4,1
+Toulouse NeuroImaging Center,FR,21,21,0.0,4,1
+Université de Haute-Alsace,FR,16,21,0.0005,1,6
+Universidade da Coruña,ES,18,21,0.0005,7,15
+Centre de Recherche Épidémiologie et Statistique,FR,16,21,0.0,1,3
+University of Florence,IT,17,21,0.0014,3,23
+University of Liège,BE,17,21,0.0006,7,9
+Central Institute of Mental Health,DE,20,21,0.0003,12,3
+Universidad de Deusto,ES,17,21,0.0013,2,13
+IPO Porto,PT,20,21,0.0021,1,3
+"National Centre of Scientific Research ""Demokritos""",GR,17,21,0.0014,9,7
+Hospital Universitari i Politècnic La Fe,ES,21,21,0.0001,7,2
+École Nationale Supérieure des Mines de Paris,FR,7,21,0.0003,10,8
+Joint Research Centre,IT,17,21,0.0001,14,3
+University of Chieti-Pescara,IT,18,21,0.0006,3,12
+Université Paris Nanterre,FR,18,21,0.0038,1,5
+Academia Oamenilor de Știință din România,RO,11,20,0.0005,10,12
+Laboratoire d'Électronique des Technologies de l'Information,FR,18,20,0.0,9,2
+University of Silesia in Katowice,PL,19,20,0.0056,8,12
+Arts et Métiers,FR,19,20,0.0014,1,5
+Leipzig Heart Institute,DE,19,20,0.0003,11,2
+Institut polytechnique de Grenoble,FR,18,20,0.0001,1,2
+University of West Attica,GR,13,20,0.0019,9,44
+Universitätsklinikum Aachen,DE,17,20,0.0005,5,5
+CEA Grenoble,FR,18,20,0.0,9,2
+Hospital El Bierzo,ES,20,20,0.0,7,1
+Azienda Socio Sanitaria Territoriale degli Spedali Civili di Brescia,IT,15,20,0.0004,3,6
+University of Rijeka,HR,12,20,0.0019,3,10
+Joint Research Centre,NL,17,20,0.0001,14,2
+Complejo Hospitalario de Cáceres,ES,20,20,0.0,7,1
+Instituto Ramón y Cajal de Investigación Sanitaria,ES,20,20,0.0,7,1
+Hospital Universitario Fundación Alcorcón,ES,20,20,0.0,7,1
+Hospital General de Granollers,ES,20,20,0.0,7,1
+Bellvitge University Hospital,ES,14,20,0.0,4,4
+Universidad de Alcalá,ES,16,20,0.0006,14,24
+Hospital Universitario de La Princesa,ES,20,20,0.0,7,1
+Instituto de Investigación Sanitaria La Fe,ES,20,20,0.0,7,1
+Institute of Cognitive Sciences and Technologies,IT,16,20,0.0007,3,5
+Universitat Ramon Llull,ES,18,20,0.0009,6,8
+Hospital Universitario Reina Sofía,ES,20,20,0.0,7,1
+Joint Research Centre,DE,17,20,0.0001,14,2
+Universidade Lusófona,PT,19,20,0.0011,6,10
+Instituto de Investigación Sanitaria del Hospital Universitario de La Princesa,ES,20,20,0.0,7,1
+Hospital Universitario de Fuenlabrada,ES,20,20,0.0,7,1
+Hospital Universitario de Gran Canaria Doctor Negrín,ES,20,20,0.0,7,1
+Hospital Universitario Ramón y Cajal,ES,20,20,0.0,7,1
+University of Latvia,LV,15,20,0.0046,8,15
+IRCCS San Raffaele Roma,IT,14,20,0.0001,3,4
+Università degli Studi di Enna Kore,IT,18,20,0.0011,3,7
+European Association of Urology,NL,14,20,0.0001,1,3
+University Hospital Plzen,CZ,19,20,0.0002,12,2
+"Imaging, Brain, and Neuropsychiatry",FR,18,19,0.0001,1,2
+Université Clermont Auvergne,FR,13,19,0.0015,2,5
+Babeș-Bolyai University,RO,19,19,0.0035,10,19
+Unité d'Informatique et d'Ingénierie des Systèmes,FR,13,19,0.0003,1,4
+Academy of Athens,GR,14,19,0.0,9,3
+Frederiksberg Hospital,DK,14,19,0.0001,11,3
+Stiftung Charité,DE,17,19,0.0001,2,3
+University of Messina,IT,19,19,0.0009,3,10
+Biomedical Research Foundation of the Academy of Athens,GR,14,19,0.0,9,3
+Università degli studi di Cassino e del Lazio Meridionale,IT,14,19,0.0008,3,8
+Universidad de Navarra,ES,13,19,0.0026,7,10
+National Institute for Public Health and the Environment,NL,19,19,0.0002,4,2
+University of Vaasa,FI,19,19,0.0004,9,7
+Medical University of Warsaw,PL,19,19,0.0012,5,4
+Max Delbrück Center,DE,14,19,0.0,2,2
+University of Regensburg,DE,14,19,0.0006,3,12
+NeuroCure Cluster of Excellence,DE,14,19,0.0,2,2
+Laboratoire Interdisciplinaire des Sciences du Numérique,FR,12,19,0.0001,1,5
+Universidad de La Rioja,ES,11,19,0.0001,7,10
+Universidade de Vigo,ES,16,19,0.0017,7,18
+Centre Hospitalier Universitaire de Rennes,FR,16,19,0.0003,1,3
+Universidad Pública de Navarra (UPNA),ES,10,19,0.0013,7,7
+Spintronique et Technologie des Composants,FR,18,18,0.0,9,1
+Centre de Nanosciences et de Nanotechnologies,FR,18,18,0.0,9,1
+Institut de Recherche Interdisciplinaire de Grenoble,FR,18,18,0.0,9,1
+Institute for Microelectronics and Microsystems,IT,18,18,0.0,9,1
+Zernike Institute for Advanced Materials,NL,18,18,0.0,9,1
+Azienda Sanitaria Unità Locale di Reggio Emilia,IT,17,18,0.0,4,2
+St. Antonius Ziekenhuis,NL,18,18,0.0,2,1
+International Hellenic University,GR,14,18,0.0024,9,20
+Universidad de Cantabria,ES,10,18,0.0004,5,11
+Széchenyi István University,HU,14,18,0.0078,13,13
+Tallinn University of Technology,EE,13,18,0.0005,5,17
+"Gastroenterology Hospital ""Saverio de Bellis""",IT,10,18,0.0001,3,4
+Medical University Plovdiv,BG,18,18,0.0,4,3
+Centro di Riferimento Oncologico,IT,18,18,0.0003,5,2
+Free University of Bozen-Bolzano,IT,16,18,0.0003,10,7
+Universidad de Huelva,ES,17,18,0.0016,7,9
+Mid Sweden University,SE,15,18,0.0006,3,22
+University of Warsaw,PL,15,18,0.003,8,18
+Laboratoire Bordelais de Recherche en Informatique,FR,13,18,0.0,7,4
+NaMLab (Germany),DE,18,18,0.0,9,1
+Paracelsus Medizinische Privatuniversität,DE,18,18,0.0006,2,2
+Heart and Diabetes Center North Rhine-Westphalia,DE,17,18,0.0002,2,2
+Instituto de Microelectrónica de Sevilla,ES,18,18,0.0,9,1
+Vilnius University,LT,17,18,0.0054,8,13
+University of Almería,ES,14,18,0.0007,7,17
+University Hospital Ostrava,CZ,18,18,0.0,2,1
+Eötvös Loránd University,HU,15,18,0.0093,13,29
+École Normale Supérieure de Rennes,FR,18,18,0.0,4,1
+Centro de Investigação em Ciências da Informação Tecnologias e Arquitetura,PT,12,18,0.0011,6,6
+Institut de Recerca Biomèdica Catalunya Sud,ES,18,18,0.0,4,1
+École Nationale Supérieure de Techniques Avancées,FR,10,17,0.0001,1,5
+Umeå University,SE,15,17,0.0012,12,18
+UNESCO,FR,13,17,0.0015,14,19
+Société Française d'Allergologie,FR,17,17,0.0,1,1
+Transilvania University of Brașov,RO,13,17,0.0028,10,17
+ASL Roma,IT,11,17,0.0,3,2
+University of Évora,PT,17,17,0.0021,6,6
+Mental Health Services,DK,17,17,0.0005,11,2
+Plovdiv University,BG,16,17,0.0028,8,23
+Université de Technologie de Compiègne,FR,7,17,0.0,1,4
+Consorci Institut D'Investigacions Biomediques August Pi I Sunyer,ES,12,17,0.0,4,3
+Folkhälsans Forskningscentrum,FI,17,17,0.0,5,1
+Baden-Wuerttemberg Cooperative State University,DE,14,17,0.0002,2,9
+Electrophysiology and Heart Modeling Institute,FR,16,17,0.0001,1,2
+Tampere University Hospital,FI,17,17,0.0,5,1
+Heidelberg University of Education,DE,9,17,0.0005,2,14
+Heuristics and Diagnostics for Complex Systems,FR,7,17,0.0,1,4
+Uniwersytet Komisji Edukacji Narodowej w Krakowie,PL,15,17,0.0008,8,9
+Helsinki Children's Hospital,FI,17,17,0.0,5,1
+Eastern Finland Laboratory Center,FI,17,17,0.0,5,1
+University of Antwerp,BE,16,17,0.0031,4,10
+"Centre de Recherche en Informatique, Signal et Automatique de Lille",FR,11,17,0.0002,1,4
+Centro de Estudos Organizacionais e Sociais,PT,12,17,0.0007,6,8
+Andreas Sygros Hospital,GR,17,17,0.0,4,1
+Ospedale Maggiore,IT,17,17,0.0,4,1
+Greek Association of Alzheimer's Disease and Related Disorders,GR,17,17,0.0,12,1
+Ghent University Hospital,BE,15,17,0.0001,11,2
+Azienda Ospedaliero-Universitaria di Modena,IT,17,17,0.0004,5,2
+Centro de Investigação do Instituto Português de Oncologia do Porto Francisco Gentil,PT,16,17,0.0002,1,2
+Universitätsklinikum Würzburg,DE,15,17,0.0029,3,6
+Eszterhazy Karoly Catholic University,HU,7,17,0.0003,13,15
+Universidad de La Laguna,ES,16,17,0.0006,6,15
+Masaryk University,CZ,14,17,0.0022,8,21
+"Laboratoire de Spectroscopie pour les Interactions, la Réactivité et l'Environnement",FR,17,17,0.0,1,1
+Immunology from Concept and Experiments to Translation,FR,17,17,0.0,1,1
+Université de Montpellier Paul-Valéry,FR,17,17,0.0,1,1
+University of Cagliari,IT,16,17,0.0013,3,16
+Vita-Salute San Raffaele University,IT,14,17,0.0007,3,5
+Centre d'Immunologie et des Maladies Infectieuses,FR,17,17,0.0,1,1
+Santé Internationale de la mère et de l'enfant,FR,17,17,0.0,1,1
+LUM Jean Monnet University,IT,10,17,0.0012,14,26
+Europa-Universität Flensburg,DE,14,16,0.0,2,5
+Universitätsmedizin Rostock,DE,15,16,0.0,2,4
+West University of Timişoara,RO,16,16,0.0019,10,20
+Institut National des Sciences Appliquées de Rennes,FR,7,16,0.0,1,4
+University of Rostock,DE,16,16,0.0002,2,12
+Jagiellonian University,PL,14,16,0.0042,6,18
+Trimbos Institute,NL,11,16,0.0,4,3
+Altrecht GGZ,NL,11,16,0.0,4,3
+Vall d'Hebron Institut de Recerca,ES,15,16,0.0001,6,2
+University of Craiova,RO,13,16,0.0021,10,17
+Universität Greifswald,DE,14,16,0.0003,2,9
+Institut de Chirurgie Guidée par l'Image,FR,12,16,0.0003,1,3
+German Institute of Human Nutrition,DE,14,16,0.0003,2,3
+Universidad de León,ES,13,16,0.0008,6,10
+University of Applied Sciences Utrecht,NL,13,16,0.0002,4,8
+University Hospital Leipzig,DE,15,16,0.0002,11,2
+AZ Sint-Jan,BE,16,16,0.0002,5,2
+Fondazione IRCCS Istituto Nazionale dei Tumori,IT,16,16,0.0001,3,2
+Institut Polytechnique de Bordeaux,FR,13,16,0.0,7,3
+Cyprus University of Technology,CY,15,16,0.0013,4,9
+Deutsches Zentrum für Psychische Gesundheit,DE,16,16,0.0004,2,3
+Warsaw University of Technology,PL,16,16,0.0052,8,14
+Instituto de Investigación Marqués de Valdecilla,ES,16,16,0.0004,4,2
+University Hospital Cologne,DE,14,16,0.0,3,3
+Czech Academy of Sciences,CZ,14,16,0.0031,8,5
+Jožef Stefan Institute,SI,14,16,0.0028,9,5
+Universidad Europea de Valencia,ES,16,16,0.0,5,2
+Turku PET Centre,FI,16,16,0.0003,5,2
+Institut Gustave Roussy,FR,9,16,0.0008,3,3
+Ruhr West University of Applied Sciences,DE,13,16,0.0003,3,10
+United Nations University – Maastricht Economic and Social Research Institute on Innovation and Technology,NL,11,16,0.0004,4,7
+Université Rennes 1,FR,15,16,0.0,1,2
+University of Bergamo,IT,9,16,0.0001,3,6
+PREMEDICAL: Médecine de précision par intégration de données et inférence causale,FR,15,15,0.0,1,1
+Tampere University of Technology,FI,15,15,0.0,14,1
+Hôpital de la Croix-Rousse,FR,15,15,0.0025,1,2
+Institut des Géosciences de l'Environnement,FR,15,15,0.0,1,1
+Swedish Meteorological and Hydrological Institute,SE,15,15,0.0,1,1
+Open University of Cyprus,CY,14,15,0.0025,5,16
+Centre of Natural Hazards and Disaster Science,SE,15,15,0.0,1,1
+University of Lapland,FI,11,15,0.0004,5,8
+University of Łódź,PL,15,15,0.001,8,6
+The Netherlands Cancer Institute,NL,15,15,0.0002,4,2
+Universidad Politécnica de Cartagena,ES,15,15,0.0025,7,2
+Universitätsmedizin Göttingen,DE,15,15,0.0001,2,2
+National Institute for Astrophysics,IT,15,15,0.0006,13,2
+Centre Inria de l'université de Bordeaux,FR,7,15,0.0,1,6
+Università di Camerino,IT,14,15,0.0012,3,6
+"Hydrosystèmes continentaux anthropisés : ressources, risques, restauration",FR,15,15,0.0,1,1
+IHE Delft Institute for Water Education,NL,15,15,0.0,1,5
+Deltares,NL,15,15,0.0,1,1
+Joint Research Center,BE,15,15,0.0,14,1
+Centre de recherche sur les médiations,FR,7,15,0.0,1,4
+Directorate-General Joint Research Centre,BE,15,15,0.0,14,1
+IT University of Copenhagen,DK,14,15,0.0002,5,6
+University of Macedonia,GR,6,15,0.0001,9,16
+University of Dunaújváros,HU,5,15,0.0009,13,14
+Université Rennes 2,FR,13,15,0.0002,1,3
+IRCCS San Camillo Hospital,IT,12,15,0.0001,3,4
+Istituto Nazionale per l'Assicurazione Contro gli Infortuni sul Lavoro,IT,11,14,0.0,3,2
+Fondation Ophtalmologique Adolphe de Rothschild,FR,14,14,0.0,1,2
+University of Trás-os-Montes and Alto Douro,PT,12,14,0.0003,6,11
+Télécom Paris,FR,11,14,0.0002,14,3
+Institut de la Vision,FR,14,14,0.0,1,1
+Hôpital Robert-Debré,FR,14,14,0.0,1,1
+Centre Hospitalier Avranches Granville,FR,14,14,0.0,1,1
+Madrid Institute for Advanced Studies,ES,13,14,0.0001,7,2
+Netherlands Institute for Neuroscience,NL,14,14,0.0,4,1
+European Institute of Oncology,IT,14,14,0.0,3,1
+Azienda Ospedaliera Nazionale SS. Antonio e Biagio e Cesare Arrigo,IT,14,14,0.0,3,1
+Educational Research Centre,IE,14,14,0.0002,4,2
+University of Pecs,HU,14,14,0.0013,4,10
+Ri.MED,IT,14,14,0.0,3,1
+National Institute of Mental Health,CZ,14,14,0.0,4,1
+Universidade Aberta,PT,10,14,0.0003,6,11
+Universidade Politécnica de Portalegre,PT,7,14,0.0007,6,17
+Centre Hospitalier Universitaire de Saint-Étienne,FR,14,14,0.0006,12,2
+Atatürk Teacher Training Academy,CY,3,14,0.0,16,8
+École des Hautes Études en Santé Publique,FR,11,14,0.0,1,2
+"Institut de Recherche en Santé, Environnement et Travail",FR,11,14,0.0,1,2
+Centre Hospitalier Universitaire de Nantes,FR,14,14,0.0,1,1
+SISTM: Statistics In System biology and Translational Medicine,FR,14,14,0.0,4,1
+Mälardalen University,SE,12,14,0.0003,3,9
+Centre hospitalier national d'ophtalmologie des Quinze-Vingts,FR,14,14,0.0,1,1
+Paracelsus Medical University,AT,14,14,0.0036,2,4
+Centre de Recherche en Économie et Statistique,FR,10,14,0.0001,14,3
+Centre Hospitalier Interrégional Edith Cavell,BE,14,14,0.0001,5,3
+Royal Netherlands Academy of Arts and Sciences,NL,14,14,0.0,4,1
+Zuyd University of Applied Sciences,NL,14,14,0.001,4,4
+Azienda Ospedaliera Universitaria Pisana,IT,14,14,0.0003,9,2
+Azienda Ospedaliera Citta' della Salute e della Scienza di Torino,IT,14,14,0.0002,3,2
+"Laboratoire de Psychologie Clinique, de Psychopathologie et de Psychanalyse",FR,14,14,0.0,4,1
+Deutsches Zentrum für Luft- und Raumfahrt e. V. (DLR),DE,14,14,0.0005,13,4
+Glostrup Hospital,DK,13,14,0.0,11,2
+Centrale Lille Institut,FR,9,14,0.0,1,3
+Karlsruhe University of Education,DE,8,14,0.0003,2,8
+Les Hôpitaux de Chartres,FR,14,14,0.0,1,1
+Ifo Institute for Economic Research,DE,5,14,0.0,3,5
+Medical University of Lublin,PL,14,14,0.0038,8,3
+Higher Education Authority,IE,1,14,0.0,5,14
+Leuphana University of Lüneburg,DE,11,13,0.0008,2,10
+Gentofte Hospital,DK,12,13,0.0001,11,2
+Netherlands Comprehensive Cancer Organisation,NL,11,13,0.0001,4,2
+University of Kassel,DE,13,13,0.0026,2,10
+University of Lübeck,DE,12,13,0.0004,2,7
+University of Szczecin,PL,8,13,0.0008,8,9
+Centro de Inovação em Engenharia e Tecnologia Industrial,PT,12,13,0.0001,6,2
+TU Wien,AT,12,13,0.0027,4,16
+Laboratoire Procédés et Ingénierie en Mécanique et Matériaux,FR,12,13,0.0001,1,2
+Instituto de Investigación Sanitaria Gregorio Marañón,ES,13,13,0.0,4,1
+Magyar Agrár- és Élettudományi Egyetem,HU,11,13,0.0021,13,6
+Metropolitan Hospital,GR,13,13,0.0,5,1
+Ospedale Santa Maria della Misericordia di Rovigo,IT,13,13,0.0,5,1
+MNEMOSYNE: Mnemonic Synergy,FR,8,13,0.0001,1,8
+IU International University of Applied Sciences,DE,12,13,0.0009,2,12
+Aarhus University Hospital,DK,11,13,0.0001,11,3
+Universidade Politécnica do Cávado e do Ave,PT,8,13,0.0,6,8
+Université de Poitiers,FR,13,13,0.0042,1,5
+113 Zelfmoordpreventie,NL,11,13,0.0,4,3
+Research Centre in Digitalization and Intelligent Robotics,PT,4,13,0.0,6,10
+University of Parma,IT,11,13,0.0001,3,9
+Medical University of Lodz,PL,13,13,0.0007,2,2
+John von Neumann University,HU,7,13,0.0008,13,5
+Azienda Ospedale - Università Padova,IT,10,13,0.0,3,4
+Copenhagen Academy for Medical Education and Simulation,DK,6,13,0.0,11,4
+Université Libre de Bruxelles,BE,12,13,0.0017,5,11
+Spanish Biomedical Research Centre in Physiopathology of Obesity and Nutrition,ES,11,13,0.0,7,2
+Technical University of Sofia,BG,12,13,0.0016,7,23
+Institute for Anthropological Research,HR,12,13,0.0003,11,2
+Johannes Kepler University of Linz,AT,11,13,0.0007,4,18
+Handicap moteur et cognitif et réadaptation,FR,13,13,0.0,1,1
+Institut Agro Rennes-Angers,FR,13,13,0.0,1,1
+Roskilde University,DK,13,13,0.0006,10,6
+Cracow University of Technology,PL,13,13,0.0011,8,5
+Foundation for Research and Technology Hellas,GR,12,13,0.0007,9,4
+MultiMedica,IT,13,13,0.0003,1,2
+Universidade Católica Portuguesa,PT,9,13,0.001,6,5
+Hôpital Paul-Brousse,FR,11,13,0.0002,1,3
+Niuvanniemi Hospital,FI,9,12,0.0,5,2
+Petroleum & Gas University of Ploieşti,RO,10,12,0.0021,3,11
+Tecnalia,ES,12,12,0.0,9,1
+Berliner Hochschule für Technik,DE,10,12,0.0026,2,7
+Centre de Recherche sur les Risques et les Crises,FR,4,12,0.0,10,5
+University of Hohenheim,DE,11,12,0.0008,2,4
+Tehničko Veleučilište u Zagrebu,HR,12,12,0.0003,2,5
+Laboratoire des applications Thérapeutiques des Ultrasons,FR,12,12,0.0,3,1
+Universidad de Murcia,ES,12,12,0.0006,7,14
+Universidade de Leiria e Oeste,PT,9,12,0.0001,6,8
+Laboratoire de l'Intégration du Matériau au Système,FR,12,12,0.0,7,1
+"Laboratoire d'Informatique, Signaux et Systèmes de Sophia Antipolis",FR,5,12,0.0,1,3
+Instituto de Física Corpuscular,ES,12,12,0.0,7,1
+Bydgoszcz University of Science and Technology,PL,9,12,0.0013,8,4
+Halmstad University,SE,8,12,0.0001,4,13
+Fraunhofer Institute for Energy Economics and Energy System Technology,DE,12,12,0.0,9,1
+Instituto de Investigación Sanitaria Fundación Jiménez Díaz,ES,10,12,0.0,7,2
+University of Graz,AT,11,12,0.0002,2,11
+Université Gustave Eiffel,FR,9,12,0.0008,1,4
+Le Mans Université,FR,7,12,0.0006,12,7
+ISEG - Instituto Superior de Economia e Gestão,PT,7,12,0.0,6,5
+Hospital Universitario Fundación Jiménez Díaz,ES,10,12,0.0,7,2
+Hospital Universitario La Paz,ES,12,12,0.0002,7,2
+German Institute for Economic Research,DE,4,12,0.0,3,4
+University Hospital Kralovske Vinohrady,CZ,12,12,0.0,12,1
+SKEMA Business School,FR,11,12,0.0001,10,5
+Oldenburger Institut für Informatik,DE,12,12,0.0,9,2
+Educational Research Institute,SI,12,12,0.0,4,1
+Hanseatic University Rostock,DE,12,12,0.0,2,1
+Educational Research Institute – National Research Institute,PL,12,12,0.0,4,1
+Adam Mickiewicz University in Poznań,PL,10,12,0.002,13,11
+École Centrale d'Électronique,FR,6,12,0.0,1,2
+Clinica Universidad de Navarra,ES,5,12,0.0,7,3
+University of Western Macedonia,GR,9,12,0.0002,9,14
+Laboratoire de Physique Nucléaire et de Hautes Énergies,FR,4,12,0.0,1,3
+Universidad Pablo de Olavide,ES,11,12,0.0001,7,14
+Esade,ES,9,12,0.0001,3,3
+"Laboratoire de Psychologie : Cognition, Comportement, Communication",FR,10,12,0.0001,1,2
+Ricerca sul Sistema Energetico (Italy),IT,12,12,0.0,9,1
+Deutsches Konsortium für Translationale Krebsforschung,DE,12,12,0.0,2,1
+Hasso Plattner Institute,DE,11,12,0.0,2,4
+Instituto de Telecomunicações,PT,12,12,0.0002,6,4
+Herlev Hospital,DK,10,12,0.0,11,2
+Université de Reims Champagne-Ardenne,FR,10,11,0.0007,1,3
+Center for Stroke Research Berlin,DE,11,11,0.0,2,1
+Amsterdam University of Applied Sciences,NL,8,11,0.0001,4,5
+Nutrition et obésité : approches systémiques,FR,11,11,0.0,1,1
+Thion Medical (France),FR,11,11,0.0,1,1
+Laboratoire d’Informatique de l’Université du Mans,FR,6,11,0.0031,12,9
+Universidad de Extremadura,ES,11,11,0.0002,7,20
+Hôpital Cardiologique du Haut-Lévêque,FR,11,11,0.0,1,1
+Centre Hospitalier Universitaire de Poitiers,FR,11,11,0.0,1,1
+GFZ Helmholtz Centre for Geosciences,DE,10,11,0.0001,2,3
+University Cancer Center Hamburg,DE,11,11,0.0,2,1
+Institut de Recerca Sant Pau,ES,11,11,0.0002,4,3
+Azienda Ospedaliera di Cosenza,IT,8,11,0.0,3,2
+Universidad Nebrija,ES,8,11,0.0006,5,6
+Centre Hospitalier Universitaire de Nice,FR,10,11,0.0,1,3
+University of Bamberg,DE,10,11,0.0009,2,10
+Alexandru Ioan Cuza University,RO,9,11,0.0054,10,18
+ASST Fatebenefratelli Sacco,IT,11,11,0.0,1,1
+Nordsjællands Hospital,DK,9,11,0.0,11,2
+École Nationale Supérieure de Techniques Avancées Paris,FR,7,11,0.0,1,3
+University of Macerata,IT,8,11,0.0006,3,9
+Universitair Ziekenhuis Brussel,BE,8,11,0.0001,5,4
+Hôpital Lariboisière,FR,11,11,0.0,1,1
+Finnish Environment Institute,FI,11,11,0.0002,5,3
+Ingénierie des Agropolymères et Technologies Emergentes,FR,8,11,0.0001,1,2
+University Hospital Centre Zagreb,HR,10,11,0.0002,11,3
+Romanian Academy,RO,8,11,0.0005,10,8
+Laboratoire de Psychologie Sociale et Cognitive,FR,6,11,0.0,2,2
+University of Applied Sciences Potsdam,DE,8,11,0.0002,14,9
+Fundación INTRAS,ES,11,11,0.0001,1,2
+Jönköping University,SE,11,11,0.0018,3,4
+Inovarion (France),FR,11,11,0.0,1,1
+Centre Hospitalier Régional Universitaire de Brest,FR,8,11,0.0,1,2
+Bernstein Center for Computational Neuroscience Berlin,DE,11,11,0.0,2,1
+Digital Futures,SE,5,11,0.0,5,7
+Mater Dei Hospital,MT,11,11,0.0,5,1
+Hospital General Universitario de Alicante Doctor Balmis,ES,11,11,0.0,5,1
+SODA: Méthodes computationnelles et mathématiques pour comprendre la société et la santé à partir de données,FR,11,11,0.0002,1,2
+Corvinus University of Budapest,HU,8,11,0.0046,13,11
+SRH University of Applied Sciences Heidelberg,DE,11,11,0.0001,2,2
+Physiopathologie et pharmacotoxicologie placentaire humaine : Microbiote pré & post natal,FR,11,11,0.0,1,1
+Mines Saint-Étienne,FR,11,11,0.0027,12,3
+Universidad Pontificia de Salamanca,ES,11,11,0.0,6,5
+TBS Education,FR,11,11,0.0005,10,3
+National Institute of Health Dr. Ricardo Jorge,PT,11,11,0.0002,9,2
+Evangelisches Krankenhaus Oldenburg,DE,11,11,0.0,2,1
+Hôpital Pontchaillou,FR,9,11,0.0,1,2
+Leibniz Institute on Aging - Fritz Lipmann Institute (FLI),DE,11,11,0.0,2,1
+Kinderkrebs-Zentrum Hamburg,DE,11,11,0.0,2,1
+Insight SFI Research Centre for Data Analytics,IE,9,11,0.0005,2,5
+Fondazione Paolo Procacci,IT,9,11,0.0,3,2
+BOKU University,AT,11,11,0.0007,3,7
+University of Algarve,PT,7,11,0.0003,6,9
+Valencian International University,ES,11,11,0.0,7,2
+Mercatorum University,IT,9,10,0.0002,3,8
+Center for Scalable Data Analytics and Artificial Intelligence,DE,2,10,0.0,2,6
+Spiru Haret University,RO,7,10,0.0002,10,6
+Université de Franche-Comté,FR,4,10,0.0019,17,7
+Coburg University of Applied Sciences,DE,10,10,0.0,2,1
+GZA Ziekenhuizen,BE,9,10,0.0,5,2
+GZA Ziekenhuizen Campus Sint-Augustinus,BE,9,10,0.0,5,2
+Royal College of Surgeons in Ireland,IE,10,10,0.0001,3,8
+Malteser Waldkrankenhaus Erlangen,DE,10,10,0.0,2,1
+Unitelma Sapienza University,IT,5,10,0.0,3,6
+University Medical Centre Mannheim,DE,10,10,0.0,2,1
+Institut d'Economie Scientifique Et de Gestion,FR,6,10,0.0003,3,6
+AGH University of Krakow,PL,10,10,0.0,8,5
+Institute of Information and Communication Technologies,BG,5,10,0.0002,7,7
+Nofer Institute of Occupational Medicine,PL,10,10,0.0,9,1
+Computer Technology Institute and Press “DIOPHANTUS”,GR,4,10,0.0,9,4
+École des hautes études en sciences sociales,FR,9,10,0.0,14,2
+National Hellenic Research Foundation,GR,10,10,0.0,9,1
+German Federal Institute for Risk Assessment (BfR),DE,10,10,0.0,9,1
+German Rheumatism Research Centre,DE,10,10,0.0,2,1
+Fundació de Recerca Clínic Barcelona-Institut d’Investigacions Biomèdiques August Pi i Sunyer,ES,10,10,0.0,4,1
+Università Campus Bio-Medico,IT,9,10,0.0,3,2
+Campus Bio Medico University Hospital,IT,9,10,0.0,3,2
+HAW Hamburg,DE,7,10,0.0007,2,6
+University of Koblenz and Landau,DE,8,10,0.0,7,3
+Centre Hospitalier Le Vinatier,FR,7,10,0.0,12,2
+Hospital Universitario Virgen del Rocío,ES,10,10,0.0,4,1
+Kazimierz Wielki University in Bydgoszcz,PL,8,10,0.0016,8,5
+Technische Universität Ilmenau,DE,7,10,0.0002,2,6
+Instituto de Biomedicina de Sevilla,ES,10,10,0.0,4,1
+Laboratoire d'Informatique de Grenoble,FR,5,10,0.0002,9,6
+Instituto de Investigación en Ciencias de la Alimentación,ES,10,10,0.0,7,1
+IMDEA Food,ES,10,10,0.0,7,1
+University West,SE,9,10,0.0,4,3
+Neuroscience Institute,IT,10,10,0.0,9,1
+IRCCS Policlinico San Donato,IT,9,10,0.0001,4,3
+University of Education Freiburg,DE,4,10,0.0001,2,10
+Equipe de Recherche en Epidémiologie Nutritionnelle,FR,7,10,0.0,1,2
+Brno University of Technology,CZ,9,10,0.0006,8,5
+Constructor University,DE,7,10,0.0,2,4
+"Institute of Nuclear Physics, Polish Academy of Sciences",PL,9,10,0.0,8,2
+Odense University Hospital,DK,8,10,0.0,11,3
+Karlstad University,SE,10,10,0.0012,9,5
+Universidade Politécnica de Santarém,PT,10,10,0.0006,6,4
+Krakow University of Economics,PL,10,10,0.0024,8,8
+Madrid Health Service,ES,10,10,0.0,7,1
+University of Bucharest,RO,8,10,0.0031,10,19
+Andalusian Health Service,ES,10,10,0.0,7,1
+Andalusian Centre for Nanomedicine and Biotechnology,ES,10,10,0.0,7,1
+Hospital Clínico Universitario Virgen de la Victoria,ES,10,10,0.0,7,1
+Instituto de Investigación Biomédica de Málaga,ES,10,10,0.0,7,1
+Ekonomski fakultet - Zagreb,HR,5,10,0.0008,11,6
+Know Center Research GmbH (Austria),AT,10,10,0.0017,11,3
+University of Economics in Katowice,PL,10,10,0.0017,8,10
+Pázmány Péter Catholic University,HU,9,10,0.0008,13,4
+Constantine the Philosopher University in Nitra,SK,8,10,0.0011,13,14
+Nicolaus Copernicus University,PL,7,10,0.0001,8,8
+Ludwigsburg University of Education,DE,8,10,0.0001,2,11
+VTT Technical Research Centre of Finland,FI,10,10,0.0,5,3
+IRCCS Azienda Ospedliero-Universitaria di Bologna Policlinico di Sant'Orsola,IT,10,10,0.0004,3,3
+Rhine-Ruhr Institute for Applied Systeminnovation,DE,6,10,0.0,3,3
+Aalborg University Hospital,DK,8,10,0.0001,11,3
+Centre Hospitalier Henri Laborit,FR,7,10,0.0,12,2
+Centre Hospitalier Universitaire de Clermont-Ferrand,FR,7,10,0.0,12,2
+MBS School of Business,FR,10,10,0.0,10,1
+Humans and management in society,FR,10,10,0.0,10,1
+Stifterverband,DE,10,10,0.0,2,1
+Centre for Higher Education,DE,10,10,0.0,2,1
+Fraunhofer Information Center for Planning and Building,DE,10,10,0.0,2,1
+CentraleSupélec,FR,9,9,0.0,1,3
+École Nationale Vétérinaire de Toulouse,FR,9,9,0.0,1,1
+RESTORE,FR,9,9,0.0,1,1
+Centre d'Epidémiologie et de Recherche en santé des POPulations de Toulouse,FR,9,9,0.0,1,1
+Faculty of Humanities and Social Sciences in Zagreb,HR,3,9,0.0,11,7
+Częstochowa University of Technology,PL,4,9,0.0001,8,9
+Conservatoire National des Arts et Métiers,FR,6,9,0.0029,1,7
+WSB Merito University in Wroclaw,PL,7,9,0.0044,2,5
+Télécom SudParis,FR,5,9,0.0,14,4
+"AAU - Ambiances, Architectures, Urbanités",FR,9,9,0.0,1,2
+"National University of Ireland, Maynooth",IE,6,9,0.0002,2,15
+Maria Cecilia Hospital,IT,9,9,0.0,3,1
+Rzeszów University of Technology,PL,9,9,0.0003,3,4
+Ospedale Vincenzo Cervello,IT,9,9,0.0,3,1
+Ospedale Santa Maria Goretti,IT,9,9,0.0,3,1
+Innsbruck Medical University,AT,9,9,0.0,4,2
+University of Udine,IT,9,9,0.0001,3,9
+Universidade Politécnica da Guarda,PT,6,9,0.0,6,5
+University Clinical Centre Maribor,SI,9,9,0.0,4,1
+University Hospital Brno,CZ,9,9,0.0,4,1
+Universidad de Burgos,ES,5,9,0.0005,7,17
+Neapolis University Pafos,CY,7,9,0.0003,9,10
+Athena Research and Innovation Center In Information Communication & Knowledge Technologies,GR,9,9,0.0004,9,5
+European University Cyprus,CY,9,9,0.0008,9,9
+Universität der Bundeswehr München,DE,9,9,0.0005,6,7
+University of Limassol,CY,6,9,0.0,9,5
+Luxembourg Institute of Science and Technology,LU,4,9,0.0001,15,6
+Hessian Center for Artificial Intelligence,DE,5,9,0.0001,2,3
+Université Jean Monnet,FR,9,9,0.0,12,1
+Technische Universität Darmstadt,DE,8,9,0.001,2,9
+"Czech Academy of Sciences, Institute of Computer Science",CZ,8,9,0.0006,8,3
+Université Savoie Mont Blanc,FR,9,9,0.0,12,1
+University of Perugia,IT,9,9,0.0,3,3
+National Centre for Nuclear Research,PL,9,9,0.0,8,1
+Titu Maiorescu University,RO,9,9,0.001,10,5
+Panteion University,GR,5,9,0.0,9,11
+Laboratoire de Psychologie et d’Ergonomie Appliquées,FR,9,9,0.0,2,1
+Åbo Akademi University,FI,6,9,0.0,5,4
+Institut National Polytechnique de Toulouse,FR,7,9,0.0,1,2
+John Cabot University,IT,9,9,0.0004,3,4
+Faculty of Electrical Engineering and Computing in Zagreb,HR,3,9,0.0,11,8
+Lucian Blaga University of Sibiu,RO,8,9,0.0006,10,11
+Université de Limoges,FR,8,9,0.0003,1,3
+University Medical Center of the Johannes Gutenberg University Mainz,DE,7,9,0.0,4,4
+Fernando Pessoa University,PT,8,9,0.0002,6,3
+Paris-Sorbonne University,FR,5,9,0.0,1,2
+Netherlands Institute for Health Services Research,NL,9,9,0.0,4,1
+University of Peloponnese,GR,6,9,0.0002,9,7
+HTW Berlin - University of Applied Sciences,DE,7,9,0.0001,2,8
+Maria Curie-Skłodowska University,PL,9,9,0.0019,8,7
+Wroclaw University of Economics and Business,PL,7,9,0.0004,8,6
+University of Wrocław,PL,9,9,0.0,2,3
+Collegium Medicum in Bydgoszcz,PL,6,9,0.0,8,3
+Institute for Particle and Nuclear Physics,HU,9,9,0.0,8,1
+HUN-REN Wigner Research Centre for Physics,HU,9,9,0.0,8,1
+GGZ inGeest,NL,9,9,0.0,4,1
+Ikerbasque,ES,7,9,0.0004,7,4
+Institute for High Performance Computing and Networking,IT,5,9,0.0,3,5
+Laboratoire Interuniversitaire de Biologie de la Motricité,FR,9,9,0.0,12,1
+Instituto Português de Administração de Marketing,PT,6,9,0.0001,6,4
+Instituto de Ciências Biomédicas Albel Salazar,PT,9,9,0.0,1,1
+Region Skåne,SE,9,9,0.0,5,1
+Antwerp University Hospital,BE,9,9,0.0,5,1
+Servicio Aragonés de Salud,ES,9,9,0.0,1,1
+University of Osijek,HR,8,9,0.0002,11,15
+AZ Sint-Maarten,BE,9,9,0.0,5,1
+MSH Medical School Hamburg – University of Applied Sciences and Medical University,DE,9,9,0.0,12,1
+"Institut National du Sport, de l'Expertise et de la Performance",FR,9,9,0.0,12,1
+Université Jean Monnet,FR,9,9,0.0,12,1
+Unidade Local de Saúde do Algarve,PT,8,8,0.0,3,1
+Fondazione Santa Lucia,IT,8,8,0.0,1,1
+IMPact de l'Environnement Chimique sur la Santé,FR,8,8,0.0,1,1
+University of Hradec Králové,CZ,8,8,0.0012,7,22
+University of Molise,IT,8,8,0.0013,8,5
+Interdisciplinary Transformation University Austria,AT,8,8,0.0006,4,3
+Universitat de les Illes Balears,ES,8,8,0.0026,7,7
+Tampere University of Applied Sciences,FI,5,8,0.0001,5,3
+Capital Region of Denmark,DK,8,8,0.0,11,1
+Zealand University Hospital,DK,8,8,0.0,11,1
+Fraunhofer Institute for Open Communication Systems,DE,8,8,0.0002,2,3
+ENSAE Paris,FR,6,8,0.0,14,2
+Artificial Intelligence Research Institute,ES,4,8,0.0,9,7
+Policlinico Tor Vergata,IT,8,8,0.0,3,1
+Azienda Ospedaliera San Camillo-Forlanini,IT,8,8,0.0,3,1
+HAN University of Applied Sciences,NL,8,8,0.001,8,5
+University Niccolò Cusano,IT,5,8,0.0,14,7
+Algarve Biomedical Center,PT,8,8,0.0,3,1
+Hôpital Edouard Herriot,FR,8,8,0.0,3,1
+Instituto Cajal,ES,8,8,0.0,7,1
+Swedish University of Agricultural Sciences,SE,8,8,0.0001,7,4
+Deutsches Herzzentrum München,DE,6,8,0.0,2,2
+Universidad Pontificia Comillas,ES,8,8,0.0025,6,14
+Wrocław University of Science and Technology,PL,8,8,0.0002,8,7
+Federico II University Hospital,IT,7,8,0.0,3,3
+Federação Portuguesa de Futebol,PT,8,8,0.0001,6,2
+Berlin-Brandenburger Centrum für Regenerative Therapien,DE,8,8,0.0,2,1
+Centre pour la Communication Scientifique Directe,FR,1,8,0.0,12,8
+Institute of Informatics and Telematics,IT,4,8,0.0,3,4
+Blekinge Institute of Technology,SE,8,8,0.0001,4,7
+Federal Institute for Population Research,DE,8,8,0.0,2,1
+RISE - Health Research Network,PT,8,8,0.0,1,1
+Parthenope University of Naples,IT,8,8,0.0006,3,7
+Ospedale Vito Fazzi,IT,8,8,0.0,3,1
+Fundacion Centro De Investigacion De Enfermedades Neurologicas,ES,8,8,0.0,7,1
+Systems Research Institute,PL,6,8,0.0001,8,3
+University of Siena,IT,8,8,0.0025,3,10
+Institute for Space Astrophysics and Planetology,IT,8,8,0.0,13,1
+Iridium Kankernetwerk,BE,8,8,0.0,4,1
+"Laboratoire des Sciences de l'Ingénieur, de l'Informatique et de l'Imagerie",FR,7,8,0.0,1,2
+Hippocration General Hospital,GR,8,8,0.0,9,1
+IMP Diagnostics (Portugal),PT,8,8,0.0,1,1
+University of Bayreuth,DE,8,8,0.0,2,6
+Moriggia Pelascini Hospital,IT,8,8,0.0,3,1
+Grigioni Foundation for Parkinson's disease,IT,8,8,0.0,3,1
+Finnish Institute of Occupational Health,FI,8,8,0.0,5,1
+University of Latvia FinTech Business School,LV,3,8,0.0005,8,8
+Center for Clinical Research and Prevention,DK,8,8,0.0,11,1
+SURF,NL,8,8,0.0001,12,2
+Esslingen University of Applied Sciences,DE,8,8,0.0005,2,3
+Azienda Ospedaliero Universitaria di Sassari,IT,8,8,0.0,3,1
+Hôpital Européen Georges-Pompidou,FR,8,8,0.0,2,1
+Paris Cardiovascular Research Center,FR,8,8,0.0,2,1
+Azienda Sanitaria dell'Alto Adige,IT,8,8,0.0,3,1
+Centre de Recherche en Acquisition et Traitement de l'Image pour la Santé,FR,8,8,0.0,7,1
+Ospedale P. Pederzoli – Casa di Cura Privata S.p.a.,IT,8,8,0.0,3,1
+Frankfurt University of Applied Sciences,DE,8,8,0.0002,2,2
+Osservatorio Astronomico di Padova,IT,8,8,0.0,13,1
+Medizinische Hochschule Brandenburg Theodor Fontane,DE,8,8,0.0003,5,3
+Universitätsmedizin Greifswald,DE,8,8,0.0,2,1
+SCOOL: Prise de décision séquentielle dans l'incertain,FR,8,8,0.0,1,1
+Luxembourg Institute of Health,LU,8,8,0.0002,4,3
+"Institute of Public Health, University of Porto",PT,6,8,0.0,6,3
+École Centrale de Nantes,FR,8,8,0.0,1,1
+Nuremberg Hospital,DE,8,8,0.0002,3,2
+The American College of Greece,GR,8,8,0.0013,9,8
+Sigmund Freud Privatuniversität Wien,AT,8,8,0.0,11,1
+Trieste Astronomical Observatory,IT,8,8,0.0,13,1
+Geosciences Paris-Saclay,FR,8,8,0.0,13,1
+FH Kärnten,AT,7,8,0.0001,2,3
+Corporació Sanitària Parc Taulí,ES,8,8,0.0,4,2
+University of Rzeszów,PL,8,8,0.0005,8,6
+Universitat Rovira i Virgili,ES,3,8,0.0,7,18
+Laboratoire de Traitement de l'Information Médicale,FR,7,7,0.0,1,1
+Centre Inria de Saclay,FR,5,7,0.0,14,2
+International Press Center,BE,7,7,0.0,11,1
+Silesian University of Technology,PL,7,7,0.0006,8,13
+Slagelse Hospital,DK,7,7,0.0,11,1
+National School of Political Science and Public Administration,RO,6,7,0.0007,10,7
+J. Selye University,SK,7,7,0.0007,8,11
+Copenhagen Prospective Studies on Asthma in Childhood,DK,7,7,0.0,11,1
+Munster Technological University,IE,6,7,0.0005,7,11
+Budapest University of Economics and Business,HU,6,7,0.0018,13,7
+EM Normandie Business School,FR,3,7,0.0025,13,6
+Gobierno de La Rioja,ES,2,7,0.0,7,4
+Charlotte Fresenius Hochschule,DE,7,7,0.0,2,1
+Centre de Recherches sur la Cognition et l'Apprentissage,FR,7,7,0.0,1,1
+Institut du Cerveau,FR,6,7,0.0,1,2
+University Hospital in Halle,DE,7,7,0.0,2,1
+BG Klinikum Bergmannstrost Halle,DE,7,7,0.0,2,1
+University of Salento,IT,7,7,0.0005,3,4
+Universitätsklinikum Krems,AT,7,7,0.0,2,1
+Link Campus University,IT,6,7,0.0001,3,3
+University Hospital Innsbruck,AT,7,7,0.0,4,1
+Universidad Europea del Atlántico,ES,5,7,0.0001,5,6
+IFT Institut für Therapieforschung,DE,7,7,0.0,2,1
+Université de Bretagne Occidentale,FR,7,7,0.0,1,1
+Centre Hospitalier Régional et Universitaire de Nancy,FR,6,7,0.0001,1,2
+Centre for Automation and Robotics,ES,7,7,0.0,7,2
+IBM (Italy),IT,6,7,0.0,3,2
+University of Wuppertal,DE,7,7,0.0002,3,3
+UNIE Universidad,ES,7,7,0.0002,6,4
+I.R.C.C.S. Oasi Maria SS,IT,7,7,0.0,3,1
+Hôpital Arnaud de Villeneuve,FR,7,7,0.0,1,1
+Laboratoire d'ethnologie et de sociologie comparative,FR,7,7,0.0,3,1
+Institut Mines-Télécom Business School,FR,3,7,0.0,1,4
+Hôpital Lapeyronie,FR,7,7,0.0,1,1
+Paderborn University,DE,6,7,0.0001,2,13
+South Westphalia University of Applied Sciences,DE,4,7,0.0,2,4
+Region Västra Götaland,SE,3,7,0.0,4,3
+Brera Astronomical Observatory,IT,7,7,0.0,3,1
+Translational Innovation in Medicine and Complexity,FR,7,7,0.0,12,1
+Institute of Molecular Bioimaging and Physiology,IT,7,7,0.0,7,1
+Vytautas Magnus University,LT,7,7,0.0057,8,10
+Istituto per le Tecnologie Didattiche,IT,5,7,0.0,3,3
+Université Polytechnique Hauts-de-France,FR,3,7,0.0,1,5
+Institute for Regenerative Medicine & Biotherapy,FR,7,7,0.0,1,1
+1 Decembrie 1918 University,RO,7,7,0.0002,10,4
+"Donders Institute for Brain, Cognition and Behaviour",NL,3,7,0.0,4,5
+Ab.Acus (Italy),IT,4,7,0.0,4,2
+Prague University of Economics and Business,CZ,7,7,0.0006,8,4
+Laboratoire Interuniversitaire des Sciences de l'Education et de la Communication,FR,4,7,0.0,1,4
+"Zentrum für Medien-, Kommunikations- und Informationsforschung",DE,4,7,0.0,4,3
+Fontys University of Applied Sciences,NL,6,7,0.0,4,6
+Czech University of Life Sciences Prague,CZ,6,7,0.0005,8,7
+Centre Hospitalier Universitaire de Grenoble,FR,7,7,0.0,12,1
+Centre pour l'innovation en cancérologie de Lyon,FR,7,7,0.0,12,1
+Université de technologie de belfort-montbéliard,FR,3,7,0.0,15,3
+Policlinico Umberto I,IT,7,7,0.0,3,1
+"Istituto Nazionale di Fisica Nucleare, Sezione di Padova",IT,7,7,0.0,3,1
+German Cancer Research Center,DE,7,7,0.0,4,2
+"Laboratoire d'Automatique, de Mécanique et d'Informatique Industrielles et Humaines",FR,3,7,0.0,1,5
+Technical University of Crete,GR,4,7,0.0001,9,8
+Universitatea Din Petrosani,RO,7,7,0.0008,10,4
+Joint Research Center,ES,6,7,0.0,14,2
+"FLOWERS: Flow: exploration, apprentissage et découverte dirigés par la curiosité",FR,5,7,0.0,1,4
+Helmut Schmidt University,DE,5,7,0.0001,11,7
+Instituto Interuniversitario de Investigación Avanzada sobre Evaluación de la Ciencia y la Universidad,ES,7,7,0.0,4,1
+National College of Ireland,IE,6,7,0.0026,2,5
+Saxion,NL,7,7,0.0004,14,4
+Scuola Superiore Sant'Anna,IT,5,7,0.0,3,5
+Alfred-Wegener-Institut Helmholtz-Zentrum für Polar- und Meeresforschung,DE,7,7,0.0001,12,4
+Center for Advanced Internet Studies,DE,5,7,0.0,2,3
+OTH Regensburg,DE,4,7,0.0,2,5
+Weizenbaum Institute,DE,7,7,0.0005,14,3
+Kedge Business School,FR,7,7,0.0004,1,3
+Institut de Recherche contre les Cancers de l’Appareil Digestif,FR,7,7,0.0,1,1
+La Maddalena,IT,6,6,0.0,3,1
+Université Paris 1 Panthéon-Sorbonne,FR,4,6,0.0034,1,6
+"Azienda Ospedaliera Universitaria Policlinico ""Paolo Giaccone"" di Palermo",IT,6,6,0.0,3,1
+Fondazione Istituto G. Giglio di Cefalù,IT,6,6,0.0,3,1
+Centre Méditerranéen de Médecine Moléculaire,FR,6,6,0.0,1,1
+Hellenic Military Academy,GR,6,6,0.0001,9,3
+Universidade Europeia,PT,6,6,0.0009,6,4
+Institute for Biomedical Research and Innovation,IT,6,6,0.0,3,1
+Centro Interdisciplinar de Estudo da Performance Humana,PT,5,6,0.0,6,2
+LWL-Universitätsklinikum Bochum,DE,6,6,0.0,2,1
+Centre de Recherche sur la Biodiversité et l'Environnement,FR,6,6,0.0,1,1
+Hospital de São João,PT,5,6,0.0,6,2
+Care and Public Health Research Institute,NL,5,6,0.0,4,2
+Université Sorbonne Nouvelle,FR,6,6,0.0002,4,2
+Giustino Fortunato University,IT,5,6,0.0,3,5
+ISLA - Instituto Politécnico de Gestão e Tecnologia,PT,6,6,0.0,6,2
+Centre d'Esclerosi Múltiple de Catalunya,ES,6,6,0.0,6,1
+Saint Camillus International University of Health and Medical Sciences,IT,6,6,0.0,3,2
+Istituto Giannina Gaslini,IT,6,6,0.0,3,1
+Universität Trier,DE,6,6,0.0005,2,4
+Grigore T. Popa University of Medicine and Pharmacy,RO,6,6,0.0014,10,3
+Max Planck Institute for Software Systems,DE,5,6,0.0001,3,11
+Centre d’Économie et de Décision Publique (CEDP),FR,6,6,0.0,14,1
+Institut Interdisciplinaire de l'Innovation,FR,6,6,0.0,14,1
+Universidade dos Açores,PT,6,6,0.0006,6,4
+Maison des Sciences sociales et des Humanités de Paris-Saclay,FR,6,6,0.0,14,1
+European Association of Distance Teaching Universities,NL,3,6,0.0,9,5
+TH Köln - University of Applied Sciences,DE,6,6,0.0005,2,5
+Deutscher Wetterdienst,DE,4,6,0.0,2,2
+Instituto Superior de Contabilidade e Administração de Coimbra,PT,4,6,0.0,6,4
+University of Gävle,SE,4,6,0.0004,5,5
+Essen University Hospital,DE,6,6,0.0,4,1
+University of Basilicata,IT,4,6,0.0,6,5
+University of Trnava,SK,4,6,0.0039,13,11
+Université d'Évry Val-d'Essonne,FR,3,6,0.0,1,3
+Ospedale Generale Regionale Francesco Miulli,IT,6,6,0.0,3,1
+Tomas Bata University in Zlín,CZ,4,6,0.0002,13,3
+Károli Gáspár University of the Reformed Church in Hungary,HU,5,6,0.0005,13,5
+Institute for Information Management Bremen,DE,4,6,0.0,4,2
+Children's Health Ireland at Crumlin,IE,2,6,0.0,3,3
+Fraunhofer Institute for Applied Information Technology,DE,6,6,0.0,2,1
+Rede de Química e Tecnologia,PT,5,6,0.0,6,2
+Centre international de recherche sur le cancer,FR,6,6,0.0001,3,2
+Tallinn University of Applied Sciences,EE,3,6,0.0019,8,6
+Universidade Politécnica de Setúbal,PT,6,6,0.0001,6,2
+Statens Serum Institut,DK,6,6,0.0,11,1
+Stockholm Environment Institute,SE,6,6,0.0,7,1
+Laboratoire d'Informatique de l'École Polytechnique,FR,6,6,0.0,1,2
+Medical University of Sofia,BG,6,6,0.0,2,2
+Franche-Comté Électronique Mécanique Thermique et Optique - Sciences et Technologies,FR,3,6,0.0,1,3
+Campus-Institut Data Science (CIDAS),DE,6,6,0.0,8,1
+Amsterdam Cardiovascular Sciences,NL,6,6,0.0,2,1
+Children's Hospital Srebrnjak,HR,6,6,0.0,11,1
+Université Bourgogne Franche-Comté,FR,4,6,0.0009,17,3
+Laboratoire de Didactique André Revuz,FR,3,6,0.0,5,2
+Düsseldorf University Hospital,DE,5,6,0.0,5,2
+Laboratoire d'Informatique en Images et Systèmes d'Information,FR,4,6,0.0,1,3
+Institut National des Sciences Appliquées de Lyon,FR,4,6,0.0,1,2
+Catholic University of Croatia,HR,6,6,0.0,11,1
+"Edition, Littératures, Langages, Informatique, Arts, Didactiques, Discours",FR,2,6,0.0,17,5
+Université Le Havre Normandie,FR,4,6,0.0005,1,5
+Children's Hospital Zagreb,HR,6,6,0.0,11,1
+St. Vincent's University Hospital,IE,5,6,0.0,3,3
+Instituto de Investigación Sanitaria y Biomédica de Alicante (ISABIAL),ES,6,6,0.0,6,1
+Bratislava University of Economics and Business,SK,4,6,0.0027,8,13
+Rotterdam University of Applied Sciences,NL,6,6,0.0001,4,3
+Helmholtz Centre for Infection Research,DE,5,6,0.0,2,2
+Donostia International Physics Center,ES,3,6,0.0,6,2
+Haaga-Helia University of Applied Sciences,FI,6,6,0.001,10,7
+Institute of Mathematics and Informatics,BG,5,6,0.0,7,3
+Institut des Systèmes Complexes Paris Île-de-France,FR,6,6,0.0,1,1
+Stockholm Resilience Centre,SE,6,6,0.0,7,1
+Royal Swedish Academy of Sciences,SE,6,6,0.0,7,1
+Nordic Africa Institute,SE,6,6,0.0,7,1
+University of Information Technology and Management in Rzeszow,PL,5,6,0.0001,8,3
+Universitatea Națională de Educație Fizică și Sport București,RO,4,6,0.0,10,5
+Institute of Organic Chemistry,PL,6,6,0.0,2,1
+Centro Nacional de Epidemiología,ES,6,6,0.0,4,1
+National-Louis University,PL,6,6,0.0014,8,7
+Fraunhofer Institute for Factory Operation and Automation,DE,3,6,0.0,2,2
+Centro de Investigação em Biociências e Tecnologias da Saúde,PT,6,6,0.0,6,1
+Heidelberg Institute for Theoretical Studies,DE,6,6,0.0,2,1
+Polytechnic University of Bari,IT,4,6,0.0005,3,6
+MARE - Centro de Ciências do Mar e do Ambiente,PT,6,6,0.0,6,1
+Institute for Ecological Economy Research,DE,6,6,0.0,6,1
+Institut für ökologische Wirtschaftsforschung,AT,6,6,0.0,6,1
+Centro Hospitalar de Vila Nova de Gaia,PT,6,6,0.0,6,1
+HUN-REN Research Centre for Natural Sciences,HU,5,6,0.0008,13,2
+"Services répartis, Architectures, MOdélisation, Validation, Administration des Réseaux",FR,4,6,0.0,14,2
+Universidad de Cádiz,ES,6,6,0.0003,8,10
+Inserm Transfert,FR,6,6,0.0,1,1
+Cohortes épidémiologiques en population,FR,6,6,0.0,1,1
+National Research Council,RO,5,6,0.0,3,2
+Clinica Mediterranea,IT,6,6,0.0002,3,2
+Universidad Francisco de Vitoria,ES,6,6,0.0,2,7
+Leibniz-Institut für Pflanzengenetik und Kulturpflanzenforschung (IPK),DE,6,6,0.0,1,1
+Medigene (Germany),DE,6,6,0.0,1,1
+Génétique Quantitative et Évolution Le Moulon,FR,6,6,0.0,1,1
+The Abdus Salam International Centre for Theoretical Physics (ICTP),IT,6,6,0.0,5,2
+Métis-Lab,FR,2,6,0.0,13,5
+St. James's Hospital,IE,3,6,0.0,3,5
+Centre for Health Technology and Services Research,PT,5,6,0.0,6,2
+Satakunta University of Applied Sciences,FI,3,5,0.0,5,2
+University of Borås,SE,5,5,0.0001,8,5
+University of Defence,CZ,5,5,0.0001,8,3
+College of Social and Media Culture,PL,5,5,0.0,8,1
+University of Urbino,IT,5,5,0.0,3,1
+Universitäts-Herzzentrum Freiburg-Bad Krozingen,DE,5,5,0.0,2,1
+Ospedale Infermi di Rimini,IT,5,5,0.0,3,1
+Ellinogermaniki Agogi,GR,5,5,0.0005,9,2
+Institut des Neurosciences Paris-Saclay,FR,5,5,0.0,1,1
+SRH University Berlin,DE,5,5,0.0005,2,2
+Azienda Ospedaliera S.Giuseppe Moscati,IT,5,5,0.0,3,1
+Hellenic Mediterranean University,GR,5,5,0.0,9,6
+Biogem,IT,5,5,0.0,7,1
+Flanders Make (Belgium),BE,5,5,0.0,5,1
+"Laboratoire en Innovation, Technologies, Economie et Management",FR,3,5,0.0,1,3
+Riga Technical University,LV,5,5,0.0005,4,11
+Connaissance & Intelligence Artificielle Distribuées,FR,3,5,0.0,15,2
+Bauhaus-Universität Weimar,DE,5,5,0.0009,3,3
+Centre de recherche en informatique (Paris),FR,3,5,0.0005,1,4
+Hellenic Civil Aviation Authority,GR,5,5,0.0,9,1
+VIA University College,DK,5,5,0.0025,3,5
+Analyse et Traitement Informatique de la Langue Française,FR,4,5,0.0,1,2
+École Pour l'Informatique et les Techniques Avancées,FR,5,5,0.0002,1,3
+GGD Amsterdam,NL,5,5,0.0,4,1
+Hochschule Hannover,DE,5,5,0.0,2,3
+Politehnica University of Timisoara,RO,5,5,0.0,10,7
+"Infection, Anti-microbiens, Modélisation, Evolution",FR,5,5,0.0,1,1
+Hôpital Bichat-Claude-Bernard,FR,5,5,0.0,1,1
+Dimence,NL,5,5,0.0,4,1
+Mary Immaculate College,IE,5,5,0.0,5,6
+Ludovika University of Public Service,HU,5,5,0.0007,13,9
+Leibniz Centre for Agricultural Landscape Research,DE,4,5,0.0009,4,4
+Université Sorbonne Paris Nord,FR,5,5,0.0,1,2
+Jožef Stefan International Postgraduate School,SI,3,5,0.0001,9,3
+VIZJA University,PL,5,5,0.0,8,7
+Dublin Dental University Hospital,IE,4,5,0.0,3,2
+Laboratoire Jean-Alexandre Dieudonné,FR,5,5,0.0,1,2
+Hôpital Pasteur,FR,5,5,0.0,1,1
+Université de Lyon,FR,5,5,0.0,12,1
+MAASAI: Modèles et algorithmes pour l'intelligence artificielle,FR,5,5,0.0,1,1
+Bambino Gesù Children's Hospital,IT,5,5,0.0,3,2
+"Laboratoire des Sciences pour la Conception, l'Optimisation et la Production",FR,5,5,0.0,1,1
+"Savoirs, Textes, Langage",FR,4,5,0.0,1,2
+Valeo (France),FR,5,5,0.0,1,1
+Thales (France),FR,5,5,0.0,1,1
+Laiko General Hospital of Athens,GR,5,5,0.0,9,1
+Leonardo (Italy),IT,5,5,0.0,7,1
+VSB - Technical University of Ostrava,CZ,4,5,0.0005,2,7
+Metaxa Hospital,GR,5,5,0.0,9,1
+Universidade Politécnica de Lisboa,PT,5,5,0.0005,6,3
+Instituto Superior da Maia,PT,5,5,0.0,6,1
+Portugal Football School,PT,5,5,0.0,6,1
+Ospedale San Pietro Fatebenefratelli,IT,5,5,0.0,3,1
+Urho Kaleva Kekkonen Institute,FI,5,5,0.0,5,1
+University of Pitesti,RO,5,5,0.0,10,2
+Estonian Business School,EE,5,5,0.0,2,2
+Centraal Bureau voor de Statistiek,NL,5,5,0.0,4,1
+Modèles Dynamiques Corpus,FR,5,5,0.0,4,1
+"CLESTHIA - Langage, systèmes, discours",FR,5,5,0.0,4,1
+"International Institute for Advanced Scientific Studies ""Eduardo R. Caianiello""",IT,4,5,0.0,3,2
+Equipes Traitement de l'Information et Systèmes,FR,5,5,0.0,4,1
+Azienda Ospedaliero Universitaria Maggiore della Carita,IT,5,5,0.0,3,1
+VieCuri Medisch Centrum,NL,5,5,0.0,4,1
+San Raffaele University of Rome,IT,5,5,0.0002,3,2
+Steno Diabetes Center Copenhagen,DK,5,5,0.0,11,1
+Institute of Literary Research of the Polish Academy of Sciences,PL,5,5,0.0002,5,2
+Institut des Sciences Cognitives Marc Jeannerod,FR,5,5,0.0,12,1
+Universidad Europea de Madrid,ES,5,5,0.0003,7,4
+Reade,NL,5,5,0.0,4,1
+"South-West University ""Neofit Rilski""",BG,5,5,0.0002,7,5
+Centre d'Etudes et de Recherches Appliquées à la Gestion,FR,3,5,0.0,9,5
+Bayer (Germany),DE,5,5,0.0,4,3
+Wroclaw Medical University,PL,5,5,0.0002,3,2
+Karlsruhe University of Applied Sciences,DE,5,5,0.0,2,3
+Leibniz Institute of Freshwater Ecology and Inland Fisheries,DE,5,5,0.0,12,1
+Technical University of Košice,SK,5,5,0.0032,13,10
+University Hospital Frankfurt,DE,5,5,0.0,2,1
+University of Opole,PL,5,5,0.001,8,4
+UniNettuno University,IT,5,5,0.0,5,3
+Ospedale Regina Margherita,IT,5,5,0.0,5,1
+Institut Nacional d'Educació Física de Catalunya,ES,5,5,0.0,4,1
+Maria Eleonora Hospital,IT,5,5,0.0,3,1
+Leibniz Centre for Tropical Marine Research,DE,5,5,0.0,12,1
+GEOMAR Helmholtz Centre for Ocean Research Kiel,DE,5,5,0.0,12,1
+Fondazione Ricerca Molinette,IT,5,5,0.0,5,1
+Clermont Auvergne INP,FR,5,5,0.0,2,1
+Institut Pascal,FR,5,5,0.0,2,1
+Netherlands Leprosy Relief,NL,5,5,0.0,2,1
+LAQV Requimte,PT,5,5,0.0,6,1
+National Legal Medicine Institute,PT,5,5,0.0,6,1
+Papageorgiou General Hospital,GR,3,5,0.0,9,2
+Qualité des Produits Animaux,FR,5,5,0.0,1,1
+School of Pedagogical and Technological Education,GR,3,5,0.0,9,8
+Camilo José Cela University,ES,5,5,0.0,6,2
+Klaipėdos valstybinė kolegija / Higher Education Institution,LT,5,5,0.0029,8,2
+Institut Agro Montpellier,FR,5,5,0.0,1,1
+Poznań University of Technology,PL,5,5,0.0004,8,5
+Vienna University of Economics and Business,AT,5,5,0.0,4,11
+Vilnius Gediminas Technical University,LT,2,5,0.0024,8,12
+Ministry of Education and Culture,CY,5,5,0.0063,9,2
+Universidade Lusófona do Porto,PT,5,5,0.0,6,1
+Instituto de Investigación en Ingeniería de Aragón,ES,5,5,0.0,10,1
+Pädagogische Hochschule Wien,AT,4,5,0.0,7,2
+Medical University of Silesia,PL,5,5,0.0001,3,4
+Université de Pau et des Pays de l'Adour,FR,5,5,0.0,10,1
+Laboratoire Informatique de l'Université de Pau et des Pays de l'Adour,FR,5,5,0.0,10,1
+Sint Maartenskliniek,NL,5,5,0.0,4,1
+Laboratoire des Sciences du Numérique de Nantes,FR,5,5,0.0,1,1
+Azienda Ospedaliera Sant'Andrea,IT,3,5,0.0,3,3
+Institut für Notfallmedizin und Medizinmanagement,DE,5,5,0.0,6,1
+Morphogénèse et antigénicité du VIH et des virus des hépatites et émergents,FR,5,5,0.0,1,1
+St. Elisabethen-Krankenhaus Frankfurt,DE,5,5,0.0,3,1
+Katholisches Klinikum Bochum,DE,5,5,0.0,2,1
+Centre hospitalier universitaire d'Orléans,FR,5,5,0.0,1,1
+Azienda sanitaria universitaria Friuli Centrale,IT,5,5,0.0025,9,2
+Centro de Investigación en Red en Enfermedades Cardiovasculares,ES,5,5,0.0,4,1
+Indra (Spain),ES,5,5,0.0,7,1
+Institute for Prevention and Occupational Medicine,DE,5,5,0.0,2,1
+St. Josef-Hospital,DE,5,5,0.0,2,1
+Stuttgart Technical University of Applied Sciences,DE,5,5,0.0,2,5
+Gdańsk University of Technology,PL,5,5,0.0002,10,7
+NEOMA Business School,FR,5,5,0.0005,1,4
+Netherlands eScience Center,NL,5,5,0.0,4,1
+Open Data Infrastructure for Social Science and Economic Innovations,NL,5,5,0.0,4,1
+Centre de Coopération Internationale en Recherche Agronomique pour le Développement,FR,5,5,0.0,1,1
+Max Planck Institute for Biological Cybernetics,DE,4,5,0.0,2,2
+Montpellier Interdisciplinary center on Sustainable Agri-food systems: social and nutritional sciences,FR,5,5,0.0,1,1
+Institut Agronomique Méditerranéen de Montpellier,FR,5,5,0.0,1,1
+Université Toulouse - Jean Jaurès,FR,5,5,0.0,1,1
+DIVERSE: Diversity-centric Software Engineering,FR,5,5,0.0,1,1
+Artevelde University of Applied Sciences,BE,5,5,0.0,5,1
+Democracy X,DK,5,5,0.0,5,1
+Lodz University of Technology,PL,4,4,0.0005,8,4
+Institute of Economics,HU,4,4,0.0,13,1
+ELTE Centre for Economic and Regional Studies,HU,4,4,0.0,13,1
+Latvian Biomedical Research and Study Centre,LV,4,4,0.0,1,1
+Fondazione Bruno Kessler,IT,3,4,0.0,6,5
+Technical University of Cluj-Napoca,RO,4,4,0.0004,10,16
+Ministry of the Environment of the Czech Republic,CZ,4,4,0.0,8,1
+Escola Superior de Saúde Norte da Cruz Vermelha Portuguesa,PT,4,4,0.0,1,1
+Hospital Dr. Nélio Mendonça,PT,4,4,0.0,1,1
+Unidade Local de Saúde de Entre Douro e Vouga,PT,4,4,0.0,1,1
+University of Education Weingarten,DE,4,4,0.0,4,1
+Escola Superior de Enfermagem de Coimbra,PT,4,4,0.0,6,1
+European Centre for Living Technology,IT,4,4,0.0,3,1
+Institute for Complex Systems,IT,4,4,0.0,3,1
+Unidade Local de Saúde de Coimbra,PT,4,4,0.0,1,1
+Jan Evangelista Purkyně University in Ústí nad Labem,CZ,4,4,0.0,8,2
+RECETOX,CZ,4,4,0.0,8,1
+VERN' University,HR,2,4,0.0,11,5
+University of Ss. Cyril and Methodius in Trnava,SK,4,4,0.0034,13,10
+École nationale des ponts et chaussées,FR,1,4,0.0,14,5
+LEIZA - Leibniz-Zentrum für Archäologie,DE,4,4,0.0,5,1
+"Deutsches Archäologisches Institut, Zentrale",DE,4,4,0.0,5,1
+International School of Management,FR,4,4,0.0,8,1
+Bialystok University of Technology,PL,4,4,0.0,8,1
+École Polytechnique,FR,4,4,0.0,14,3
+Individual Development and Adaptive Education,DE,2,4,0.0,2,2
+Cyprus Pedagogical Institute,CY,4,4,0.0,9,1
+Collegio Carlo Alberto,IT,1,4,0.0,3,4
+Universidade Politécnica de Castelo Branco,PT,4,4,0.0005,7,2
+Université Catholique de Lille,FR,4,4,0.0,3,5
+National Center for Oncological Hadrontherapy,IT,4,4,0.0,6,1
+Novo Nordisk (Denmark),DK,4,4,0.0,11,2
+Hospital de Egas Moniz,PT,4,4,0.0,5,1
+Hospital de Santa Cruz,PT,4,4,0.0,5,1
+Ministry of Education and Religious Affairs,GR,2,4,0.0,9,5
+Hospital Universitari Arnau de Vilanova,ES,4,4,0.0,4,1
+Hallands sjukhus Halmstad,SE,4,4,0.0,4,1
+Hungarian Research Network,HU,4,4,0.0,13,1
+University Hospital in Motol,CZ,2,4,0.0,5,2
+"International Clinical Research Center, St. Anne's University Hospital Brno",CZ,2,4,0.0,5,2
+Zeppelin Universität gemeinnützige GmbH,DE,4,4,0.0,3,1
+National Bank of Slovakia,SK,4,4,0.0,3,1
+Université Paul Verlaine - Metz,FR,4,4,0.0,1,1
+Katholieke Hogeschool Zuid-West-Vlaanderen,BE,4,4,0.0,8,1
+Kliniken Essen-Mitte,DE,4,4,0.0,3,1
+Universidade Politécnica de Viana do Castelo,PT,4,4,0.0005,6,4
+Institut de Ciències del Cosmos,ES,2,4,0.0,4,2
+Agricultural University of Athens,GR,3,4,0.0,9,5
+Aerospace Valley,FR,4,4,0.0,1,1
+"REMIT – Research on Economics, Management and Information Technologies",PT,4,4,0.0,6,1
+Instituto Jurídico Portucalense,PT,4,4,0.0,6,1
+Vienna General Hospital,AT,4,4,0.0,3,1
+Dalarna University,SE,2,4,0.0,5,4
+Romanian-American University,RO,2,4,0.0,3,8
+Technical University of Applied Sciences Würzburg-Schweinfurt,DE,4,4,0.0001,14,4
+INSIGHT - Piaget Research Center for Ecological Human Development,PT,4,4,0.0,6,2
+Université catholique de lyon,FR,3,4,0.0,1,2
+Turku University of Applied Sciences,FI,4,4,0.0001,5,4
+Università degli Studi della Tuscia,IT,3,4,0.0,1,3
+German Centre for Integrative Biodiversity Research,DE,4,4,0.0,2,1
+Max Planck Institute for Biogeochemistry,DE,4,4,0.0,2,1
+Parc Sanitari Sant Joan de Déu,ES,4,4,0.0,6,1
+Centro Cardiologico Monzino,IT,4,4,0.0,3,2
+University Carlo Cattaneo,IT,2,4,0.0,3,3
+"Sofia University ""St. Kliment Ohridski""",BG,3,4,0.0,7,21
+Ospedale Santa Maria della Misericordia di Udine,IT,4,4,0.0,9,1
+Centre de Recherche en Neurosciences de Lyon,FR,2,4,0.0,1,2
+German University of Digital Science,DE,4,4,0.0,2,2
+Palacký University Olomouc,CZ,4,4,0.0004,8,6
+Valencia Catholic University Saint Vincent Martyr,ES,4,4,0.0,6,3
+RheinMain University of Applied Sciences,DE,4,4,0.0,2,2
+Institute of Ecology and Botany,HU,4,4,0.0,13,1
+"Academia Română, Filiala Iași",RO,2,4,0.0,10,2
+Centre Inria de l'Université de Lille,FR,2,4,0.0,1,3
+Nicolae Bălcescu Land Forces Academy,RO,4,4,0.0,10,4
+Helsinki Metropolia University of Applied Sciences,FI,4,4,0.0,1,3
+University of Gdańsk,PL,4,4,0.0014,8,5
+Darmstadt University of Applied Sciences,DE,4,4,0.0,2,2
+Wilhelm Büchner Hochschule,DE,4,4,0.0,2,2
+University Hospital Regensburg,DE,4,4,0.0,11,3
+"Institut und Poliklinik für Arbeits-, Sozial- und Umweltmedizin",DE,2,4,0.0,4,2
+University General Hospital Attikon,GR,4,4,0.0005,9,2
+Hôpital Universitaire Dupuytren,FR,4,4,0.0,1,1
+Épidémiologie des maladies chroniques en zone tropicale,FR,4,4,0.0,1,1
+Imec the Netherlands,NL,4,4,0.0,8,1
+University of Economics and Innovation,PL,3,4,0.0,8,4
+John Paul II Catholic University of Lublin,PL,3,4,0.0,8,7
+Université catholique de l'ouest,FR,2,4,0.0,7,2
+Stockholm South General Hospital,SE,4,4,0.0,3,1
+Siemens (Germany),DE,4,4,0.0,6,4
+Pixium Vision (France),FR,4,4,0.0,14,1
+University of Miskolc,HU,4,4,0.0005,13,9
+Leibniz Institute for Educational Media | Georg Eckert Institute,DE,4,4,0.0,4,2
+UMIT TIROL - Private University for Health Sciences and Health Technology,AT,4,4,0.0,2,4
+Lille Économie Management,FR,4,4,0.0,3,1
+HUN-REN Centre for Ecological Research,HU,4,4,0.0,13,1
+Laboratoire de Sciences Cognitives et Psycholinguistique,FR,4,4,0.0,1,1
+Chemnitz University of Technology,DE,4,4,0.0,2,3
+University of Education Schwaebisch Gmuend,DE,4,4,0.0,2,1
+Centre de Recherches en Histoire des Idées,FR,2,4,0.0,14,2
+Hyperion University,RO,4,4,0.0,10,1
+Humanitas University in Sosnowiec,PL,4,4,0.0005,5,4
+German Broadcasting Archive,DE,4,4,0.0,2,1
+German Center for Infection Research,DE,4,4,0.0,2,1
+Region Halland,SE,4,4,0.0,4,1
+Centre de recherche en Epidémiologie et Santé des Populations,FR,4,4,0.0,1,1
+Saarland University,DE,4,4,0.0029,2,23
+Silesian University in Opava,CZ,4,4,0.0,2,1
+Institute for Language and Speech Processing,GR,4,4,0.0,9,2
+G. Papanikolaou General Hospital,GR,3,4,0.0,9,2
+Max Planck Institute for Heart and Lung Research,DE,4,4,0.0,2,1
+Universities of Giessen and Marburg Lung Center,DE,4,4,0.0,2,1
+École Nationale de l’Aviation Civile,FR,4,4,0.0,3,1
+Deep Blue (Italy),IT,4,4,0.0,3,1
+Bernstein Center for Computational Neuroscience Freiburg,DE,2,4,0.0,2,2
+University of Konstanz,DE,4,4,0.0,3,6
+"ARAMIS: Algorithmes, modèles et méthodes pour les images et les signaux du cerveau humain sain et pathologique",FR,4,4,0.0,1,1
+Helmholtz-Zentrum Dresden-Rossendorf,DE,2,4,0.0,2,2
+Center for Advanced Systems Understanding,DE,2,4,0.0,2,2
+University of Applied Sciences Technikum Wien,AT,4,4,0.0,5,2
+Danube Private University,AT,4,4,0.0,5,2
+Austrian Center for Medical Innovation and Technology,AT,4,4,0.0,5,1
+Institute of National Economy,RO,4,4,0.0,10,2
+National Institute for Research and Development in Informatics - ICI Bucharest,RO,3,4,0.0,10,2
+LAB University of Applied Sciences,FI,2,4,0.0,3,3
+"Czech Academy of Sciences, Institute of Psychology",CZ,4,4,0.0,8,1
+TecnoCampus,ES,4,4,0.0,8,1
+Escola Superior de Enfermagem da Universidade do Porto,PT,4,4,0.0,6,1
+University of Security and Economics,BG,4,4,0.0,8,2
+École de management de Lyon,FR,4,4,0.0005,2,5
+Polish Geological Institute,PL,4,4,0.0,8,1
+Centrum Badań Kosmicznych,PL,4,4,0.0,8,1
+Université de Toulon,FR,4,4,0.0,1,1
+Institut Méditerranéen des Sciences de l'Information et de la Communication,FR,4,4,0.0,1,1
+Universidade Politécnica de Viseu,PT,4,4,0.0,6,5
+Universidade Católica Portuguesa - Braga,PT,4,4,0.0,6,1
+Université Toulouse-I-Capitole,FR,4,4,0.0,1,1
+Toulouse School of Management Research,FR,4,4,0.0,1,1
+Vlerick Business School,BE,4,4,0.0,1,1
+Instituto Superior Politécnico Gaya,PT,4,4,0.0005,6,3
+Philips (Netherlands),NL,4,4,0.0,4,1
+Medical Delta,NL,4,4,0.0,4,1
+Laboratoire d'Informatique de Bourgogne,FR,2,4,0.0,17,2
+Centre de Recherche en Sciences et Technologies de l'Information et de la Communication,FR,3,4,0.0,1,3
+Academy of Media Arts Cologne,DE,4,4,0.0,2,1
+Laboratoire Parole et Langage,FR,2,4,0.0,1,2
+Centro Hospitalar de Lisboa Ocidental,PT,4,4,0.0,5,1
+University of Pannonia,HU,4,4,0.0004,13,4
+Ostfalia University of Applied Sciences,DE,4,4,0.0005,2,4
+Wallenberg Centre for Molecular and Translational Medicine,SE,4,4,0.0,5,1
+Université de Bourgogne,FR,2,4,0.0,17,2
+Vasil Levski National Military University,BG,4,4,0.0,9,1
+Military University of Technology in Warsaw,PL,4,4,0.0,9,1
+Military Technical Academy,RO,4,4,0.0,9,1
+Max Planck Institute for Mathematics in the Sciences,DE,4,4,0.0,2,2
+Consorci Sanitari de Terrassa,ES,4,4,0.0,4,1
+Hospital Terrassa,ES,4,4,0.0,4,1
+Centrum Wiskunde & Informatica,NL,4,4,0.0,4,2
+Algebra Bernays University,HR,3,3,0.0,11,5
+IMDEA Networks,ES,2,3,0.0025,2,3
+Bordeaux Sciences Économiques,FR,3,3,0.0,1,1
+Max Planck Institute for Demographic Research,DE,2,3,0.0,5,4
+Brandenburg University of Technology Cottbus-Senftenberg,DE,2,3,0.0,4,3
+Helsinki Art Museum,FI,3,3,0.0,5,1
+Maastro Clinic,NL,3,3,0.0,4,1
+National Institute for Subatomic Physics,NL,3,3,0.0,4,1
+Research Foundation - Flanders,BE,3,3,0.0,5,1
+Institute of Criminology,SI,3,3,0.0,11,1
+IESE Business School,ES,2,3,0.0,7,2
+National Library of Portugal,PT,3,3,0.0,8,1
+Centro Interdisciplinar de História Culturas e Sociedades,PT,3,3,0.0,8,1
+"Czech Academy of Sciences, Institute of Philosophy",CZ,3,3,0.0,8,1
+Nutrition-Génétique et Exposition aux Risques Environnementaux,FR,3,3,0.0,1,1
+Université Paris-Sud,FR,3,3,0.0,1,1
+European Union,BE,3,3,0.0,4,2
+i2CAT,ES,2,3,0.0,7,2
+Poznań University of Economics and Business,PL,3,3,0.0005,11,3
+Cliniques Universitaires Saint-Luc,BE,3,3,0.0,4,1
+University of Agriculture in Krakow,PL,3,3,0.0,8,1
+Universidade Politécnica de Beja,PT,3,3,0.0,8,1
+Catholic University of Eichstätt-Ingolstadt,DE,2,3,0.0001,8,6
+Helsinki Institute of Physics,FI,3,3,0.0,5,1
+Helsinki Institute for Information Technology,FI,3,3,0.0,5,1
+University of Sannio,IT,3,3,0.0,3,1
+Trakia University,BG,3,3,0.0005,8,9
+South Eastern Finland University of Applied Sciences,FI,3,3,0.0001,8,4
+Laboratório de Instrumentação Engenharia Biomédica e Física da Radiação,PT,3,3,0.0,6,1
+Staatsbibliothek zu Berlin,DE,3,3,0.0,2,1
+Institut des Hautes Études Scientifiques,FR,3,3,0.0,4,1
+Laboratório de Instrumentação Engenharia Biomédica e Física da Radiação,PT,3,3,0.0,6,1
+University of Library Studies and Information Technologies,BG,3,3,0.0014,7,7
+Istituto Neurologico Mediterraneo,IT,3,3,0.0,3,1
+Universitätsklinikum Gießen und Marburg,DE,3,3,0.0,2,1
+Finsa (Italy),IT,3,3,0.0,3,1
+Institut des Sciences de l'Information et de leurs Interactions,FR,3,3,0.0,1,1
+SEAMLESS: Interaction et collaboration fluides à travers le continuum réalité-virtualité,FR,3,3,0.0,1,1
+Université Marie et Louis Pasteur,FR,3,3,0.0005,1,2
+Mykolas Romeris University,LT,3,3,0.0028,8,5
+Thomas More Kempen,BE,3,3,0.0,2,1
+Scuola Normale Superiore,IT,3,3,0.0,3,1
+Laboratoire Ondes et Milieux Complexes,FR,3,3,0.0,1,1
+Universitat de Lleida,ES,3,3,0.0,5,11
+Šibenik University of Applied Sciences,HR,3,3,0.0,11,2
+Conseil de L'Europe,FR,3,3,0.0,7,1
+Institute for Biomedicine,IT,3,3,0.0,5,1
+Reply (Italy),IT,3,3,0.0,3,1
+Hungarian Central Statistical Office,HU,3,3,0.0,13,1
+Apollonia University,RO,3,3,0.0,10,1
+University of Nyíregyháza,HU,3,3,0.0,10,1
+"Centro Tecnológico de Investigación, Desarrollo e Innovación en tecnologías de la Información y las Comunicaciones (TIC)",ES,3,3,0.0,7,2
+Vasile Goldis Western University of Arad,RO,3,3,0.0,10,1
+University of Medicine and Pharmacy of Craiova,RO,3,3,0.0,10,1
+"Spitalul Clinic Judeţean de Urgenţe ""Sf. Spiridon"" Iaşi",RO,3,3,0.0,10,1
+Adaptemy (Ireland),IE,3,3,0.0,2,1
+National Rehabilitation Center EKA,GR,3,3,0.0,6,1
+"Landesamt für Natur, Umwelt und Klima Nordrhein-Westfalen",DE,3,3,0.0,2,1
+Laboratório para a Ciência da Computação e Informática,PT,3,3,0.0,6,1
+International University of Andalucía,ES,3,3,0.0,7,1
+Gdańsk Medical University,PL,3,3,0.0,8,3
+Laboratoire d’Informatique et Systèmes,FR,3,3,0.0,3,1
+Poznan University of Medical Sciences,PL,3,3,0.0,3,2
+Istituto di Nanotecnologia,IT,2,3,0.0,3,2
+Kepler Universitätsklinikum,AT,3,3,0.0,2,1
+Universitätsklinikum St. Pölten,AT,3,3,0.0,2,1
+Apor Vilmos Katolikus Főiskola,HU,3,3,0.0,13,2
+VIVE - The Danish Center for Social Science Research,DK,3,3,0.0,11,1
+Rockwool Foundation,DK,3,3,0.0,11,1
+ADAPT - Centre for Digital Content Technology,IE,3,3,0.0,3,1
+Cyprus International University,CY,3,3,0.0,16,13
+University Mental Health Research Institute,GR,3,3,0.0,9,1
+University of Limerick,IE,3,3,0.0,5,17
+Lublin University of Technology,PL,3,3,0.0002,8,5
+Mendel University in Brno,CZ,3,3,0.0,8,2
+Laboratoire Mouvement Sport Santé,FR,3,3,0.0,1,1
+Wikimedia Deutschland,DE,3,3,0.0,2,1
+Furtwangen University,DE,3,3,0.0,1,3
+Institutul Naţional de Cercetare-Dezvoltare în Turism,RO,3,3,0.0,10,1
+Cyprus Aydin University,CY,3,3,0.0009,5,2
+Université de Picardie Jules Verne,FR,3,3,0.0005,9,4
+Ambis University,CZ,3,3,0.0,12,2
+Fraunhofer Institute for Computer Graphics Research,DE,3,3,0.0,2,1
+Universidad Europea de Canarias,ES,2,3,0.0,6,2
+Bologna Research Area,IT,3,3,0.0,3,1
+Ospedale dei Bambini Vittore Buzzi,IT,2,3,0.0,3,2
+Hospital Universitario Araba,ES,3,3,0.0,7,1
+Istituti Clinici Scientifici Maugeri,IT,3,3,0.0,3,2
+Achucarro Basque Center for Neuroscience,ES,3,3,0.0,3,1
+Istituto delle Scienze Neurologiche di Bologna,IT,3,3,0.0,3,1
+Athens Naval & Veterans Hospital,GR,3,3,0.0,9,1
+University of National and World Economy,BG,1,3,0.0,7,8
+Ştefan cel Mare University of Suceava,RO,3,3,0.0001,10,7
+IE University,ES,3,3,0.0001,4,3
+Brandenburg University of Applied Sciences,DE,3,3,0.0,10,1
+Pôle Léonard de Vinci,FR,3,3,0.0001,9,3
+Piraeus Bank,GR,3,3,0.0,9,1
+Biocrates Life Sciences (Austria),AT,3,3,0.0,9,1
+BioSerenity (France),FR,3,3,0.0,9,1
+Lithuanian Research Centre for Agriculture and Forestry,LT,3,3,0.0,2,1
+Centre Hospitalier Universitaire de Limoges,FR,3,3,0.0,1,1
+Institut d’Epidémiologie et de Santé Mondiale – Michel Dumas,FR,3,3,0.0,1,1
+Institute of Communication and Computer Systems,GR,2,3,0.0,9,3
+Södertörn University,SE,2,3,0.0,2,3
+Hochschule Bonn-Rhein-Sieg,DE,2,3,0.0,5,6
+Laboratoire de PhysioMédecine Moléculaire,FR,3,3,0.0,1,1
+Centre Hospitalier Universitaire de Saint-Pierre,BE,3,3,0.0,5,1
+Catholic University of Applied Social Sciences,DE,3,3,0.0,14,1
+School Centre Celje,SI,2,3,0.0,8,2
+Institute of Theoretical and Applied Informatics,PL,2,3,0.0,8,2
+University of Žilina,SK,3,3,0.0,12,6
+Instituto de Investigación Sanitaria del Principado de Asturias,ES,3,3,0.0,7,1
+Servicio de Salud del Principado de Asturias,ES,3,3,0.0,7,1
+Industrial Systems Institute,GR,3,3,0.0,9,1
+SGH Warsaw School of Economics,PL,3,3,0.0049,8,5
+Istituto di Farmacologia Traslazionale,IT,3,3,0.0,9,1
+Dublin Business School,IE,3,3,0.0,3,1
+University of Mediterranean Karpasia,CY,3,3,0.0,16,4
+Grenoble Ecole de Management,FR,3,3,0.0,3,2
+EURECAT Centre Tecnològic de Catalunya,ES,2,3,0.0,4,3
+Ziekenhuis Oost-Limburg,BE,3,3,0.0,3,1
+Jessa Hospital,BE,3,3,0.0,5,1
+University of Applied Sciences Mainz,DE,3,3,0.0005,2,3
+Aarhus Institute of Advanced Studies,DK,3,3,0.0,5,1
+"University of Veterinary Medicine Hannover, Foundation",DE,3,3,0.0,5,1
+ESSCA School of Management,FR,3,3,0.0001,1,2
+Département d'Informatique,FR,3,3,0.0,1,1
+University Hospital Dubrava,HR,2,3,0.0,11,2
+Polish-Japanese Academy of Information Technology,PL,3,3,0.0,5,2
+Latvia University of Life Sciences and Technologies,LV,3,3,0.0005,8,5
+Estonian University of Life Sciences,EE,3,3,0.0005,8,2
+Karl Landsteiner University of Health Sciences,AT,3,3,0.0,2,1
+Laboratoire interdisciplinaire de l'X,FR,3,3,0.0,8,1
+Eurac Research,IT,3,3,0.0,5,1
+Steno Diabetes Center North Jutland,DK,3,3,0.0,11,1
+International Renal Research Institute of Vicenza,IT,2,3,0.0,3,2
+ERN ReCONNET,IT,3,3,0.0,3,1
+LUNEX,LU,3,3,0.0,3,1
+Luxembourg Health & Sport Sciences Research Institute,LU,3,3,0.0,3,1
+Centre Hospitalier de Luxembourg,LU,3,3,0.0,3,1
+Ospedale San Bortolo,IT,2,3,0.0,3,2
+Laboratoire d'Informatique Gaspard-Monge,FR,3,3,0.0,1,1
+Unidade Local de Saúde de Braga,PT,3,3,0.0,6,1
+"Laboratoire d'Informatique, du Traitement de l'Information et des Systèmes",FR,1,3,0.0,1,3
+"Fraunhofer Institute for Communication, Information Processing and Ergonomics",DE,2,3,0.0,2,5
+Medical University of Białystok,PL,3,3,0.0034,2,2
+Mater Misericordiae University Hospital,IE,3,3,0.0,3,1
+National Medical Institute of the Ministry of Interior and Administration,PL,3,3,0.0005,2,2
+IRCCS Materno Infantile Burlo Garofolo,IT,3,3,0.0,3,1
+Instituto de Investigación Biomédica de Salamanca,ES,2,3,0.0,6,2
+University of Primorska,SI,1,3,0.0,4,13
+Aurel Vlaicu University of Arad,RO,3,3,0.0,10,6
+Dundalk Institute of Technology,IE,3,3,0.0,3,3
+Lappeenranta-Lahti University of Technology,FI,3,3,0.0,5,9
+Centro de Investigação em Artes e Comunicação,PT,3,3,0.0,6,1
+Université Nice Sophia Antipolis,FR,3,3,0.0,1,1
+Azienda Ospedaliera Ospedale Maggiore,IT,3,3,0.0,4,1
+Cork University Hospital,IE,2,3,0.0,5,2
+Netherlands Nutrition Centre,NL,3,3,0.0,4,1
+National Information Processing Institute,PL,3,3,0.0,8,2
+Constantin Brâncuși University of Targu Jiu,RO,1,3,0.0,10,3
+Kauno kolegija Higher Education Institution,LT,3,3,0.0,2,6
+INSA Hauts-de-France,FR,3,3,0.0,1,1
+United Nations University,PT,2,2,0.0,7,1
+Centre d'Études Internationales de la Propriété Intellectuelle,FR,2,2,0.0,7,1
+Clermont School of Business,FR,2,2,0.0,2,1
+Clermont Recherche Management,FR,2,2,0.0,2,1
+Alliance Bioversity International - CIAT,IT,2,2,0.0,4,1
+Hospital Universitario Insular de Gran Canaria,ES,2,2,0.0,7,1
+Centro de Supercomputación de Galicia,ES,2,2,0.0,3,1
+Azienda Ospedaliera San Giovanni Addolorata,IT,2,2,0.0,3,1
+Science for Life Laboratory,SE,2,2,0.0,5,1
+Universitätsklinikum Wiener Neustadt,AT,2,2,0.0,2,1
+Tallaght University Hospital,IE,2,2,0.0,3,1
+Association for Dental Education in Europe,IE,2,2,0.0,3,1
+Athens School of Fine Arts,GR,2,2,0.0,9,1
+Anatolia College,GR,2,2,0.0,9,1
+Bavarian Research Institute for Digital Transformation,DE,2,2,0.0,2,3
+Laboratoire Traitement et Communication de l’Information,FR,2,2,0.0,14,1
+Hospital District of Helsinki and Uusimaa,FI,2,2,0.0,5,1
+Rijnstate Hospital,NL,2,2,0.0,3,1
+Cologne Excellence Cluster on Cellular Stress Responses in Aging Associated Diseases,DE,2,2,0.0,3,1
+University of Applied Science Budapest,HU,2,2,0.0,13,1
+Centro de Investigação e Intervenção Social,PT,2,2,0.0,6,1
+EDC Paris Business School,FR,2,2,0.0,1,1
+Institut für Didaktik und Ausbildungsforschung in der Medizin,DE,2,2,0.0,2,1
+University Hospital of Heraklion,GR,2,2,0.0,9,1
+Hôtel-Dieu de Paris,FR,2,2,0.0,1,1
+Medicina,PL,2,2,0.0,6,1
+Institut d'Électronique et des Systèmes,FR,2,2,0.0,1,1
+Centre Hospitalier Universitaire de Nîmes,FR,2,2,0.0,1,1
+Microsoft (Ireland),IE,2,2,0.0,2,1
+Fraunhofer-Gesellschaft,DE,2,2,0.0,1,1
+Institute for Neurosciences of Montpellier,FR,2,2,0.0,3,1
+Brussels School of Governance,BE,2,2,0.0,5,2
+University Hospital Magdeburg,DE,1,2,0.0,2,2
+XLIM,FR,2,2,0.0,1,1
+Complejo Hospitalario de Salamanca,ES,2,2,0.0,6,1
+University of Applied Sciences Kehl,DE,2,2,0.0,4,1
+Pontifical University of John Paul II in Kraków,PL,2,2,0.0002,8,2
+University of Namur,BE,2,2,0.0,10,3
+NOVA School of Business and Economics,PT,1,2,0.0,6,3
+Fraunhofer Institute for Material Flow and Logistics,DE,2,2,0.0,2,1
+Ospedale di Cattinara,IT,2,2,0.0,4,1
+Deutsche Bundesbank,DE,2,2,0.0,2,1
+Académie de Nancy-Metz,FR,2,2,0.0,1,1
+Maison des Sciences Humaines et Sociales de Poitiers,FR,2,2,0.0,1,1
+"Formes et Représentations en Linguistique, Littérature et dans les arts de l’Image et de la Scène",FR,2,2,0.0,1,1
+Marqués de Valdecilla University Hospital,ES,2,2,0.0,5,1
+Universidad a Distancia de Madrid,ES,2,2,0.0,7,3
+Netherlands Organisation for Applied Scientific Research,NL,2,2,0.0,4,1
+German Institute for Adult Education – Leibniz Centre for Lifelong Learning,DE,2,2,0.0,2,1
+Harokopio University of Athens,GR,1,2,0.0,9,3
+Fraunhofer Institute for Applied and Integrated Security,DE,2,2,0.0,2,1
+Fraunhofer Institute for Secure Information Technology,DE,2,2,0.0,2,1
+Munich Cluster for Systems Neurology,DE,2,2,0.0,2,1
+Instituto Piaget,PT,2,2,0.0,6,1
+"Czech Academy of Sciences, Institute of Scientific Instruments",CZ,1,2,0.0,2,2
+Institut des Maladies Neurodégénératives,FR,2,2,0.0,1,1
+Centro de Investigação e Estudos de Sociologia,PT,2,2,0.0,6,1
+Elisabeth-TweeSteden Ziekenhuis,NL,2,2,0.0,9,1
+"Ministerio de Educación, Formación Profesional y Deportes",ES,2,2,0.0,7,1
+Celje School of Economics,SI,2,2,0.0,8,1
+Universidad del Atlántico Medio,ES,2,2,0.0,7,2
+European University Viadrina,DE,2,2,0.0,3,1
+Beaumont Hospital,IE,2,2,0.0,3,2
+Medisch Spectrum Twente,NL,1,2,0.0,4,2
+International Institute for Applied Systems Analysis,AT,2,2,0.0,4,1
+Zagreb School of Economics and Management,HR,2,2,0.0,11,4
+FORTH Institute of Applied and Computational Mathematics,GR,2,2,0.0,9,1
+VRVis GmbH (Austria),AT,2,2,0.0,4,1
+University of Białystok,PL,2,2,0.0,3,1
+Federal Institute for Vocational Education and Training,DE,2,2,0.0005,2,2
+Stockholm School of Economics,SE,2,2,0.0,4,1
+Sophiahemmet University College,SE,1,2,0.0,5,2
+Regional Government of Castile-La Mancha,ES,2,2,0.0,7,1
+Robert Koch Institute,DE,2,2,0.0,2,1
+Instituto de Investigación Avanzada en Empresa y Economía,ES,2,2,0.0,7,1
+Leibniz Supercomputing Centre,DE,2,2,0.0,2,1
+University of Split,HR,2,2,0.0025,11,25
+Centre for European Economic Research,DE,2,2,0.0,2,2
+Puigvert Foundation,ES,2,2,0.0,6,1
+Institute of Electronics and Computer Science,LV,1,2,0.0,4,2
+San Salvatore Hospital,IT,2,2,0.0,6,1
+Basque Centre for Climate Change,ES,2,2,0.0,7,1
+Sigma Technology (Hungary),HU,2,2,0.0,2,1
+University of Central Lancashire Cyprus,CY,1,2,0.0,5,2
+Intesa Sanpaolo (Italy),IT,2,2,0.0,3,1
+Nello Carrara Institute of Applied Physics,IT,2,2,0.0,3,1
+Universitatea Ioan Slavici,RO,2,2,0.0,10,2
+Institut für Angewandte Informatik (InfAI) e. V.,DE,2,2,0.0,3,1
+Fondation Gustave Roussy,FR,2,2,0.0,1,1
+Slovak Academy of Sciences,SK,2,2,0.0,13,1
+Institute of Experimental Physics of the Slovak Academy of Sciences,SK,2,2,0.0,13,1
+École Nationale Supérieure d'Ingénieurs du Mans,FR,2,2,0.0,12,1
+RISEBA University of Applied Sciences,LV,2,2,0.0,8,1
+ESIEA University,FR,2,2,0.0,1,3
+Statistical Service,CY,2,2,0.0,5,1
+Österreichische Computer Gesellschaft,AT,2,2,0.0,4,2
+University of Dubrovnik,HR,2,2,0.0,11,1
+Institute of Materials for Electronics and Magnetism,IT,2,2,0.0,9,1
+Comprehensive Health Research Centre,PT,2,2,0.0,6,1
+Varna University of Management,BG,2,2,0.0,10,1
+Zangador Research Institute,BG,2,2,0.0,10,1
+Hospital La Paz Institute for Health Research,ES,2,2,0.0,7,1
+MODUL University Vienna,AT,2,2,0.0,3,2
+Université d'Orléans,FR,2,2,0.0,1,1
+"Physiologie, Ecologie et Environnement",FR,2,2,0.0,1,1
+Institute of Computer Science,PL,2,2,0.0,8,1
+Université de Versailles Saint-Quentin-en-Yvelines,FR,2,2,0.0,1,3
+Soutenabilité et Résilence,FR,2,2,0.0,1,1
+Dimitrie Cantemir Christian University,RO,2,2,0.0,10,2
+Hospital Prof. Dr. Fernando Fonseca,PT,2,2,0.0,6,1
+Orange (France),FR,2,2,0.0025,1,2
+Laboratoire de Linguistique et Didactique des Langues Etrangères et Maternelles,FR,2,2,0.0,9,3
+University of Warmia and Mazury in Olsztyn,PL,2,2,0.0,3,4
+National Statistical Institute of Portugal,PT,2,2,0.0,6,1
+CORSE: Compiler Optimization and Run-time SystEms,FR,2,2,0.0,9,1
+Laboratoire de l'Informatique du Parallélisme,FR,2,2,0.0,9,1
+New Bulgarian University,BG,2,2,0.0005,7,5
+"University of Mining and Geology ""Saint Ivan Rilski""",BG,2,2,0.0009,7,2
+European Space Astronomy Centre,ES,2,2,0.0,8,1
+Hochschule Osnabrück,DE,2,2,0.0005,2,3
+Daugavpils University,LV,2,2,0.0,8,2
+Klaipėda University,LT,2,2,0.0,8,2
+Centro de Investigação Transdisciplinar Cultura Espaço e Memória,PT,2,2,0.0,6,1
+SMK University of Applied Social Sciences,LT,2,2,0.0,8,1
+Laboratoire Angevin de Recherche en Mathématiques,FR,2,2,0.0,1,1
+École Supérieure Angevine d'Informatique et de Productique,FR,2,2,0.0,1,1
+Vaasa University of Applied Sciences,FI,2,2,0.0,7,1
+Premedix,SK,2,2,0.0,12,1
+Europe Hospitals,BE,2,2,0.0,5,1
+Clausthal University of Technology,DE,2,2,0.0,2,4
+European Consortium of Innovative Universities,BE,2,2,0.0,2,1
+Marine Institute,IE,2,2,0.0,5,1
+IPAG Business School,FR,2,2,0.0,11,1
+Artificial Engineering (Italy),IT,1,2,0.0,5,2
+B2 (Slovenia),SI,2,2,0.0,8,2
+Centro de Investigação em Biodiversidade e Recursos Genéticos,PT,2,2,0.0,6,1
+Centre de Recherche en Éducation de Nantes,FR,2,2,0.0,1,2
+Matej Bel University,SK,2,2,0.0,8,2
+Technologies Numériques pour l'Éducation,FR,2,2,0.0,1,4
+École Nationale Supérieure de Mécanique et d'Aérotechnique,FR,2,2,0.0,1,1
+HOGENT University of Applied Sciences and Arts,BE,2,2,0.0,5,1
+University of Teacher Education Styria,AT,1,2,0.0,4,3
+Instituto Superior de Engenharia do Porto,PT,2,2,0.0,2,2
+IAE Paris - Sorbonne Business School,FR,2,2,0.0,1,1
+University of Naples - L'Orientale,IT,2,2,0.0,3,1
+Poznan Supercomputing and Networking Center,PL,2,2,0.0,13,1
+Centro de Matematica Aplicada à Previsão e Decisão Económica,PT,2,2,0.0,6,1
+Final International University,CY,2,2,0.0005,5,4
+Kozminski University,PL,2,2,0.0,8,5
+Établissement Français du Sang,FR,2,2,0.0,1,1
+Interactions Hôte-Greffon-Tumeur & Ingénierie Cellulaire et Génique,FR,2,2,0.0,1,1
+Atos (France),FR,2,2,0.0,9,1
+Consorci de Serveis Universitaris de Catalunya,ES,2,2,0.0,13,1
+Ionicon Analytik (Austria),AT,2,2,0.0,2,1
+John Paul II Hospital,PL,2,2,0.0,6,1
+Szpital Uniwersytecki w Krakowie,PL,2,2,0.0,6,1
+Barcelona Supercomputing Center,ES,2,2,0.0001,8,2
+RWI – Leibniz Institute for Economic Research,DE,2,2,0.0,3,1
+FWU Institut für Film und Bild in Wissenschaft und Unterricht,DE,2,2,0.0,2,1
+National Infrastructures for Research and Technology -  GRNET S.A,GR,2,2,0.0,9,1
+"Conservatorio di Musica ""Luca Marenzio""",IT,2,2,0.0,3,1
+"Hôpital Civil, Strasbourg",FR,2,2,0.0,1,1
+Médecine Cardiovasculaire Translationnelle,FR,2,2,0.0,1,1
+Lapland University of Applied Sciences,FI,2,2,0.0,5,1
+University Clinical Centre,PL,2,2,0.0,8,1
+Università degli Studi del Piemonte Orientale “Amedeo Avogadro”,IT,1,2,0.0,4,2
+Eberswalde University for Sustainable Development,DE,2,2,0.0,4,1
+European Observatory on Health Systems and Policies,BE,2,2,0.0,8,2
+Università degli Studi Internazionali di Roma,IT,2,2,0.0,3,1
+Ospedale D. Cotugno,IT,2,2,0.0,3,1
+Regione Campania,IT,2,2,0.0,3,1
+Instituto de Investigación Social Avanzada,ES,2,2,0.0,7,1
+Hungarian Academy of Sciences,HU,2,2,0.0,5,1
+"Czech Academy of Sciences, Institute of Information Theory and Automation",CZ,2,2,0.0,8,1
+Institute of Cognitive Neuroscience and Psychology,HU,2,2,0.0,13,1
+Społeczna Akademia Nauk,PL,2,2,0.0005,3,2
+Università Iuav di Venezia,IT,2,2,0.0,3,1
+Centro de Investigação e Inovação em Educação,PT,2,2,0.0,6,1
+Wojewódzki Szpital Zespolony im. Jędrzeja Śniadeckiego,PL,2,2,0.0,2,1
+Hospital Clínico Universitario de Valladolid,ES,1,2,0.0,5,3
+AstraZeneca (Sweden),SE,2,2,0.0,7,5
+Kiel Institute for the World Economy,DE,2,2,0.0,3,2
+University Hospital of Ioannina,GR,1,2,0.0,9,2
+Instituto Español de Oceanografía,ES,2,2,0.0,7,1
+École Supérieure de Commerce de Rennes,FR,2,2,0.0,6,2
+Istituto Nazionale di Documentazione Innovazione e Ricerca Educativa,IT,2,2,0.0,3,4
+Warszawska Akademia Medyczna Nauk Stosowanych,PL,2,2,0.0,8,1
+Finnair (Finland),FI,2,2,0.0,5,1
+"Laboratoire Cognition, Langues, Langage, Ergonomie",FR,2,2,0.0,1,1
+University of Bielsko-Biała,PL,2,2,0.0,8,1
+Centre Hospitalier Universitaire de Besançon,FR,2,2,0.0,4,1
+Juraj Dobrila University of Pula,HR,2,2,0.0,8,2
+Fachhochschule des Mittelstands,DE,2,2,0.0,5,3
+Trier University of Applied Sciences,DE,2,2,0.0,2,2
+University of Applied Sciences Emden Leer,DE,2,2,0.0,2,3
+VIB-UGent Center for Inflammation Research,BE,2,2,0.0,5,1
+Uniwersytet Kaliski im. Prezydenta Stanisława Wojciechowskiego,PL,2,2,0.0,8,1
+State University of Applied Sciences in Konin,PL,2,2,0.0,8,1
+Laboratório Associado TERRA,PT,2,2,0.0,6,1
+Hochschule für Technik und Wirtschaft des Saarlandes,DE,2,2,0.0,1,1
+Fraunhofer Institute for Industrial Mathematics,DE,2,2,0.0,2,1
+Luxembourg Institute of Socio-Economic Research,LU,2,2,0.0,15,2
+University of Insubria,IT,2,2,0.0,15,1
+Instituto Superior Técnico Instituto de Engenharia Mecânica,PT,2,2,0.0,6,1
+Leibniz Institute for Educational Trajectories,DE,1,2,0.0,2,2
+Spitalul Clinic Judetean de Urgenta Sibiu,RO,1,2,0.0,10,2
+Berlin School of Economics and Law,DE,2,2,0.0005,2,2
+Socialit Software & Consulting srl (Italy),IT,2,2,0.0,10,1
+Italian Institute of Technology,IT,1,2,0.0,3,3
+Ospedale Cannizzaro,IT,2,2,0.0,3,3
+ParisTech,FR,2,2,0.0,1,1
+Servicio Público de Empleo Estatal,ES,2,2,0.0,6,1
+European Corporate Governance Institute,BE,2,2,0.0,7,1
+NU Hospital Group,SE,2,2,0.0,4,1
+Hellenic Naval Academy,GR,2,2,0.0,9,1
+Lithuanian University of Health Sciences,LT,2,2,0.0,2,1
+Varna Free University,BG,2,2,0.0,7,1
+Karelia University of Applied Sciences,FI,2,2,0.0,5,2
+Budapest University of Technology and Economics,HU,2,2,0.0,2,9
+United Nations University Operating Unit on Policy-Driven Electronic Governance,PT,2,2,0.0,7,1
+Laboratoire Activité Connaissance Transmission Education,FR,1,1,0.0,2,1
+International Institute for Geo-Information Science and Earth Observation,NL,1,1,0.0,4,1
+Lukasiewicz Research Network - Krakow Institute of Technology,PL,1,1,0.0,5,1
+Uczelnia Łazarskiego,PL,1,1,0.0,2,1
+Sapientia Hungarian University of Transylvania,RO,1,1,0.0,13,1
+Institute for Education and Culture,DE,1,1,0.0,2,1
+Institut Supérieur d'Électronique de Paris,FR,1,1,0.0,3,1
+"Instituto de Física de Materiais Avançados, Nanotecnologia e Fotónica",PT,1,1,0.0,6,1
+Fundacion Agencia Aragonesa para la Investigacion y el Desarrollo,ES,1,1,0.0,10,1
+"Approches Linguistiques Théoriques, Appliquées et Expérimentales : langues et cultures connectées",FR,1,1,0.0,1,1
+Technical University of Applied Sciences Wildau,DE,1,1,0.0,2,1
+Centro de Estudos sobre a Mudança Socioeconómica e o Território,PT,1,1,0.0,6,1
+Life Quality Research Centre,PT,1,1,0.0,6,1
+Instituto Superior Autónomo de Estudos Politécnicos,PT,1,1,0.0,6,1
+Centro de Línguas Literaturas e Culturas,PT,1,1,0.0,6,1
+Ospedali Riuniti di Foggia,IT,1,1,0.0,3,1
+South East Technological University,IE,1,1,0.0,2,9
+UMR Géographie-cités,FR,1,1,0.0,1,1
+Ziekenhuisnetwerk Antwerpen Stuivenberg,BE,1,1,0.0,5,1
+Polish Mother’s Memorial Hospital Research Institute,PL,1,1,0.0,8,1
+FORTH Institute of Computer Science,GR,1,1,0.0,9,1
+WSB Merito University in Poznan,PL,1,1,0.0,11,3
+General University Hospital of Patras,GR,1,1,0.0,9,1
+Berlin University of the Arts,DE,1,1,0.0,14,2
+Häme University of Applied Sciences,FI,1,1,0.0,5,3
+Bureau d'Economie Théorique et Appliquée,FR,1,1,0.0,1,1
+German Sport University Cologne,DE,1,1,0.0,2,3
+University of Zadar,HR,1,1,0.0,11,3
+European Parliament,BE,1,1,0.0,4,1
+Governo dos Açores,PT,1,1,0.0,6,1
+Deutsches Jugendinstitut,DE,1,1,0.0,4,1
+IMDEA Software Institute,ES,1,1,0.0,2,1
+Irish Centre for High-End Computing,IE,1,1,0.0,5,1
+Instituto de Investigación Tecnológica,ES,1,1,0.0,6,2
+Centro de Investigação em Educação Básica,PT,1,1,0.0,6,1
+KME (Germany),DE,1,1,0.0,2,1
+Centre Borelli,FR,1,1,0.0,4,1
+Casa di Cura Columbus,IT,1,1,0.0,3,1
+Hochschule Fresenius,DE,1,1,0.0,10,2
+Catholic University in Ruzomberok,SK,1,1,0.0,13,4
+Spatial Services GmbH (Austria),AT,1,1,0.0,4,1
+Ecole des Hautes Etudes Commerciales du Nord,FR,1,1,0.0,2,1
+Institute of Technology Sligo,IE,1,1,0.0,5,1
+Comunidad de Madrid,ES,1,1,0.0,9,1
+Cineca,IT,1,1,0.0,3,1
+Management Center Innsbruck,AT,1,1,0.0,4,2
+Zdravstveni dom dr. Adolfa Drolca Maribor,SI,1,1,0.0,8,1
+Psychologie Ergonomique et Sociale pour l'Expérience Utilisateurs,FR,1,1,0.0,1,1
+Hôpital Fernand-Widal,FR,1,1,0.0,1,1
+Westsächsische Hochschule Zwickau,DE,1,1,0.0,2,2
+Ferdinand Porsche FERNFH,AT,1,1,0.0,4,1
+WHU – Otto Beisheim School of Management,DE,1,1,0.0,2,2
+Grupo de Investigação em Engenharia e Computação Inteligente para a Inovação e o Desenvolvimento,PT,1,1,0.0,6,1
+Autonomous University of Lisbon,PT,1,1,0.0,6,1
+Sciensano (Belgium),BE,1,1,0.0,5,1
+EUIT Centre Universitari,ES,1,1,0.0,6,1
+Rochester Institute of Technology Croatia,HR,1,1,0.0,3,3
+"Academy of Arts, Architecture and Design in Prague",CZ,1,1,0.0,6,1
+University of Skövde,SE,1,1,0.0,5,2
+Max Planck Institute for Intelligent Systems,DE,1,1,0.0,3,2
+"Institut für Medizinische Informationsverarbeitung, Biometrie und Epidemiologie",DE,1,1,0.0,4,1
+Universidade Lusófona de Humanidades e Tecnologias,PT,1,1,0.0,6,1
+Erasmus MC Cancer Institute,NL,1,1,0.0,4,1
+Trans-European Research and Education Networking Association,NL,1,1,0.0,4,1
+Environmental Earth Observation Information Technology (Austria),AT,1,1,0.0,3,1
+Toulouse School of Economics Research,FR,1,1,0.0,3,1
+Max Planck Institute for Astronomy,DE,1,1,0.0,4,1
+Agrupamento de Escolas Nuno Álvares,PT,1,1,0.0,7,1
+FH Aachen,DE,1,1,0.0,3,1
+JAMK University of Applied Sciences,FI,1,1,0.0,5,3
+"University of Architecture, Civil Engineering and Geodesy",BG,1,1,0.0,7,1
+d-fine (Germany),DE,1,1,0.0,2,1
+University of Zagreb University Computing Centre,HR,1,1,0.0,11,2
+Duale Hochschule Baden Württemberg Mannheim,DE,1,1,0.0,2,1
+Elvac Ekotechnika (Czechia),CZ,1,1,0.0,2,1
+Hanken School of Economics,FI,1,1,0.0,14,1
+Società Italiana di Cardiologia,IT,1,1,0.0,3,1
+Georges Friedel Laboratory,FR,1,1,0.0,12,1
+Fondazione IRCCS Istituto Neurologico Carlo Besta,IT,1,1,0.0,9,1
+KIOS Research and Innovation Center of Excellence,CY,1,1,0.0,9,1
+International Institute of Social Studies,NL,1,1,0.0,4,1
+Laboratoire de Météorologie Dynamique,FR,1,1,0.0,1,1
+National Defence University,FI,1,1,0.0,3,1
+Instituto Tecnológico de la Energía,ES,1,1,0.0,7,1
+Expert System (Italy),IT,1,1,0.0,3,1
+Consorzio Nazionale Interuniversitario per le Telecomunicazioni,IT,1,1,0.0,3,1
+Université Toulouse Capitole,FR,1,1,0.0,1,1
+Fondazione Toscana Gabriele Monasterio,IT,1,1,0.0,2,2
+Centro Cardiovascular da Universidade de Lisboa,PT,1,1,0.0,6,1
+Don Carlo Gnocchi Foundation,IT,1,1,0.0,3,1
+Red Cross Hospital,GR,1,1,0.0,9,1
+"Azienda Ospedaliera Universitaria Policlinico ""G. Martino""",IT,1,1,0.0,3,1
+Sociedade Portuguesa de Estatística,PT,1,1,0.0,6,1
+Private Pädagogische Hochschule der Diözese Linz,AT,1,1,0.0,6,2
+"Instituto de Artes Visuais, Design e Marketing",PT,1,1,0.0,6,1
+Department of Cultural Heritage,LT,1,1,0.0,3,1
+RMIT Europe,ES,1,1,0.0,3,1
+Research Institute for Geo-Hydrological Protection,IT,1,1,0.0,3,1
+Girne American University,CY,1,1,0.0,5,5
+Hochschule Bielefeld,DE,1,1,0.0,4,2
+Aeres University of Applied Sciences,NL,1,1,0.0,4,1
+International School for Social and Business Studies,SI,1,1,0.0,8,2
+Artifex University,RO,1,1,0.0,10,1
+Evangelismos Hospital,GR,1,1,0.0,9,1
+United Nations Office on Drugs and Crime,AT,1,1,0.0,5,1
+Institute of Rheumatology,CZ,1,1,0.0,5,1
+Oulu University of Applied Sciences,FI,1,1,0.0,8,1
+SLUB Dresden,DE,1,1,0.0,2,1
+BioTechMed-Graz,AT,1,1,0.0,4,1
+Berlin School of Business and Innovation GmbH,DE,1,1,0.0,4,5
+GESIS - Leibniz Institute for the Social Sciences,DE,1,1,0.0,2,2
+Istituto Nazionale di Ricerca Metrologica,IT,1,1,0.0,3,1
+Max Planck Institute for Innovation and Competition,DE,1,1,0.0,3,2
+Aschaffenburg University of Applied Sciences,DE,1,1,0.0,3,1
+European Training Foundation,IT,1,1,0.0,4,1
+Games Interaction and Learning Technologies,PT,1,1,0.0,6,1
+Corfu General Clinic,GR,1,1,0.0,5,1
+CAMPUS 02 University for Applied Sciences,AT,1,1,0.0,4,1
+Fundació ACE,ES,1,1,0.0,12,1
+Centre de recherche sur le travail et le développement,FR,1,1,0.0,1,1
+Kazimierz Pułaski University of Technology and Humanities in Radom,PL,1,1,0.0,8,1
+Akademia Ignatianum w Krakowie,PL,1,1,0.0,8,1
+Faculty of Applied Social Studies in Nova Gorica,SI,1,1,0.0,4,1
+Vilnius University of Applied Sciences,LT,1,1,0.0,8,2
+Oberon (Netherlands),NL,1,1,0.0,4,1
+Instituto Pedro Nunes,PT,1,1,0.0,6,1
+Institute for Economic Research,SI,1,1,0.0,4,1
+Bank of Italy,IT,1,1,0.0,3,4
+National Center for Supercomputing Applications,BG,1,1,0.0,3,1
+Rezekne Academy of Technologies,LV,1,1,0.0,3,2
+Software Technology and Applications Competence Center,EE,1,1,0.0,2,1
+Centre Hospitalier Universitaire de Liège,BE,1,1,0.0,7,1
+Centro de Estudos do Ambiente e do Mar,PT,1,1,0.0,6,1
+Universitat de Girona,ES,1,1,0.0,12,6
+Gobierno de Canarias,ES,1,1,0.0,5,1
+Ovidius University,RO,1,1,0.0,10,3
+Harz University of Applied Sciences,DE,1,1,0.0,9,5
+Pôle de recherche et d'enseignement supérieur Université de Grenoble,FR,1,1,0.0,9,1
+Hôpital Sainte-Marguerite,FR,1,1,0.0,1,1
+Institute of Genetics and Animal Biotechnology of the Polish Academy of Sciences,PL,1,1,0.0,8,1
+Fondazione Umberto Veronesi,IT,1,1,0.0,3,1
+Slovak University of Technology in Bratislava,SK,1,1,0.0,7,6
+Anhalt University of Applied Sciences,DE,1,1,0.0,2,3
+Škoda Auto University,CZ,1,1,0.0,7,3
+Gesellschaft für wissenschaftliche Datenverarbeitung mbH Göttingen,DE,1,1,0.0,2,1
+Frederick University,CY,1,1,0.0,9,3
+Wittenborg University,NL,1,1,0.0,6,1
+Aalborg Centre for Problem Based Learning in Engineering Science and Sustainability,DK,1,1,0.0,11,3
+Central European University,AT,1,1,0.0,13,2
+Sismanoglio General Hospital,GR,1,1,0.0,9,1
+LIP - Laboratory of Instrumentation and Experimental Particle Physics,PT,1,1,0.0,2,1
+Romanian Research and Development Institute for Gas Turbines,RO,1,1,0.0,10,1
+IULM University,IT,1,1,0.0,14,2
+Instituto Superior de Educação e Ciências,PT,1,1,0.0,6,1
+Instituto Nazionale Tumori Regina Elena,IT,1,1,0.0,3,1
+FH JOANNEUM University of Applied Sciences,AT,1,1,0.0,4,3
+Laboratoire d'Urbanisme,FR,1,1,0.0,1,1
+Complexo Hospitalario Universitario A Coruña,ES,1,1,0.0,4,1
+Escuela Superior de Diseño de Aragón,ES,1,1,0.0,7,1
+"Laboratoire Angevin de Mécanique, Procédés et InnovAtion",FR,1,1,0.0,1,1
+Paris School of Technology and Business,FR,1,1,0.0,3,1
+Design School Kolding,DK,1,1,0.0,11,1
+University College Lillebaelt,DK,1,1,0.0,5,1
+LVR-Klinik Köln,DE,1,1,0.0,2,1
+Technical University of Gabrovo,BG,1,1,0.0,8,3
+Józef Piłsudski University of Physical Education in Warsaw,PL,1,1,0.0,8,1
+Centre de Recherche en Informatique,FR,1,1,0.0,1,1
+FOM University of Applied Sciences for Economics and Management,DE,1,1,0.0,2,2
+Faculty of Mechanical Engineering and Naval Architecture in Zagreb,HR,1,1,0.0,11,1
+"Fraunhofer Institute for Telecommunications, Heinrich Hertz Institute",DE,1,1,0.0,2,2
+Marconi University,IT,1,1,0.0,7,1
+AcrossLimits,MT,1,1,0.0,4,1
+Ventspils University of Applied Sciences,LV,1,1,0.0,4,1
+Institute of Mechanical Engineering and Industrial Mangement,PT,1,1,0.0,6,1
+Dortmund University of Applied Sciences and Arts,DE,1,1,0.0,2,2
+Deggendorf Institute of Technology,DE,1,1,0.0,10,2
+University of Oradea,RO,1,1,0.0,8,3
+FH Münster University of Applied Sciences,DE,1,1,0.0,2,1
+Netherlands Food and Consumer Product Safety Authority,NL,1,1,0.0,4,1
+Institut za filozofiju,HR,1,1,0.0,9,1
+International Association for the Evaluation of Educational Achievement,NL,1,1,0.0,2,3
+Akademia Śląska,PL,1,1,0.0,8,1
+Istituto Universitario di Studi Superiori di Pavia,IT,1,1,0.0,3,2
+Hanover University of Music Drama and Media,DE,1,1,0.0,2,1
+Clinical Emergency Hospital Bucharest,RO,1,1,0.0,10,1
+Klinikum Klagenfurt,AT,1,1,0.0,3,1
+Wekerle Business School,HU,1,1,0.0,13,5
+Zachodniopomorska Szkoła Biznesu w Szczecinie,PL,1,1,0.0,8,1
+Institutul de Cercetare a Calităţii Vieţii,RO,1,1,0.0,3,1
+Azienda Socio Sanitaria Territoriale Grande Ospedale Metropolitano Niguarda,IT,1,1,0.0,3,1
+Junta de Andalucía,ES,1,1,0.0,7,1
+Centro Universitario Internazionale,IT,1,1,0.0,3,1
+University of Pardubice,CZ,1,1,0.0,8,2
+Technological Educational Institute of Western Greece,GR,1,1,0.0,9,2
+Instituto de Ciencia de Materiales de Madrid,ES,1,1,0.0,9,1
+National Institute of Hydrology and Water Management,RO,1,1,0.0,10,1
+Erasmus MC - Sophia Children’s Hospital,NL,1,1,0.0,4,1
+Bernstein Center for Computational Neuroscience Tübingen,DE,1,1,0.0,2,1
+École Supérieure d'Ingénieurs en Génie Électrique,FR,1,1,0.0,5,1
+"HTWG Hochschule Konstanz - Technik, Wirtschaft und Gestaltung",DE,1,1,0.0,2,3
+Laboratoire interdisciplinaire de recherches en sciences de l'action,FR,1,1,0.0,1,1
+Hochschule Magdeburg-Stendal,DE,1,1,0.0,12,2
+Technische Hochschule Ingolstadt,DE,1,1,0.0,3,1
+Istituto di Studi sul Mediterraneo (CNR - ISMed),IT,1,1,0.0,3,1
+Instituto Superior Miguel Torga,PT,1,1,0.0,6,1
+ESTA Ecole Supérieure des Technologies et des Affaires,FR,1,1,0.0,1,1
+Centre Hospitalier du Mans,FR,1,1,0.0,12,1
+Pain in Motion,BE,1,1,0.0,5,1
+Wrocław University of Environmental and Life Sciences,PL,1,1,0.0,8,1
+"Malta College of Arts, Science and Technology",MT,1,1,0.0,2,6
+Munich University of Applied Sciences,DE,1,1,0.0,7,7
+Tgm,AT,1,1,0.0,2,2
+University of Prešov,SK,1,1,0.0,13,3
+Università degli Studi Suor Orsola Benincasa,IT,1,1,0.0,3,2
+Heilbronn University,DE,1,1,0.0,2,6
+University of West Bohemia in Pilsen,CZ,1,1,0.0,7,3
+Einstein Center Digital Future,DE,1,1,0.0,2,1
+Agroresursu un ekonomikas institūts,LV,1,1,0.0,8,1
+Institut Jules Bordet,BE,1,1,0.0,5,1
+University of Applied Sciences Ravensburg-Weingarten,DE,1,1,0.0,2,1
+Generalitat Valenciana,ES,1,1,0.0,7,1
+"""Dunarea de Jos"" University of Galati",RO,1,1,0.0,10,8
+Instituts Universitaires de Technologie,FR,1,1,0.0,12,1
+National University of Theatre and Film I.L. Caragiale,RO,1,1,0.0,10,1
+"Milieux environnementaux, transferts et interactions dans les hydrosystèmes et les sols",FR,1,1,0.0,13,1
+Catholic University of Ávila,ES,1,1,0.0,6,4
+Institut für Forschung und Transfer,DE,1,1,0.0,2,1
+Unidade de Investigação em Desenvolvimento Empresarial,PT,1,1,0.0,6,1
+Warsaw University of Life Sciences,PL,1,1,0.0,8,6
+Centro de Inovação e Investigação em Ciências Empresariais e Sistemas de Informação,PT,1,1,0.0,6,1
+Istituto Nazionale di Statistica,IT,1,1,0.0,3,3
+Deutsches Elektronen-Synchrotron DESY,DE,1,1,0.0,2,1
+Kranj School Centre,SI,1,1,0.0,9,1
+Loewe Center for Synthetic Microbiology,DE,1,1,0.0,2,1
+Institut de Recerca i Innovació Educativa,ES,1,1,0.0,7,1
+Sankt Hans Hospital,DK,1,1,0.0,10,2
+"Laboratoire d'Economie, Finance, Management et Innovation",FR,1,1,0.0,9,1
+Université Paris Dauphine-PSL,FR,1,1,0.0,1,1
+Inholland University of Applied Sciences,NL,1,1,0.0,4,1
+Lusíada University of Lisbon,PT,1,1,0.0,6,1
+Azienda Universitaria Ospedaliera Consorziale - Policlinico Bari,IT,1,1,0.0,3,1
+Department of Education,ES,1,1,0.0,7,1
+University College Absalon,DK,1,1,0.0,3,1
+Hospital Universitario Río Hortega,ES,1,1,0.0,5,1
+Elisava Barcelona School of Design and Engineering,ES,1,1,0.0,2,1
+Hospital La Luz,ES,1,1,0.0,7,1
+Uppsala University Hospital,SE,1,1,0.0,5,1
+Hanze University of Applied Sciences,NL,1,1,0.0,4,1
+Institut Agro Dijon,FR,1,1,0.0,1,1

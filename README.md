@@ -33,8 +33,14 @@ Two layers: **ALL** (everything from OpenAlex) and **STRICT** (Scopus-listed sou
 ├── data/{raw,external,processed}/   # raw pulls / hand-fetched lists / ALL+STRICT
 ├── notebooks/                       # counts, exploration, analysis
 ├── src/                             # pipeline code
-└── docs/                            # guide, checklist, data dictionary, AI-use log
+├── docs/                            # guide, checklist, data dictionary, AI-use log
+├── project-d/                       # final project report and summary scripts
+└── project-d/data/processed/        # prepared candidate / strict outputs
 ```
+
+## Final project deliverables
+- `project-d/FINAL_REPORT.md` — final narrative report
+- `project-d/final_project_summary.py` — quick summary script for the processed data
 
 ## Scope
 > Default: **EU-27** (editable). Team to confirm EU-27 vs broader Europe (incl. UK/NO/CH).

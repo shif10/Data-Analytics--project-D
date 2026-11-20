@@ -1,0 +1,13 @@
+,Largest component only (Keerthana method) | all candidates (Keerthana),Largest component only (Keerthana method) | STRICT only (John),All non-isolated institutions (John method) | all candidates (Keerthana),All non-isolated institutions (John method) | STRICT only (John)
+papers,7594.0,2972.0,7594.0,2972.0
+institutions,2489.0,1665.0,2489.0,1665.0
+links,13408.0,7624.0,13408.0,7624.0
+largest_component,2124.0,1459.0,2210.0,1522.0
+communities,17.0,18.0,57.0,47.0
+large_communities (>=30),14.0,16.0,12.0,17.0
+modularity,0.59,0.638,0.591,0.642
+modularity_country_baseline,0.5,0.471,0.5,0.472
+nmi_vs_country,0.465,0.363,0.457,0.39
+cross_border_share_of_weight,0.383,0.419,0.383,0.418
+within_community_share_of_weight,0.708,0.721,0.708,0.719
+within_community_share_of_ties,0.67,0.706,0.672,0.705

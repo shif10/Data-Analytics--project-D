@@ -1,0 +1,18 @@
+community,institutions,top_country,purity,top_3_countries,countries,hubs
+1,302,FR,0.9,"FR 271, PT 9, DE 7",10,Centre National de la Recherche Scientifique; Inserm; Sorbonne Université
+2,300,DE,0.75,"DE 226, AT 12, FR 12",18,Technical University of Munich; University of Tübingen; Charité – Universitätsmedizin Berlin
+3,298,IT,0.61,"IT 181, DE 30, FR 18",22,Vrije Universiteit Amsterdam; University of Naples Federico II; National Research Council
+4,224,NL,0.32,"NL 71, ES 43, DE 24",20,Ludwig-Maximilians-Universität München; Amsterdam University Medical Centers; Radboud University Nijmegen
+5,168,FI,0.23,"FI 38, BE 27, SE 21",19,Karolinska Institutet; University of Eastern Finland; University of Helsinki
+6,147,PT,0.71,"PT 104, ES 25, PL 4",10,Universidade do Porto; University of Lisbon; Universitat Oberta de Catalunya
+7,146,ES,0.67,"ES 98, BG 12, FR 7",13,Universidad Complutense de Madrid; Universidad Rey Juan Carlos; Universidad Autónoma de Madrid
+8,130,PL,0.47,"PL 61, CZ 17, LT 8",20,Czech Technical University in Prague; University of Maribor; Polish Academy of Sciences
+9,127,GR,0.47,"GR 60, FR 18, IT 10",17,National and Kapodistrian University of Athens; Aristotle University of Thessaloniki; University of Patras
+10,68,RO,0.65,"RO 44, FR 8, DE 3",11,Universitatea Națională de Știință și Tehnologie Politehnica București; Bucharest University of Economic Studies; Universidad de Zaragoza
+11,61,DK,0.48,"DK 29, HR 20, DE 4",8,University of Copenhagen; Copenhagen University Hospital; Rigshospitalet
+12,52,FR,0.44,"FR 23, DE 13, ES 4",9,University of Bonn; Leibniz University Hannover; L3S Research Center
+13,48,HU,0.52,"HU 25, SK 8, FR 4",10,Obuda University; Eötvös Loránd University; Széchenyi István University
+14,37,FR,0.46,"FR 17, DE 6, IT 5",7,University of Catania; Institut Polytechnique de Paris; European Commission
+15,6,LU,0.5,"LU 3, FR 2, IT 1",3,University of Luxembourg; Luxembourg Institute of Science and Technology; Université de technologie de belfort-montbéliard
+16,5,CY,1.0,CY 5,1,Near East University; University of Kyrenia; Atatürk Teacher Training Academy
+17,5,FR,1.0,FR 5,1,"Université de Franche-Comté; Université Bourgogne Franche-Comté; Edition, Littératures, Langages, Informatique, Arts, Didactiques, Discours"
