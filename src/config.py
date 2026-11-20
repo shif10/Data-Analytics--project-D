@@ -3,9 +3,27 @@ Project D — central configuration.
 Edit the values here; the rest of the pipeline imports from this file.
 """
 
+import os
+from pathlib import Path
+
+# Load API key from the project-root .env file.
+ENV_PATH = Path(__file__).resolve().parent.parent / ".env"
+
+if ENV_PATH.exists():
+    for line in ENV_PATH.read_text(encoding="utf-8").splitlines():
+        line = line.strip()
+        if line and not line.startswith("#") and "=" in line:
+            key, _, value = line.partition("=")
+            os.environ.setdefault(
+                key.strip(),
+                value.strip().strip('"').strip("'")
+            )
+
+OPENALEX_API_KEY = os.getenv("OPENALEX_API_KEY", "")
+
 # --- Politeness: OpenAlex asks you to identify yourself (the "polite pool"). ---
 # Put a real email here. It only identifies you for rate-limiting; no key needed.
-MAILTO = "you@example.com"   # <-- CHANGE THIS
+MAILTO = "johnmanchidi@gmail.com"
 
 # --- Scope: which countries count as "European" for the co-author filter. ---
 # Default = EU-27. To use a broader "Europe", add e.g. "gb", "no", "ch", "is".
